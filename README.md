@@ -1,6 +1,12 @@
 # 📊 Social Media Performance Dashboard
 
-## 📌 Project Overview
+## Dashboard Preview
+
+![Dashboard](dashboard_preview.jpg)
+
+---
+
+# 📌 Project Overview
 
 The **Social Media Performance Dashboard** is an end-to-end **Data Analytics & Business Intelligence project** built using **SQL** and **Power BI**.
 
@@ -452,13 +458,13 @@ This project demonstrates practical end-to-end Data Analytics and Business Intel
 Social-Media-Performance-Dashboard/
 │
 ├── README.md
-├── Social_Media_Performance_Dashboard.pbix
-├── PowerBI_Transformed_social_media_performance_dataset.csv
-├── Social media performance Queries.sql
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── trend_analysis.png
-│   └── region_analysis.png
+├── social_media_dashboard.pbix
+├── social_media_dataset.csv
+├── transformed_dataset.xlsx
+├── social_media_queries.sql
+├── project_report.pdf
+├── dashboard_preview.jpg
+└── dashboard_overview.jpg
 ```
 
 ---
@@ -467,7 +473,7 @@ Social-Media-Performance-Dashboard/
 
 🚀 Built a complete Social Media Performance Dashboard using SQL and Power BI.
 
-## Key Highlights:
+## Key Highlights
 
 * Performed data cleaning and transformation using SQL and Power Query
 * Built DAX measures for KPI analysis
@@ -475,7 +481,7 @@ Social-Media-Performance-Dashboard/
 * Conducted platform, regional, engagement, and content analysis
 * Used advanced SQL concepts including Joins, Subqueries, HAVING Clause, and Window Functions
 
-## Tools Used:
+## Tools Used
 
 * SQL
 * Power BI
