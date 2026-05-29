@@ -1,0 +1,1001 @@
+post_id,platform,content_type,topic,language,region,post_datetime,hashtags,sentiment_score,views,likes,comments,shares,engagement_rate,is_viral,post_date,post_time,followers,engagement_level,follower_category,creator_id
+1,LinkedIn,article,Technology,UR,BR,"2025-04-25 09:47:00","#AI #Innovation #TechTrends #Programming #CodingLife #DataScience #MachineLearning",0.76,37781,1202,462,185,0.049,0,2025-04-25,09:47:00,490,LOW,SMALL,5
+2,LinkedIn,poll,Health,FR,JP,"2025-10-29 09:44:00","#Fitness #Nutrition #Wellness #Health #MentalHealth #HealthTips",0.46,23541,1399,538,215,0.0915,1,2025-10-29,09:44:00,915,LOW,SMALL,5
+3,LinkedIn,article,Travel,HI,FR,"2025-02-10 14:12:00","#Travel #Journey #Adventure #Tourism #ExploreMore #Wanderlust",-0.01,30714,1663,639,255,0.0833,1,2025-02-10,14:12:00,833,LOW,SMALL,5
+4,LinkedIn,image,Sports,DE,DE,"2025-04-18 22:41:00","#Cricket #Workout #Fitness",0.55,31294,1372,528,211,0.0675,0,2025-04-18,22:41:00,675,LOW,SMALL,5
+5,LinkedIn,poll,Business,DE,US,"2025-04-28 10:17:00","#Entrepreneur #Leadership #StartupLife",0.7,43129,2234,859,343,0.0797,0,2025-04-28,10:17:00,796,LOW,SMALL,5
+6,LinkedIn,image,Sports,FR,AU,"2025-10-03 15:25:00","#Fitness #Training #Cricket #Basketball #Sports",0.23,11016,633,243,97,0.0885,1,2025-10-03,15:25:00,885,LOW,SMALL,5
+7,LinkedIn,carousel,Food,HI,FR,"2025-07-15 15:16:00","#Food #MustTry #Cooking #Recipe #Foodie #FoodBlog",0.49,1212,104,40,16,0.1323,1,2025-07-15,15:16:00,1323,LOW,SMALL,5
+8,LinkedIn,image,Fashion,ES,AU,"2025-02-24 09:40:00","#FashionTips #Style #Lookbook #TrendingStyle #Fashion #OOTD",0.69,8331,737,283,113,0.1363,1,2025-02-24,09:40:00,1363,LOW,SMALL,5
+9,LinkedIn,image,Business,EN,BR,"2025-10-18 02:31:00","#Leadership #Entrepreneur #Hustle",0.97,11821,460,177,70,0.06,0,2025-10-18,02:31:00,600,LOW,SMALL,5
+10,LinkedIn,poll,Health,FR,AU,"2025-12-20 14:42:00","#Fitness #MentalHealth #HealthTips #Health #Nutrition #Wellness",0.41,37301,1170,450,180,0.0483,0,2025-12-20,14:42:00,483,LOW,SMALL,5
+11,LinkedIn,video,Technology,HI,US,"2025-04-28 09:04:00","#MachineLearning #DataScience #TechTrends #Programming #CodingLife #AI #Innovation",0.68,27677,845,325,130,0.047,0,2025-04-28,09:04:00,470,LOW,SMALL,5
+12,LinkedIn,article,Health,DE,FR,"2025-07-30 09:41:00","#Health #Nutrition #MentalHealth #Fitness #Wellness #HealthTips",0.51,30400,774,298,119,0.0392,0,2025-07-30,09:41:00,392,LOW,SMALL,5
+13,LinkedIn,video,Lifestyle,JA,BR,"2025-02-08 09:41:00","#Lifestyle #MindfulLiving #DailyLife #Wellness #Positivity #Motivation",0.92,4842,146,56,22,0.0465,0,2025-02-08,09:41:00,465,LOW,SMALL,5
+14,LinkedIn,article,Health,UR,JP,"2025-05-27 15:12:00","#Wellness #Health #HealthTips #Fitness #Nutrition",0.75,33954,3025,1163,465,0.1371,1,2025-05-27,15:12:00,1371,LOW,SMALL,5
+15,LinkedIn,poll,Sports,EN,AU,"2025-02-11 02:04:00","#Training #Fitness #Basketball #Sports #Football #Cricket #Workout",0.65,39251,2332,897,358,0.0914,1,2025-02-11,02:04:00,914,LOW,SMALL,5
+16,LinkedIn,image,Lifestyle,FR,DE,"2025-05-03 10:41:00","#Positivity #Motivation #Lifestyle #MindfulLiving #DailyLife",0.74,7552,163,63,25,0.0334,0,2025-05-03,10:41:00,334,LOW,SMALL,5
+17,LinkedIn,video,Fashion,UR,MX,"2025-06-28 07:18:00","#TrendingStyle #FashionTips #OOTD #Lookbook",-0.27,35664,442,170,68,0.0191,0,2025-06-28,07:18:00,191,LOW,SMALL,5
+18,LinkedIn,poll,Lifestyle,HI,MX,"2025-05-16 09:35:00","#Motivation #MindfulLiving #DailyLife #Wellness",0.81,18300,1042,401,160,0.0877,1,2025-05-16,09:35:00,877,LOW,SMALL,5
+19,LinkedIn,image,Technology,HI,FR,"2025-05-22 14:40:00","#MachineLearning #CodingLife #TechTrends #Innovation #DataScience",0.45,46286,3769,1449,579,0.1253,1,2025-05-22,14:40:00,1253,LOW,SMALL,5
+20,LinkedIn,poll,Technology,DE,CA,"2025-10-10 10:19:00","#Programming #AI #DataScience #MachineLearning #Innovation",0.46,37692,3022,1162,465,0.1234,1,2025-10-10,10:19:00,1234,LOW,SMALL,5
+21,LinkedIn,carousel,Food,ES,BR,"2025-03-25 05:01:00","#MustTry #Cooking #Recipe #FoodBlog",0.21,18485,458,176,70,0.0382,0,2025-03-25,05:01:00,382,LOW,SMALL,5
+22,LinkedIn,article,Health,EN,JP,"2025-04-24 15:19:00","#Wellness #Health #Nutrition #MentalHealth",0.92,19292,881,339,135,0.0703,0,2025-04-24,15:19:00,703,LOW,SMALL,5
+23,LinkedIn,poll,Health,DE,US,"2025-03-01 08:37:00","#Health #Nutrition #MentalHealth #Wellness #Fitness",0.99,8578,423,162,65,0.0759,0,2025-03-01,08:37:00,759,LOW,SMALL,5
+24,LinkedIn,poll,Business,UR,US,"2025-12-29 10:27:00","#Hustle #StartupLife #Leadership",0.47,20681,1084,417,166,0.0807,1,2025-12-29,10:27:00,806,LOW,SMALL,5
+25,LinkedIn,carousel,Education,PT,UK,"2025-10-11 15:24:00","#Certification #Education #Knowledge #AcademicSuccess #Learning #StudyTips",0.66,39009,2449,942,376,0.0966,1,2025-10-11,15:24:00,966,LOW,SMALL,5
+26,LinkedIn,image,Travel,JA,JP,"2025-12-12 15:10:00","#Travel #Wanderlust #ExploreMore #Journey #Tourism #Adventure",0.52,2600,48,18,7,0.0285,0,2025-12-12,15:10:00,285,LOW,SMALL,5
+27,LinkedIn,carousel,Food,HI,JP,"2025-08-01 18:45:00","#Recipe #MustTry #FoodBlog #Food #Cooking #Foodie",0.23,7985,542,208,83,0.1046,1,2025-08-01,18:45:00,1046,LOW,SMALL,5
+28,LinkedIn,video,Sports,JA,US,"2025-10-13 09:08:00","#Workout #Cricket #Training #Football #Fitness #Basketball",0.07,11430,715,275,110,0.0963,1,2025-10-13,09:08:00,963,LOW,SMALL,5
+29,LinkedIn,carousel,Travel,UR,BR,"2025-11-23 15:15:00","#Tourism #Travel #Wanderlust #ExploreMore #Adventure",0.94,6280,176,68,27,0.0434,0,2025-11-23,15:15:00,434,LOW,SMALL,5
+30,LinkedIn,video,Health,ES,BR,"2025-02-02 14:29:00","#Health #Wellness #MentalHealth #HealthTips #Nutrition #Fitness",0.97,20569,1645,632,253,0.1231,1,2025-02-02,14:29:00,1231,LOW,SMALL,5
+31,LinkedIn,carousel,Fashion,FR,JP,"2025-04-23 15:24:00","#Lookbook #TrendingStyle #Style #FashionTips #Fashion",-0.52,26822,1164,448,179,0.0668,0,2025-04-23,15:24:00,668,LOW,SMALL,5
+32,LinkedIn,article,Entertainment,PT,MX,"2025-08-25 14:20:00","#FollowForMore #Trending #MovieTime #ShowBiz",0.97,28627,1086,417,167,0.0584,0,2025-08-25,14:20:00,584,LOW,SMALL,5
+33,LinkedIn,article,Travel,EN,AU,"2025-01-27 11:41:00","#Journey #Travel #ExploreMore",-0.82,2335,93,36,14,0.0619,0,2025-01-27,11:41:00,619,LOW,SMALL,5
+34,LinkedIn,video,Sports,JA,IN,"2025-10-16 14:16:00","#Fitness #Cricket #Workout #Sports #Basketball",-0.9,2682,143,55,22,0.0824,1,2025-10-16,14:16:00,824,LOW,SMALL,5
+35,LinkedIn,poll,Health,PT,BR,"2025-02-08 10:44:00","#Nutrition #HealthTips #Health #Fitness #MentalHealth",0.66,25285,529,203,81,0.0322,0,2025-02-08,10:44:00,322,LOW,SMALL,5
+36,LinkedIn,image,Technology,PT,JP,"2025-02-24 14:57:00","#CodingLife #MachineLearning #TechTrends #Programming #DataScience #Innovation",0.95,32686,1814,698,279,0.0854,1,2025-02-24,14:57:00,854,LOW,SMALL,5
+37,LinkedIn,poll,Lifestyle,DE,BR,"2025-02-14 15:48:00","#Wellness #MindfulLiving #Positivity #DailyLife #Lifestyle #Motivation",-0.11,14901,519,199,79,0.0537,0,2025-02-14,15:48:00,537,LOW,SMALL,5
+38,LinkedIn,image,Education,UR,CA,"2025-12-26 17:33:00","#Learning #Education #StudyTips #AcademicSuccess",0.54,32201,2057,791,316,0.0983,1,2025-12-26,17:33:00,983,LOW,SMALL,5
+39,LinkedIn,carousel,Travel,EN,IN,"2025-05-31 10:42:00","#Wanderlust #Tourism #Journey #Adventure #ExploreMore #Travel",-0.06,17475,479,184,73,0.0423,0,2025-05-31,10:42:00,423,LOW,SMALL,5
+40,LinkedIn,video,Education,HI,AU,"2025-12-20 10:30:00","#Certification #AcademicSuccess #Knowledge #Learning #StudyTips",0.62,20809,343,132,52,0.0254,0,2025-12-20,10:30:00,254,LOW,SMALL,5
+41,LinkedIn,poll,Sports,UR,US,"2025-01-28 10:55:00","#Sports #Training #Cricket #Football #Fitness #Basketball",0.51,4367,147,56,22,0.0522,0,2025-01-28,10:55:00,522,LOW,SMALL,5
+42,LinkedIn,carousel,Entertainment,HI,FR,"2025-09-09 09:09:00","#Trending #Entertainment #Viral #MovieTime #ShowBiz #Funny #FollowForMore",-0.01,30014,967,372,148,0.0496,0,2025-09-09,09:09:00,496,LOW,SMALL,5
+43,LinkedIn,poll,Health,UR,CA,"2025-11-14 09:40:00","#Fitness #Health #Wellness #HealthTips",0.45,1175,52,20,8,0.0691,0,2025-11-14,09:40:00,691,LOW,SMALL,5
+44,LinkedIn,poll,Travel,UR,US,"2025-04-29 14:55:00","#Travel #Adventure #Wanderlust #Tourism #Journey #ExploreMore",0.53,10764,898,345,138,0.1285,1,2025-04-29,14:55:00,1285,LOW,SMALL,5
+45,LinkedIn,video,Entertainment,EN,MX,"2025-06-07 14:07:00","#MovieTime #Trending #FollowForMore #ShowBiz #Funny #Viral",0.76,29313,2185,840,336,0.1148,1,2025-06-07,14:07:00,1148,LOW,SMALL,5
+46,LinkedIn,poll,Lifestyle,EN,IN,"2025-04-28 18:01:00","#Motivation #Wellness #Lifestyle #Positivity #DailyLife #MindfulLiving",-0.84,39360,1216,468,187,0.0476,0,2025-04-28,18:01:00,476,LOW,SMALL,5
+47,LinkedIn,carousel,Entertainment,JA,DE,"2025-07-29 09:21:00","#MovieTime #FollowForMore #Trending #ShowBiz #Funny #Entertainment",0.59,22186,535,206,82,0.0372,0,2025-07-29,09:21:00,371,LOW,SMALL,5
+48,LinkedIn,carousel,Fashion,EN,AU,"2025-08-25 10:23:00","#TrendingStyle #Lookbook #Fashion #FashionTips #Style #OOTD",-0.61,46760,1699,653,261,0.0559,0,2025-08-25,10:23:00,559,LOW,SMALL,5
+49,LinkedIn,article,Food,FR,MX,"2025-06-09 15:14:00","#Recipe #Food #Foodie",0.83,34349,2524,971,388,0.1131,1,2025-06-09,15:14:00,1131,LOW,SMALL,5
+50,LinkedIn,carousel,Travel,JA,BR,"2025-08-22 15:58:00","#ExploreMore #Adventure #Travel #Journey #Wanderlust #Tourism",-0.54,1168,30,11,4,0.0405,0,2025-08-22,15:58:00,405,LOW,SMALL,5
+51,LinkedIn,image,Food,JA,MX,"2025-08-17 14:35:00","#Recipe #MustTry #Cooking #Food #FoodBlog #Foodie",0.87,3860,163,63,25,0.0653,0,2025-08-17,14:35:00,653,LOW,SMALL,5
+52,LinkedIn,carousel,Health,PT,MX,"2025-09-11 04:37:00","#Health #MentalHealth #Nutrition #Fitness #Wellness",0.49,43911,3829,1473,589,0.1342,1,2025-09-11,04:37:00,1342,LOW,SMALL,5
+53,LinkedIn,article,Travel,UR,DE,"2025-11-16 20:54:00","#Journey #ExploreMore #Tourism #Adventure #Wanderlust",-0.18,5484,146,56,22,0.0411,0,2025-11-16,20:54:00,411,LOW,SMALL,5
+54,LinkedIn,image,Business,HI,FR,"2025-02-20 22:06:00","#Entrepreneur #StartupLife #BusinessTips #CareerGrowth #Hustle #Leadership",0.62,10540,360,138,55,0.0527,0,2025-02-20,22:06:00,527,LOW,SMALL,5
+55,LinkedIn,carousel,Food,ES,MX,"2025-03-31 15:43:00","#Recipe #FoodBlog #Foodie #Food",0.55,17733,1163,447,179,0.101,1,2025-03-31,15:43:00,1010,LOW,SMALL,5
+56,LinkedIn,carousel,Lifestyle,ES,IN,"2025-08-15 18:40:00","#MindfulLiving #Motivation #Positivity #DailyLife #Lifestyle #Wellness",-0.15,25993,1245,479,191,0.0737,0,2025-08-15,18:40:00,737,LOW,SMALL,5
+57,LinkedIn,poll,Lifestyle,UR,US,"2025-12-04 09:55:00","#MindfulLiving #Lifestyle #Positivity #DailyLife #Wellness #Motivation",0.51,17425,1145,440,176,0.1012,1,2025-12-04,09:55:00,1012,LOW,SMALL,5
+58,LinkedIn,video,Entertainment,EN,UK,"2025-08-14 14:08:00","#Trending #ShowBiz #FollowForMore",0.48,36350,2909,1119,447,0.1231,1,2025-08-14,14:08:00,1231,LOW,SMALL,5
+59,LinkedIn,image,Fashion,UR,MX,"2025-05-12 15:18:00","#OOTD #Fashion #TrendingStyle #FashionTips #Lookbook #Style",0.16,27044,2150,827,330,0.1223,1,2025-05-12,15:18:00,1223,LOW,SMALL,5
+60,LinkedIn,poll,Education,HI,FR,"2025-01-08 09:23:00","#Certification #Knowledge #StudyTips #AcademicSuccess #Education #Learning",0.68,41602,3529,1357,543,0.1305,1,2025-01-08,09:23:00,1305,LOW,SMALL,5
+61,LinkedIn,poll,Education,FR,IN,"2025-11-22 22:41:00","#Learning #Education #Certification #StudyTips #AcademicSuccess #Knowledge",0.54,36228,918,353,141,0.039,0,2025-11-22,22:41:00,390,LOW,SMALL,5
+62,LinkedIn,carousel,Education,PT,CA,"2025-03-21 20:53:00","#AcademicSuccess #StudyTips #Knowledge #Learning #Education #Certification",0.97,24768,622,239,95,0.0386,0,2025-03-21,20:53:00,386,LOW,SMALL,5
+63,LinkedIn,image,Fashion,DE,US,"2025-07-23 09:05:00","#Style #FashionTips #Fashion #TrendingStyle #Lookbook #OOTD",-0.29,14448,230,88,35,0.0245,0,2025-07-23,09:05:00,245,LOW,SMALL,5
+64,LinkedIn,poll,Business,FR,BR,"2025-06-18 19:17:00","#Entrepreneur #Leadership #StartupLife #BusinessTips",0.92,9637,171,66,26,0.0274,0,2025-06-18,19:17:00,274,LOW,SMALL,5
+65,LinkedIn,video,Food,DE,US,"2025-03-31 10:26:00","#Food #MustTry #Recipe #Foodie #Cooking #FoodBlog",0.53,41311,757,291,116,0.0282,0,2025-03-31,10:26:00,282,LOW,SMALL,5
+66,LinkedIn,poll,Lifestyle,JA,US,"2025-02-01 12:43:00","#Positivity #MindfulLiving #Lifestyle",-0.04,10721,182,70,28,0.0262,0,2025-02-01,12:43:00,262,LOW,SMALL,5
+67,LinkedIn,image,Food,DE,FR,"2025-11-02 15:38:00","#Food #MustTry #Foodie #Recipe #Cooking #FoodBlog",0.9,27131,1379,530,212,0.0782,0,2025-11-02,15:38:00,782,LOW,SMALL,5
+68,LinkedIn,article,Education,PT,DE,"2025-12-07 10:59:00","#Learning #Certification #AcademicSuccess #StudyTips #Education #Knowledge",-0.01,9527,466,179,71,0.0754,0,2025-12-07,10:59:00,754,LOW,SMALL,5
+69,LinkedIn,poll,Fashion,DE,IN,"2025-07-30 15:03:00","#FashionTips #OOTD #Lookbook #Fashion #TrendingStyle",0.69,8092,349,134,53,0.0664,0,2025-07-30,15:03:00,664,LOW,SMALL,5
+70,LinkedIn,poll,Education,HI,UK,"2025-10-21 15:49:00","#AcademicSuccess #Certification #Learning #Knowledge #Education #StudyTips",0.82,21249,1929,742,296,0.1397,1,2025-10-21,15:49:00,1397,LOW,SMALL,5
+71,LinkedIn,image,Technology,ES,MX,"2025-10-17 02:47:00","#AI #Programming #Innovation #MachineLearning #TechTrends #DataScience #CodingLife",0.62,48290,1951,750,300,0.0622,0,2025-10-17,02:47:00,622,LOW,SMALL,5
+72,LinkedIn,poll,Food,HI,US,"2025-03-21 09:05:00","#Recipe #MustTry #FoodBlog #Cooking #Foodie",0.53,34577,817,314,125,0.0364,0,2025-03-21,09:05:00,364,LOW,SMALL,5
+73,LinkedIn,carousel,Entertainment,UR,CA,"2025-09-07 14:14:00","#Funny #Entertainment #MovieTime #Viral #FollowForMore #ShowBiz",0.18,19969,722,277,111,0.0557,0,2025-09-07,14:14:00,557,LOW,SMALL,5
+74,LinkedIn,article,Travel,PT,MX,"2025-03-08 10:35:00","#Wanderlust #Travel #Tourism #Journey #ExploreMore #Adventure",0.95,21516,1393,536,214,0.0997,1,2025-03-08,10:35:00,997,LOW,SMALL,5
+75,LinkedIn,poll,Health,PT,UK,"2025-02-28 14:51:00","#MentalHealth #Fitness #Health #Wellness #Nutrition #HealthTips",0.64,6154,284,109,43,0.071,0,2025-02-28,14:51:00,709,LOW,SMALL,5
+76,LinkedIn,image,Education,FR,DE,"2025-03-28 09:32:00","#Knowledge #Certification #Education #Learning",0.55,12370,751,289,115,0.0935,1,2025-03-28,09:32:00,935,LOW,SMALL,5
+77,LinkedIn,article,Sports,JA,JP,"2025-10-16 14:59:00","#Workout #Training #Cricket #Football #Basketball #Fitness #Sports",0.68,42378,1667,641,256,0.0605,0,2025-10-16,14:59:00,605,LOW,SMALL,5
+78,LinkedIn,image,Food,EN,DE,"2025-09-17 15:02:00","#Cooking #MustTry #Food",0.99,6917,475,182,73,0.1057,1,2025-09-17,15:02:00,1057,LOW,SMALL,5
+79,LinkedIn,poll,Health,JA,CA,"2025-10-11 23:28:00","#Nutrition #Wellness #Fitness #MentalHealth #HealthTips #Health",-0.59,23507,1486,571,228,0.0973,1,2025-10-11,23:28:00,973,LOW,SMALL,5
+80,LinkedIn,article,Fashion,ES,US,"2025-05-07 14:33:00","#Style #OOTD #FashionTips #Lookbook #TrendingStyle #Fashion",0.14,4431,296,114,45,0.1031,1,2025-05-07,14:33:00,1031,LOW,SMALL,5
+81,LinkedIn,image,Entertainment,DE,IN,"2025-10-13 09:46:00","#Funny #Viral #Trending #Entertainment #ShowBiz #FollowForMore #MovieTime",0.79,44393,2112,812,325,0.0732,0,2025-10-13,09:46:00,732,LOW,SMALL,5
+82,LinkedIn,poll,Entertainment,UR,AU,"2025-07-12 10:08:00","#MovieTime #ShowBiz #Funny #Entertainment #Trending #Viral #FollowForMore",0.59,15037,622,239,95,0.0638,0,2025-07-12,10:08:00,638,LOW,SMALL,5
+83,LinkedIn,carousel,Business,FR,MX,"2025-03-21 09:49:00","#Hustle #Leadership #BusinessTips #StartupLife #Entrepreneur #CareerGrowth",0.49,12851,988,380,152,0.1183,1,2025-03-21,09:49:00,1183,LOW,SMALL,5
+84,LinkedIn,poll,Sports,JA,US,"2025-07-30 10:39:00","#Training #Workout #Basketball #Fitness #Football",0.98,31737,2946,1133,453,0.1429,1,2025-07-30,10:39:00,1429,LOW,SMALL,5
+85,LinkedIn,video,Education,JA,JP,"2025-05-25 16:26:00","#Education #AcademicSuccess #Certification #StudyTips",0.69,25327,1498,576,230,0.0911,1,2025-05-25,16:26:00,911,LOW,SMALL,5
+86,LinkedIn,article,Fashion,HI,UK,"2025-02-12 08:57:00","#Style #TrendingStyle #Fashion #FashionTips #Lookbook #OOTD",-0.63,26982,998,384,153,0.0569,0,2025-02-12,08:57:00,569,LOW,SMALL,5
+87,LinkedIn,video,Health,HI,DE,"2025-04-25 09:41:00","#Wellness #Nutrition #Health #HealthTips #Fitness",0.48,47238,2349,903,361,0.0765,0,2025-04-25,09:41:00,765,LOW,SMALL,5
+88,LinkedIn,poll,Technology,HI,US,"2025-05-12 10:46:00","#Innovation #TechTrends #AI #DataScience #Programming #MachineLearning #CodingLife",0.65,41816,2133,820,328,0.0785,0,2025-05-12,10:46:00,785,LOW,SMALL,5
+89,LinkedIn,article,Travel,EN,AU,"2025-10-22 10:27:00","#ExploreMore #Wanderlust #Adventure",0.51,44792,958,368,147,0.0329,0,2025-10-22,10:27:00,329,LOW,SMALL,5
+90,LinkedIn,image,Entertainment,EN,FR,"2025-08-29 15:16:00","#Entertainment #Trending #ShowBiz #MovieTime #Funny #FollowForMore #Viral",0.61,23187,1807,695,278,0.1199,1,2025-08-29,15:16:00,1199,LOW,SMALL,5
+91,LinkedIn,video,Travel,JA,MX,"2025-03-11 15:18:00","#Travel #Adventure #Journey #ExploreMore",-0.54,36588,1341,516,206,0.0564,0,2025-03-11,15:18:00,564,LOW,SMALL,5
+92,LinkedIn,article,Business,UR,DE,"2025-01-25 10:07:00","#CareerGrowth #Hustle #Leadership #Entrepreneur #StartupLife",-0.55,33605,1034,397,159,0.0474,0,2025-01-25,10:07:00,474,LOW,SMALL,5
+93,LinkedIn,poll,Lifestyle,HI,FR,"2025-02-10 10:18:00","#Lifestyle #MindfulLiving #Motivation #Positivity #DailyLife",0.76,28925,846,325,130,0.045,0,2025-02-10,10:18:00,450,LOW,SMALL,5
+94,LinkedIn,carousel,Education,JA,US,"2025-06-30 13:40:00","#Learning #StudyTips #Knowledge",0.85,11484,1079,415,166,0.1447,1,2025-06-30,13:40:00,1447,LOW,SMALL,5
+95,LinkedIn,video,Food,JA,US,"2025-03-06 14:24:00","#Food #FoodBlog #Foodie #Cooking #Recipe #MustTry",0.86,38612,1066,410,164,0.0425,0,2025-03-06,14:24:00,425,LOW,SMALL,5
+96,LinkedIn,image,Health,DE,UK,"2025-05-08 00:11:00","#HealthTips #MentalHealth #Health #Wellness #Fitness #Nutrition",0.77,46480,4152,1597,638,0.1374,1,2025-05-08,00:11:00,1374,LOW,SMALL,5
+97,LinkedIn,carousel,Business,HI,MX,"2025-02-07 15:51:00","#StartupLife #Hustle #BusinessTips #Leadership #Entrepreneur #CareerGrowth",0.16,46889,2675,1029,411,0.0878,1,2025-02-07,15:51:00,878,LOW,SMALL,5
+98,LinkedIn,image,Fashion,FR,IN,"2025-04-13 07:31:00","#OOTD #FashionTips #Lookbook",0.99,9504,650,250,100,0.1053,1,2025-04-13,07:31:00,1053,LOW,SMALL,5
+99,LinkedIn,article,Entertainment,UR,FR,"2025-09-03 15:04:00","#Trending #MovieTime #Entertainment #FollowForMore",0.71,9410,799,307,123,0.1308,1,2025-09-03,15:04:00,1308,LOW,SMALL,5
+100,LinkedIn,poll,Food,ES,MX,"2025-08-10 09:33:00","#Cooking #Foodie #FoodBlog #Recipe",-0.8,35006,1893,728,291,0.0832,1,2025-08-10,09:33:00,832,LOW,SMALL,5
+101,LinkedIn,article,Lifestyle,FR,AU,"2025-05-21 14:34:00","#Wellness #DailyLife #MindfulLiving",0.77,40658,1748,672,269,0.0662,0,2025-05-21,14:34:00,662,LOW,SMALL,5
+102,LinkedIn,poll,Technology,EN,IN,"2025-01-24 18:41:00","#Programming #Innovation #TechTrends #AI",0.78,19983,1349,519,207,0.1039,1,2025-01-24,18:41:00,1039,LOW,SMALL,5
+103,LinkedIn,image,Travel,FR,FR,"2025-06-02 09:28:00","#Tourism #Journey #Adventure #ExploreMore #Travel #Wanderlust",-0.04,23634,1783,686,274,0.1161,1,2025-06-02,09:28:00,1161,LOW,SMALL,5
+104,LinkedIn,video,Education,HI,DE,"2025-05-04 14:15:00","#Learning #Certification #Knowledge #Education",0.01,11466,757,291,116,0.1017,1,2025-05-04,14:15:00,1017,LOW,SMALL,5
+105,LinkedIn,poll,Education,FR,MX,"2025-09-13 14:56:00","#StudyTips #Learning #AcademicSuccess #Education #Knowledge",-0.81,24127,295,113,45,0.0188,0,2025-09-13,14:56:00,188,LOW,SMALL,5
+106,LinkedIn,image,Travel,JA,UK,"2025-10-02 09:08:00","#Journey #Wanderlust #Tourism #Adventure #Travel",0.74,13756,614,236,94,0.0687,0,2025-10-02,09:08:00,687,LOW,SMALL,5
+107,LinkedIn,image,Entertainment,PT,AU,"2025-08-19 08:39:00","#Funny #Entertainment #Viral #MovieTime #ShowBiz #Trending #FollowForMore",0.62,10454,321,123,49,0.0473,0,2025-08-19,08:39:00,473,LOW,SMALL,5
+108,LinkedIn,poll,Health,EN,US,"2025-01-20 14:33:00","#Wellness #HealthTips #Nutrition #MentalHealth #Fitness #Health",0.77,20610,1308,503,201,0.0977,1,2025-01-20,14:33:00,977,LOW,SMALL,5
+109,LinkedIn,poll,Fashion,JA,CA,"2025-06-03 09:21:00","#Fashion #TrendingStyle #OOTD #FashionTips #Lookbook #Style",0.79,38910,2432,935,374,0.0962,1,2025-06-03,09:21:00,961,LOW,SMALL,5
+110,LinkedIn,article,Food,JA,MX,"2025-09-26 19:53:00","#Foodie #MustTry #Food #Cooking #Recipe #FoodBlog",0.59,10924,512,197,78,0.0721,0,2025-09-26,19:53:00,721,LOW,SMALL,5
+111,LinkedIn,video,Health,JA,US,"2025-12-28 10:20:00","#MentalHealth #HealthTips #Nutrition #Wellness #Health #Fitness",-0.69,24218,1093,420,168,0.0695,0,2025-12-28,10:20:00,695,LOW,SMALL,5
+112,LinkedIn,image,Food,JA,BR,"2025-05-07 14:19:00","#MustTry #Foodie #Recipe #FoodBlog #Cooking",0.96,48294,1914,736,294,0.061,0,2025-05-07,14:19:00,610,LOW,SMALL,5
+113,LinkedIn,article,Food,PT,FR,"2025-06-26 04:02:00","#MustTry #Food #Cooking #Foodie #Recipe",-0.09,36296,1080,415,166,0.0458,0,2025-06-26,04:02:00,458,LOW,SMALL,5
+114,LinkedIn,poll,Lifestyle,ES,IN,"2025-11-12 07:03:00","#Wellness #DailyLife #MindfulLiving #Lifestyle #Motivation #Positivity",0.68,45642,3467,1333,533,0.1169,1,2025-11-12,07:03:00,1169,LOW,SMALL,5
+115,LinkedIn,article,Fashion,ES,FR,"2025-12-01 15:41:00","#OOTD #Lookbook #FashionTips #TrendingStyle",0.86,43749,2769,1065,426,0.0974,1,2025-12-01,15:41:00,974,LOW,SMALL,5
+116,LinkedIn,poll,Technology,ES,FR,"2025-04-01 01:25:00","#MachineLearning #CodingLife #DataScience #AI #TechTrends #Programming",0.46,22957,822,316,126,0.0551,0,2025-04-01,01:25:00,551,LOW,SMALL,5
+117,LinkedIn,poll,Fashion,JA,MX,"2025-09-16 10:21:00","#Lookbook #TrendingStyle #OOTD #FashionTips",0.84,20334,1270,488,195,0.0961,1,2025-09-16,10:21:00,961,LOW,SMALL,5
+118,LinkedIn,video,Sports,PT,FR,"2025-09-21 15:06:00","#Fitness #Basketball #Football #Training",0.63,30277,2231,858,343,0.1134,1,2025-09-21,15:06:00,1134,LOW,SMALL,5
+119,LinkedIn,image,Lifestyle,EN,UK,"2025-12-01 10:42:00","#Positivity #Motivation #DailyLife",0.7,47108,3593,1382,552,0.1174,1,2025-12-01,10:42:00,1174,LOW,SMALL,5
+120,LinkedIn,article,Lifestyle,DE,CA,"2025-04-24 10:09:00","#MindfulLiving #Wellness #Motivation #DailyLife #Positivity #Lifestyle",0.14,40047,2910,1119,447,0.1118,1,2025-04-24,10:09:00,1118,LOW,SMALL,5
+121,LinkedIn,article,Fashion,JA,AU,"2025-12-27 09:53:00","#FashionTips #Style #Lookbook #Fashion #TrendingStyle #OOTD",0.52,39217,2029,780,312,0.0796,0,2025-12-27,09:53:00,796,LOW,SMALL,5
+122,LinkedIn,poll,Travel,EN,JP,"2025-03-09 15:03:00","#Tourism #Wanderlust #Travel #Adventure #ExploreMore #Journey",0.09,3968,165,63,25,0.0641,0,2025-03-09,15:03:00,641,LOW,SMALL,5
+123,LinkedIn,article,Fashion,EN,IN,"2025-08-30 15:49:00","#Lookbook #TrendingStyle #OOTD #Style",0.95,25739,1236,475,190,0.074,0,2025-08-30,15:49:00,740,LOW,SMALL,5
+124,LinkedIn,poll,Sports,DE,IN,"2025-04-02 12:08:00","#Fitness #Sports #Workout #Football #Training #Basketball #Cricket",-0.08,23685,533,205,82,0.0347,0,2025-04-02,12:08:00,347,LOW,SMALL,5
+125,LinkedIn,video,Entertainment,EN,FR,"2025-11-11 00:13:00","#Entertainment #Funny #ShowBiz",0.8,4190,150,57,23,0.0551,0,2025-11-11,00:13:00,551,LOW,SMALL,5
+126,LinkedIn,article,Health,JA,BR,"2025-10-04 09:32:00","#Wellness #HealthTips #Fitness #MentalHealth #Nutrition",0.93,44267,2653,1020,408,0.0922,1,2025-10-04,09:32:00,922,LOW,SMALL,5
+127,LinkedIn,carousel,Lifestyle,UR,US,"2025-10-13 23:40:00","#Positivity #Wellness #MindfulLiving #Lifestyle #DailyLife #Motivation",-0.04,28284,1104,424,169,0.0601,0,2025-10-13,23:40:00,601,LOW,SMALL,5
+128,LinkedIn,image,Health,ES,AU,"2025-08-31 10:54:00","#Wellness #MentalHealth #Health #Fitness #Nutrition #HealthTips",0.48,16915,572,220,88,0.0521,0,2025-08-31,10:54:00,521,LOW,SMALL,5
+129,LinkedIn,image,Entertainment,JA,DE,"2025-02-17 10:17:00","#MovieTime #Funny #ShowBiz #Entertainment #FollowForMore #Trending",0.09,45004,2279,876,350,0.0779,0,2025-02-17,10:17:00,779,LOW,SMALL,5
+130,LinkedIn,carousel,Business,DE,UK,"2025-01-08 10:07:00","#CareerGrowth #Entrepreneur #Leadership #Hustle #BusinessTips #StartupLife",-0.01,35973,1977,760,304,0.0846,1,2025-01-08,10:07:00,846,LOW,SMALL,5
+131,LinkedIn,image,Lifestyle,DE,AU,"2025-09-12 15:58:00","#Motivation #MindfulLiving #Positivity #Lifestyle",0.53,10563,171,66,26,0.0251,0,2025-09-12,15:58:00,251,LOW,SMALL,5
+132,LinkedIn,poll,Food,PT,UK,"2025-03-20 10:36:00","#Recipe #FoodBlog #Cooking #Foodie",0.04,48419,2680,1031,412,0.0852,1,2025-03-20,10:36:00,852,LOW,SMALL,5
+133,LinkedIn,carousel,Travel,ES,DE,"2025-03-28 15:58:00","#Journey #Travel #ExploreMore #Tourism #Wanderlust #Adventure",0.91,16167,358,137,55,0.0341,0,2025-03-28,15:58:00,341,LOW,SMALL,5
+134,LinkedIn,video,Technology,FR,AU,"2025-08-22 15:31:00","#AI #Innovation #CodingLife",0.41,48329,1674,644,257,0.0533,0,2025-08-22,15:31:00,533,LOW,SMALL,5
+135,LinkedIn,image,Technology,PT,MX,"2025-02-24 16:15:00","#Innovation #Programming #DataScience #CodingLife",0.64,25448,2285,879,351,0.1382,1,2025-02-24,16:15:00,1382,LOW,SMALL,5
+136,LinkedIn,carousel,Food,FR,BR,"2025-06-03 02:54:00","#Food #MustTry #Recipe #Foodie #Cooking #FoodBlog",0.41,12231,252,97,38,0.0317,0,2025-06-03,02:54:00,317,LOW,SMALL,5
+137,LinkedIn,carousel,Education,HI,AU,"2025-01-22 15:02:00","#Certification #Knowledge #Learning",0.91,2026,194,74,29,0.1479,1,2025-01-22,15:02:00,1479,LOW,SMALL,5
+138,LinkedIn,poll,Sports,PT,IN,"2025-06-03 10:53:00","#Workout #Cricket #Football #Basketball #Training #Sports",0.14,6139,291,112,44,0.073,0,2025-06-03,10:53:00,730,LOW,SMALL,5
+139,LinkedIn,image,Technology,HI,FR,"2025-04-29 10:49:00","#Innovation #TechTrends #DataScience #AI #Programming #MachineLearning #CodingLife",0.61,25603,1243,478,191,0.0747,0,2025-04-29,10:49:00,747,LOW,SMALL,5
+140,LinkedIn,poll,Health,HI,CA,"2025-06-01 22:05:00","#Wellness #MentalHealth #Nutrition #Fitness #HealthTips",0.46,1340,113,43,17,0.1301,1,2025-06-01,22:05:00,1301,LOW,SMALL,5
+141,LinkedIn,carousel,Education,UR,IN,"2025-03-09 15:35:00","#AcademicSuccess #StudyTips #Learning #Certification #Knowledge #Education",0.76,22261,1889,726,290,0.1306,1,2025-03-09,15:35:00,1306,LOW,SMALL,5
+142,LinkedIn,article,Lifestyle,PT,FR,"2025-02-13 17:36:00","#DailyLife #Positivity #MindfulLiving #Lifestyle #Wellness #Motivation",0.49,11958,565,217,87,0.0728,0,2025-02-13,17:36:00,728,LOW,SMALL,5
+143,LinkedIn,carousel,Lifestyle,JA,IN,"2025-07-04 10:40:00","#Wellness #MindfulLiving #DailyLife #Positivity #Lifestyle #Motivation",0.97,22772,1990,765,306,0.1345,1,2025-07-04,10:40:00,1345,LOW,SMALL,5
+144,LinkedIn,carousel,Education,JA,DE,"2025-08-09 20:08:00","#Knowledge #AcademicSuccess #Education #StudyTips #Certification",0.64,21915,833,320,128,0.0586,0,2025-08-09,20:08:00,586,LOW,SMALL,5
+145,LinkedIn,carousel,Food,FR,DE,"2025-07-12 15:07:00","#Foodie #FoodBlog #MustTry #Cooking #Food #Recipe",-0.81,20092,1019,392,156,0.0781,0,2025-07-12,15:07:00,781,LOW,SMALL,5
+146,LinkedIn,article,Health,JA,MX,"2025-11-21 14:09:00","#MentalHealth #Nutrition #Health #Wellness #Fitness #HealthTips",0.95,46331,2392,920,368,0.0795,0,2025-11-21,14:09:00,795,LOW,SMALL,5
+147,LinkedIn,article,Education,HI,IN,"2025-05-08 11:41:00","#Learning #AcademicSuccess #StudyTips #Education #Knowledge #Certification",0.56,34467,2477,952,381,0.1106,1,2025-05-08,11:41:00,1106,LOW,SMALL,5
+148,LinkedIn,poll,Food,FR,JP,"2025-07-11 10:01:00","#Food #Cooking #Recipe #MustTry #FoodBlog #Foodie",0.61,14557,806,310,124,0.0853,1,2025-07-11,10:01:00,853,LOW,SMALL,5
+149,LinkedIn,image,Travel,HI,JP,"2025-12-23 09:02:00","#Travel #Journey #Wanderlust #Tourism #ExploreMore #Adventure",-0.33,34816,763,293,117,0.0337,0,2025-12-23,09:02:00,337,LOW,SMALL,5
+150,LinkedIn,video,Education,PT,JP,"2025-04-29 20:11:00","#Certification #StudyTips #AcademicSuccess #Learning #Knowledge #Education",0.63,47185,1512,581,232,0.0493,0,2025-04-29,20:11:00,492,LOW,SMALL,5
+151,LinkedIn,image,Entertainment,HI,AU,"2025-04-06 10:07:00","#MovieTime #FollowForMore #Funny #Trending #ShowBiz",0.64,8486,360,138,55,0.0653,0,2025-04-06,10:07:00,653,LOW,SMALL,5
+152,LinkedIn,carousel,Food,ES,UK,"2025-11-11 10:07:00","#Cooking #Food #Foodie #Recipe",0.71,28409,1783,686,274,0.0966,1,2025-11-11,10:07:00,966,LOW,SMALL,5
+153,LinkedIn,poll,Health,PT,MX,"2025-09-07 22:59:00","#HealthTips #Wellness #MentalHealth #Nutrition",0.59,30556,1914,736,294,0.0964,1,2025-09-07,22:59:00,964,LOW,SMALL,5
+154,LinkedIn,image,Technology,JA,MX,"2025-04-10 17:41:00","#TechTrends #CodingLife #Programming #Innovation #DataScience #MachineLearning",0.45,3022,221,85,34,0.113,1,2025-04-10,17:41:00,1130,LOW,SMALL,5
+155,LinkedIn,video,Lifestyle,EN,UK,"2025-04-26 10:36:00","#Positivity #Wellness #Lifestyle #Motivation #MindfulLiving #DailyLife",0.21,25042,1283,493,197,0.0789,0,2025-04-26,10:36:00,789,LOW,SMALL,5
+156,LinkedIn,article,Travel,FR,FR,"2025-02-22 20:15:00","#Travel #Tourism #Wanderlust #Adventure #Journey",1,16528,572,220,88,0.0533,0,2025-02-22,20:15:00,533,LOW,SMALL,5
+157,LinkedIn,poll,Education,PT,MX,"2025-11-12 10:51:00","#AcademicSuccess #Knowledge #Certification",0.5,47140,1735,667,267,0.0567,0,2025-11-12,10:51:00,567,LOW,SMALL,5
+158,LinkedIn,poll,Lifestyle,HI,MX,"2025-07-30 08:41:00","#MindfulLiving #DailyLife #Wellness #Lifestyle",0.21,45317,1855,713,285,0.063,0,2025-07-30,08:41:00,630,LOW,SMALL,5
+159,LinkedIn,video,Food,UR,FR,"2025-07-12 09:32:00","#Cooking #MustTry #Recipe #Foodie #FoodBlog #Food",0.22,7104,457,176,70,0.0992,1,2025-07-12,09:32:00,992,LOW,SMALL,5
+160,LinkedIn,carousel,Education,HI,AU,"2025-07-23 15:31:00","#Knowledge #Certification #AcademicSuccess #StudyTips #Learning",0.69,23527,2019,776,310,0.1321,1,2025-07-23,15:31:00,1321,LOW,SMALL,5
+161,LinkedIn,article,Technology,HI,JP,"2025-01-09 10:29:00","#TechTrends #MachineLearning #CodingLife",-0.05,18958,355,136,54,0.0289,0,2025-01-09,10:29:00,289,LOW,SMALL,5
+162,LinkedIn,image,Lifestyle,HI,DE,"2025-12-07 05:25:00","#Motivation #DailyLife #Positivity #MindfulLiving #Lifestyle #Wellness",0.69,9696,603,232,92,0.0958,1,2025-12-07,05:25:00,958,LOW,SMALL,5
+163,LinkedIn,poll,Travel,EN,US,"2025-12-23 09:44:00","#Tourism #Travel #Adventure #Journey",0.88,7763,326,125,50,0.0649,0,2025-12-23,09:44:00,649,LOW,SMALL,5
+164,LinkedIn,image,Sports,PT,MX,"2025-11-25 04:33:00","#Sports #Cricket #Fitness #Basketball #Workout #Training #Football",-0.45,29992,1786,687,274,0.0917,1,2025-11-25,04:33:00,917,LOW,SMALL,5
+165,LinkedIn,article,Entertainment,ES,IN,"2025-10-29 11:20:00","#Viral #Trending #Entertainment #ShowBiz",0.76,40819,1579,607,243,0.0595,0,2025-10-29,11:20:00,595,LOW,SMALL,5
+166,LinkedIn,article,Lifestyle,FR,AU,"2025-11-07 15:41:00","#DailyLife #Positivity #Wellness",0.7,39923,850,327,130,0.0328,0,2025-11-07,15:41:00,328,LOW,SMALL,5
+167,LinkedIn,article,Education,DE,MX,"2025-07-18 18:23:00","#Certification #Education #StudyTips #Learning #Knowledge #AcademicSuccess",0.53,4962,429,165,66,0.1331,1,2025-07-18,18:23:00,1331,LOW,SMALL,5
+168,LinkedIn,carousel,Fashion,UR,AU,"2025-08-01 15:40:00","#FashionTips #Lookbook #Style #TrendingStyle #Fashion #OOTD",0.95,11182,687,264,105,0.0946,1,2025-08-01,15:40:00,946,LOW,SMALL,5
+169,LinkedIn,carousel,Food,HI,UK,"2025-12-24 10:15:00","#Recipe #Food #MustTry",0.43,44652,3085,1186,474,0.1063,1,2025-12-24,10:15:00,1063,LOW,SMALL,5
+170,LinkedIn,video,Entertainment,EN,MX,"2025-12-26 15:33:00","#ShowBiz #MovieTime #Trending #Viral #FollowForMore #Entertainment #Funny",-0.14,2923,96,37,14,0.0513,0,2025-12-26,15:33:00,513,LOW,SMALL,5
+171,LinkedIn,carousel,Lifestyle,HI,UK,"2025-12-31 20:31:00","#Wellness #Motivation #Lifestyle #DailyLife #Positivity #MindfulLiving",0.86,38611,2759,1061,424,0.11,1,2025-12-31,20:31:00,1100,LOW,SMALL,5
+172,LinkedIn,article,Business,EN,US,"2025-01-07 15:24:00","#Entrepreneur #BusinessTips #CareerGrowth #Leadership",0.65,48204,1946,748,299,0.0621,0,2025-01-07,15:24:00,621,LOW,SMALL,5
+173,LinkedIn,article,Food,DE,IN,"2025-09-15 01:14:00","#Food #Recipe #MustTry #Foodie #Cooking #FoodBlog",0.73,1522,68,26,10,0.0694,0,2025-09-15,01:14:00,694,LOW,SMALL,5
+174,LinkedIn,image,Food,UR,CA,"2025-05-05 15:46:00","#Foodie #MustTry #Food #FoodBlog #Recipe #Cooking",0.78,46446,4012,1543,617,0.1329,1,2025-05-05,15:46:00,1329,LOW,SMALL,5
+175,LinkedIn,image,Technology,PT,UK,"2025-02-23 10:31:00","#MachineLearning #CodingLife #DataScience",0.95,35062,1795,690,276,0.0788,0,2025-02-23,10:31:00,788,LOW,SMALL,5
+176,LinkedIn,image,Travel,HI,CA,"2025-02-18 15:37:00","#Travel #Tourism #Adventure #Journey #ExploreMore #Wanderlust",0.26,26752,1688,649,259,0.0971,1,2025-02-18,15:37:00,971,LOW,SMALL,5
+177,LinkedIn,image,Education,JA,UK,"2025-04-30 10:49:00","#Learning #Education #Certification #StudyTips #AcademicSuccess #Knowledge",0.47,24480,2114,813,325,0.1329,1,2025-04-30,10:49:00,1329,LOW,SMALL,5
+178,LinkedIn,video,Travel,UR,JP,"2025-05-16 02:51:00","#Wanderlust #ExploreMore #Travel #Tourism #Adventure #Journey",0.55,24313,1097,422,168,0.0695,0,2025-05-16,02:51:00,695,LOW,SMALL,5
+179,LinkedIn,article,Lifestyle,UR,MX,"2025-01-16 14:47:00","#DailyLife #Lifestyle #Positivity #Wellness #Motivation #MindfulLiving",0.9,15567,424,163,65,0.042,0,2025-01-16,14:47:00,420,LOW,SMALL,5
+180,LinkedIn,carousel,Education,HI,CA,"2025-10-28 09:04:00","#Certification #StudyTips #Education #Learning",-0.25,22728,440,169,67,0.0298,0,2025-10-28,09:04:00,298,LOW,SMALL,5
+181,LinkedIn,carousel,Technology,ES,CA,"2025-08-10 12:01:00","#CodingLife #TechTrends #MachineLearning #DataScience #AI #Programming",0.67,10740,196,75,30,0.0282,0,2025-08-10,12:01:00,282,LOW,SMALL,5
+182,LinkedIn,poll,Food,FR,UK,"2025-09-13 15:05:00","#Recipe #Foodie #MustTry #Food #Cooking",0.88,2279,222,85,34,0.1503,1,2025-09-13,15:05:00,1503,LOW,SMALL,5
+183,LinkedIn,image,Travel,JA,DE,"2025-10-17 15:11:00","#Wanderlust #ExploreMore #Adventure",0.89,19411,412,158,63,0.0328,0,2025-10-17,15:11:00,328,LOW,SMALL,5
+184,LinkedIn,carousel,Fashion,DE,CA,"2025-04-30 03:42:00","#OOTD #FashionTips #Fashion #TrendingStyle",0.99,26455,1236,475,190,0.072,0,2025-04-30,03:42:00,720,LOW,SMALL,5
+185,LinkedIn,video,Sports,FR,CA,"2025-06-12 22:58:00","#Sports #Workout #Football #Fitness #Cricket #Training #Basketball",0.51,3487,75,29,11,0.0335,0,2025-06-12,22:58:00,335,LOW,SMALL,5
+186,LinkedIn,video,Food,FR,US,"2025-09-27 14:12:00","#Cooking #Foodie #MustTry #Food",0.75,10283,797,306,122,0.1194,1,2025-09-27,14:12:00,1194,LOW,SMALL,5
+187,LinkedIn,poll,Education,HI,DE,"2025-12-27 12:06:00","#Knowledge #Certification #Education #Learning #StudyTips",0.28,43544,1586,610,244,0.0561,0,2025-12-27,12:06:00,561,LOW,SMALL,5
+188,LinkedIn,poll,Food,DE,BR,"2025-12-07 10:19:00","#MustTry #Cooking #Foodie #Food #FoodBlog #Recipe",0.19,38190,609,234,93,0.0246,0,2025-12-07,10:19:00,246,LOW,SMALL,5
+189,LinkedIn,poll,Education,FR,CA,"2025-02-23 04:47:00","#Education #Knowledge #AcademicSuccess",0.93,6814,578,222,89,0.1307,1,2025-02-23,04:47:00,1307,LOW,SMALL,5
+190,LinkedIn,image,Travel,EN,UK,"2025-04-18 09:16:00","#Journey #Travel #ExploreMore",0.84,11901,1049,403,161,0.1358,1,2025-04-18,09:16:00,1358,LOW,SMALL,5
+191,LinkedIn,carousel,Health,DE,AU,"2025-07-12 15:41:00","#Wellness #Nutrition #MentalHealth #Health #Fitness #HealthTips",0.56,7863,163,62,25,0.032,0,2025-07-12,15:41:00,320,LOW,SMALL,5
+192,LinkedIn,video,Health,ES,IN,"2025-10-08 02:38:00","#MentalHealth #Health #Nutrition #Fitness #HealthTips #Wellness",0.46,14470,1256,483,193,0.1336,1,2025-10-08,02:38:00,1336,LOW,SMALL,5
+193,LinkedIn,carousel,Fashion,UR,UK,"2025-06-02 09:36:00","#TrendingStyle #Style #Fashion #FashionTips #Lookbook #OOTD",0.89,41965,2765,1063,425,0.1014,1,2025-06-02,09:36:00,1014,LOW,SMALL,5
+194,LinkedIn,video,Entertainment,EN,BR,"2025-03-29 02:54:00","#Trending #FollowForMore #MovieTime",0.8,6972,472,181,72,0.1044,1,2025-03-29,02:54:00,1044,LOW,SMALL,5
+195,LinkedIn,carousel,Sports,DE,FR,"2025-07-09 09:28:00","#Football #Fitness #Training #Sports #Basketball #Cricket",0.61,36484,1722,662,265,0.0726,0,2025-07-09,09:28:00,726,LOW,SMALL,5
+196,LinkedIn,poll,Business,EN,FR,"2025-09-25 15:56:00","#CareerGrowth #StartupLife #BusinessTips #Entrepreneur",-0.36,33905,1515,583,233,0.0688,0,2025-09-25,15:56:00,688,LOW,SMALL,5
+197,LinkedIn,poll,Food,ES,IN,"2025-08-18 10:51:00","#Foodie #Food #Recipe #FoodBlog",-0.61,42105,777,299,119,0.0284,0,2025-08-18,10:51:00,284,LOW,SMALL,5
+198,LinkedIn,poll,Lifestyle,DE,IN,"2025-02-14 15:20:00","#Wellness #Positivity #Lifestyle #Motivation #DailyLife",0.49,38132,2239,861,344,0.0904,1,2025-02-14,15:20:00,903,LOW,SMALL,5
+199,LinkedIn,article,Entertainment,HI,UK,"2025-10-02 13:24:00","#FollowForMore #Funny #MovieTime #ShowBiz #Entertainment #Trending #Viral",0.77,45617,3261,1254,501,0.11,1,2025-10-02,13:24:00,1100,LOW,SMALL,5
+200,LinkedIn,article,Health,DE,BR,"2025-01-26 08:01:00","#Fitness #Nutrition #HealthTips #Wellness #Health",-0.79,20692,1204,463,185,0.0896,1,2025-01-26,08:01:00,896,LOW,SMALL,5
+201,LinkedIn,carousel,Education,UR,FR,"2025-11-06 06:13:00","#Certification #StudyTips #Knowledge #Learning #AcademicSuccess #Education",0.7,9889,762,293,117,0.1186,1,2025-11-06,06:13:00,1186,LOW,SMALL,5
+202,LinkedIn,poll,Food,EN,MX,"2025-04-09 06:03:00","#Food #Recipe #MustTry #Foodie",-0.06,31423,1413,543,217,0.0692,0,2025-04-09,06:03:00,692,LOW,SMALL,5
+203,LinkedIn,article,Technology,FR,DE,"2025-09-08 10:37:00","#DataScience #Programming #MachineLearning #CodingLife #TechTrends #AI #Innovation",0.43,38503,2768,1064,425,0.1106,1,2025-09-08,10:37:00,1106,LOW,SMALL,5
+204,LinkedIn,video,Business,FR,BR,"2025-05-18 16:55:00","#BusinessTips #CareerGrowth #Entrepreneur #StartupLife #Hustle #Leadership",0.77,21018,1534,590,236,0.1124,1,2025-05-18,16:55:00,1124,LOW,SMALL,5
+205,LinkedIn,image,Health,PT,DE,"2025-08-24 15:43:00","#HealthTips #MentalHealth #Health #Nutrition #Wellness #Fitness",0.46,5183,205,79,31,0.061,0,2025-08-24,15:43:00,610,LOW,SMALL,5
+206,LinkedIn,image,Education,UR,UK,"2025-12-02 20:12:00","#AcademicSuccess #Education #Learning #Knowledge",0.59,10170,716,275,110,0.1084,1,2025-12-02,20:12:00,1084,LOW,SMALL,5
+207,LinkedIn,carousel,Lifestyle,UR,FR,"2025-07-27 09:45:00","#DailyLife #Motivation #MindfulLiving #Wellness #Positivity #Lifestyle",0.91,44097,3927,1510,604,0.137,1,2025-07-27,09:45:00,1370,LOW,SMALL,5
+208,LinkedIn,video,Lifestyle,HI,JP,"2025-03-07 23:35:00","#MindfulLiving #Motivation #Lifestyle #Positivity",0.85,21125,1068,411,164,0.0779,0,2025-03-07,23:35:00,779,LOW,SMALL,5
+209,LinkedIn,image,Education,UR,CA,"2025-05-31 09:03:00","#AcademicSuccess #Certification #Learning #Education #StudyTips #Knowledge",-0.01,20553,816,314,125,0.0611,0,2025-05-31,09:03:00,611,LOW,SMALL,5
+210,LinkedIn,video,Sports,FR,DE,"2025-07-29 14:20:00","#Fitness #Sports #Basketball #Football #Cricket #Workout #Training",0.4,18925,563,216,86,0.0459,0,2025-07-29,14:20:00,459,LOW,SMALL,5
+211,LinkedIn,video,Food,ES,JP,"2025-02-15 15:27:00","#Recipe #MustTry #FoodBlog #Food #Cooking #Foodie",0.28,22116,1490,573,229,0.1037,1,2025-02-15,15:27:00,1037,LOW,SMALL,5
+212,LinkedIn,poll,Business,EN,US,"2025-11-17 07:56:00","#StartupLife #Entrepreneur #BusinessTips #Leadership #Hustle",0.89,20542,1942,747,298,0.1455,1,2025-11-17,07:56:00,1455,LOW,SMALL,5
+213,LinkedIn,carousel,Fashion,DE,FR,"2025-12-18 10:22:00","#Style #TrendingStyle #Fashion #FashionTips",0.99,14840,1168,449,179,0.1211,1,2025-12-18,10:22:00,1211,LOW,SMALL,5
+214,LinkedIn,poll,Fashion,ES,IN,"2025-07-07 01:56:00","#OOTD #FashionTips #Fashion #Lookbook #TrendingStyle #Style",0.41,46203,1064,409,163,0.0355,0,2025-07-07,01:56:00,354,LOW,SMALL,5
+215,LinkedIn,carousel,Health,HI,AU,"2025-05-10 10:44:00","#Nutrition #Health #Fitness #Wellness #HealthTips #MentalHealth",0.82,28448,2374,913,365,0.1284,1,2025-05-10,10:44:00,1283,LOW,SMALL,5
+216,LinkedIn,article,Fashion,HI,UK,"2025-02-28 15:38:00","#OOTD #FashionTips #Style #TrendingStyle",-0.05,3582,170,65,26,0.0737,0,2025-02-28,15:38:00,737,LOW,SMALL,5
+217,LinkedIn,video,Travel,DE,BR,"2025-01-02 09:53:00","#Journey #Tourism #Adventure #Travel #Wanderlust #ExploreMore",-0.42,30933,2088,803,321,0.1039,1,2025-01-02,09:53:00,1039,LOW,SMALL,5
+218,LinkedIn,image,Lifestyle,JA,US,"2025-02-21 01:18:00","#MindfulLiving #Motivation #Positivity #Wellness #Lifestyle",0.85,4007,68,26,10,0.0263,0,2025-02-21,01:18:00,263,LOW,SMALL,5
+219,LinkedIn,video,Sports,DE,DE,"2025-08-13 08:05:00","#Training #Football #Fitness #Sports #Cricket",0.67,26278,1825,702,280,0.1069,1,2025-08-13,08:05:00,1069,LOW,SMALL,5
+220,LinkedIn,carousel,Health,ES,IN,"2025-03-09 01:10:00","#MentalHealth #HealthTips #Nutrition",0.14,12879,707,272,108,0.0845,1,2025-03-09,01:10:00,845,LOW,SMALL,5
+221,LinkedIn,image,Food,EN,MX,"2025-09-05 03:28:00","#Food #Cooking #FoodBlog",0.92,35394,2839,1092,436,0.1235,1,2025-09-05,03:28:00,1235,LOW,SMALL,5
+222,LinkedIn,poll,Food,FR,DE,"2025-09-23 09:42:00","#Foodie #Recipe #Cooking #FoodBlog #MustTry #Food",0.08,41167,697,268,107,0.0261,0,2025-09-23,09:42:00,261,LOW,SMALL,5
+223,LinkedIn,video,Fashion,JA,JP,"2025-03-26 15:15:00","#OOTD #Fashion #Style #Lookbook #TrendingStyle",0.54,31087,1512,581,232,0.0749,0,2025-03-26,15:15:00,749,LOW,SMALL,5
+224,LinkedIn,poll,Travel,HI,JP,"2025-08-17 15:41:00","#Travel #Tourism #ExploreMore",0.73,6956,546,210,84,0.1209,1,2025-08-17,15:41:00,1209,LOW,SMALL,5
+225,LinkedIn,poll,Lifestyle,FR,JP,"2025-06-24 09:54:00","#Motivation #Wellness #Positivity #MindfulLiving #DailyLife #Lifestyle",0.86,15532,256,98,39,0.0254,0,2025-06-24,09:54:00,254,LOW,SMALL,5
+226,LinkedIn,image,Lifestyle,DE,IN,"2025-01-24 15:52:00","#MindfulLiving #Positivity #Lifestyle #DailyLife #Wellness #Motivation",0.91,15128,822,316,126,0.0836,1,2025-01-24,15:52:00,835,LOW,SMALL,5
+227,LinkedIn,video,Education,HI,FR,"2025-01-24 21:07:00","#StudyTips #AcademicSuccess #Education #Certification #Learning #Knowledge",0.66,39346,2092,804,321,0.0818,1,2025-01-24,21:07:00,818,LOW,SMALL,5
+228,LinkedIn,poll,Sports,ES,MX,"2025-02-23 14:56:00","#Basketball #Cricket #Fitness #Football #Workout #Training",-0.59,9740,176,67,27,0.0278,0,2025-02-23,14:56:00,278,LOW,SMALL,5
+229,LinkedIn,poll,Fashion,UR,AU,"2025-06-10 17:13:00","#Style #FashionTips #OOTD #TrendingStyle",0.8,47556,3257,1253,501,0.1054,1,2025-06-10,17:13:00,1054,LOW,SMALL,5
+230,LinkedIn,video,Fashion,DE,IN,"2025-06-30 15:47:00","#OOTD #TrendingStyle #Fashion #Lookbook #FashionTips #Style",0.43,4709,137,53,21,0.0451,0,2025-06-30,15:47:00,451,LOW,SMALL,5
+231,LinkedIn,video,Lifestyle,UR,MX,"2025-02-01 09:48:00","#Lifestyle #Motivation #Positivity #MindfulLiving #Wellness #DailyLife",0.87,46621,1862,716,286,0.0615,0,2025-02-01,09:48:00,615,LOW,SMALL,5
+232,LinkedIn,article,Health,PT,FR,"2025-12-17 09:47:00","#Wellness #HealthTips #MentalHealth #Health #Nutrition",0.07,40543,1066,410,164,0.0405,0,2025-12-17,09:47:00,405,LOW,SMALL,5
+233,LinkedIn,video,Lifestyle,JA,MX,"2025-12-16 10:32:00","#Positivity #Lifestyle #MindfulLiving",0.56,11546,687,264,105,0.0916,1,2025-12-16,10:32:00,916,LOW,SMALL,5
+234,LinkedIn,image,Technology,DE,JP,"2025-12-30 01:59:00","#Innovation #AI #Programming #DataScience #MachineLearning",0.08,5776,378,145,58,0.1008,1,2025-12-30,01:59:00,1008,LOW,SMALL,5
+235,LinkedIn,image,Fashion,FR,MX,"2025-09-24 10:34:00","#TrendingStyle #Fashion #OOTD #FashionTips #Lookbook #Style",0.58,41519,2314,890,356,0.0858,1,2025-09-24,10:34:00,858,LOW,SMALL,5
+236,LinkedIn,poll,Technology,HI,DE,"2025-08-17 10:43:00","#TechTrends #AI #Programming #DataScience #Innovation",-0.19,34873,2184,840,336,0.0964,1,2025-08-17,10:43:00,964,LOW,SMALL,5
+237,LinkedIn,image,Fashion,JA,JP,"2025-01-23 10:32:00","#Fashion #Style #Lookbook",0.53,42255,3098,1191,476,0.1128,1,2025-01-23,10:32:00,1128,LOW,SMALL,5
+238,LinkedIn,carousel,Entertainment,FR,AU,"2025-12-26 23:27:00","#ShowBiz #Entertainment #Viral #MovieTime #Funny #Trending #FollowForMore",0.43,17509,973,374,149,0.0856,1,2025-12-26,23:27:00,856,LOW,SMALL,5
+239,LinkedIn,poll,Business,UR,FR,"2025-07-18 15:20:00","#CareerGrowth #BusinessTips #Leadership",0.77,49886,3135,1206,482,0.0967,1,2025-07-18,15:20:00,966,LOW,SMALL,5
+240,LinkedIn,article,Education,HI,UK,"2025-12-18 09:48:00","#StudyTips #Certification #Learning #Education #AcademicSuccess #Knowledge",0.63,36764,1405,540,216,0.0589,0,2025-12-18,09:48:00,589,LOW,SMALL,5
+241,LinkedIn,video,Lifestyle,DE,US,"2025-10-11 04:02:00","#Wellness #MindfulLiving #Positivity",0.97,20968,721,277,111,0.0529,0,2025-10-11,04:02:00,529,LOW,SMALL,5
+242,LinkedIn,image,Business,PT,AU,"2025-03-14 10:53:00","#Entrepreneur #BusinessTips #Hustle #StartupLife #Leadership",0.27,36969,1717,660,264,0.0715,0,2025-03-14,10:53:00,714,LOW,SMALL,5
+243,LinkedIn,poll,Entertainment,UR,IN,"2025-05-09 15:22:00","#MovieTime #ShowBiz #Viral #Entertainment",0.44,13681,520,200,80,0.0586,0,2025-05-09,15:22:00,586,LOW,SMALL,5
+244,LinkedIn,carousel,Education,UR,CA,"2025-03-20 14:27:00","#Learning #Knowledge #Education #Certification",0.12,19132,1339,515,206,0.1078,1,2025-03-20,14:27:00,1078,LOW,SMALL,5
+245,LinkedIn,video,Education,JA,JP,"2025-08-17 14:35:00","#Education #AcademicSuccess #Learning",0.23,10175,771,296,118,0.1167,1,2025-08-17,14:35:00,1167,LOW,SMALL,5
+246,LinkedIn,video,Lifestyle,HI,IN,"2025-01-10 20:52:00","#Wellness #Positivity #DailyLife #Lifestyle #MindfulLiving #Motivation",0.49,26722,843,324,129,0.0486,0,2025-01-10,20:52:00,486,LOW,SMALL,5
+247,LinkedIn,poll,Lifestyle,ES,JP,"2025-09-14 15:32:00","#MindfulLiving #DailyLife #Wellness",-0.13,11434,270,104,41,0.0364,0,2025-09-14,15:32:00,364,LOW,SMALL,5
+248,LinkedIn,poll,Sports,JA,DE,"2025-01-21 15:04:00","#Football #Fitness #Sports #Workout #Training",-0.67,31780,1844,709,283,0.0893,1,2025-01-21,15:04:00,893,LOW,SMALL,5
+249,LinkedIn,article,Technology,DE,IN,"2025-12-27 20:17:00","#DataScience #Innovation #CodingLife #MachineLearning #TechTrends #Programming #AI",0.94,6101,364,140,56,0.0919,1,2025-12-27,20:17:00,919,LOW,SMALL,5
+250,LinkedIn,carousel,Business,PT,DE,"2025-06-26 15:00:00","#Entrepreneur #CareerGrowth #Hustle #BusinessTips #StartupLife #Leadership",0.51,24738,1486,571,228,0.0925,1,2025-06-26,15:00:00,925,LOW,SMALL,5
+251,LinkedIn,article,Business,PT,DE,"2025-02-28 15:13:00","#Entrepreneur #CareerGrowth #BusinessTips #Leadership #StartupLife #Hustle",0.5,42257,2250,865,346,0.082,1,2025-02-28,15:13:00,820,LOW,SMALL,5
+252,LinkedIn,poll,Sports,EN,MX,"2025-05-13 16:38:00","#Workout #Sports #Football #Training #Basketball #Fitness #Cricket",-0.11,27920,1405,540,216,0.0774,0,2025-05-13,16:38:00,774,LOW,SMALL,5
+253,LinkedIn,poll,Sports,UR,MX,"2025-12-18 15:37:00","#Fitness #Basketball #Workout",0.41,35256,2726,1048,419,0.119,1,2025-12-18,15:37:00,1190,LOW,SMALL,5
+254,LinkedIn,poll,Health,ES,CA,"2025-02-19 09:32:00","#Health #MentalHealth #Wellness",-0.51,1078,65,25,10,0.0929,1,2025-02-19,09:32:00,929,LOW,SMALL,5
+255,LinkedIn,carousel,Fashion,PT,DE,"2025-01-23 13:51:00","#TrendingStyle #OOTD #Fashion #Style #Lookbook #FashionTips",0.54,6493,236,91,36,0.0562,0,2025-01-23,13:51:00,562,LOW,SMALL,5
+256,LinkedIn,poll,Health,UR,BR,"2025-01-03 00:33:00","#HealthTips #Health #MentalHealth",0.81,21702,1067,410,164,0.0757,0,2025-01-03,00:33:00,757,LOW,SMALL,5
+257,LinkedIn,article,Sports,PT,CA,"2025-05-10 15:23:00","#Football #Workout #Basketball #Fitness #Cricket #Training #Sports",0.73,17631,1660,638,255,0.1449,1,2025-05-10,15:23:00,1449,LOW,SMALL,5
+258,LinkedIn,poll,Education,PT,MX,"2025-12-04 10:50:00","#Education #Learning #Certification #Knowledge #StudyTips #AcademicSuccess",0.11,45863,2792,1074,429,0.0937,1,2025-12-04,10:50:00,937,LOW,SMALL,5
+259,LinkedIn,video,Health,EN,IN,"2025-03-16 15:04:00","#Wellness #Fitness #Health #HealthTips #MentalHealth",0.27,27256,1558,599,239,0.088,1,2025-03-16,15:04:00,880,LOW,SMALL,5
+260,LinkedIn,poll,Lifestyle,EN,MX,"2025-11-24 09:54:00","#Wellness #Motivation #DailyLife #Lifestyle #MindfulLiving #Positivity",0.62,43927,677,260,104,0.0238,0,2025-11-24,09:54:00,238,LOW,SMALL,5
+261,LinkedIn,video,Entertainment,UR,FR,"2025-06-30 12:12:00","#Entertainment #MovieTime #ShowBiz #Funny #Trending #Viral #FollowForMore",0.89,15830,1051,404,161,0.1022,1,2025-06-30,12:12:00,1022,LOW,SMALL,5
+262,LinkedIn,video,Travel,PT,CA,"2025-01-03 15:06:00","#Travel #ExploreMore #Wanderlust #Adventure #Journey #Tourism",0.21,38676,1202,462,185,0.0479,0,2025-01-03,15:06:00,479,LOW,SMALL,5
+263,LinkedIn,carousel,Health,JA,BR,"2025-06-23 14:29:00","#Health #MentalHealth #Nutrition #Wellness #HealthTips #Fitness",1,45362,3454,1328,531,0.1172,1,2025-06-23,14:29:00,1172,LOW,SMALL,5
+264,LinkedIn,image,Health,DE,AU,"2025-10-02 14:18:00","#MentalHealth #Fitness #Health",0.51,21569,894,344,137,0.0638,0,2025-10-02,14:18:00,638,LOW,SMALL,5
+265,LinkedIn,poll,Lifestyle,ES,BR,"2025-09-13 07:15:00","#DailyLife #MindfulLiving #Wellness #Lifestyle #Positivity",0.46,6143,397,153,61,0.0997,1,2025-09-13,07:15:00,997,LOW,SMALL,5
+266,LinkedIn,carousel,Food,EN,AU,"2025-01-22 11:20:00","#FoodBlog #Cooking #Recipe #Food #Foodie #MustTry",0.75,4548,262,101,40,0.0889,1,2025-01-22,11:20:00,889,LOW,SMALL,5
+267,LinkedIn,carousel,Travel,EN,AU,"2025-06-27 10:07:00","#ExploreMore #Tourism #Wanderlust #Journey #Travel #Adventure",0.63,7602,308,118,47,0.0625,0,2025-06-27,10:07:00,625,LOW,SMALL,5
+268,LinkedIn,poll,Lifestyle,ES,AU,"2025-05-15 15:21:00","#DailyLife #Positivity #Wellness #Lifestyle #MindfulLiving",-0.01,27253,846,325,130,0.0478,0,2025-05-15,15:21:00,478,LOW,SMALL,5
+269,LinkedIn,video,Food,ES,CA,"2025-12-18 09:17:00","#FoodBlog #Recipe #MustTry #Food",0.98,10800,611,235,94,0.0871,1,2025-12-18,09:17:00,871,LOW,SMALL,5
+270,LinkedIn,article,Sports,PT,JP,"2025-03-10 20:34:00","#Football #Basketball #Training #Cricket #Workout #Sports #Fitness",0.5,15120,1145,440,176,0.1166,1,2025-03-10,20:34:00,1166,LOW,SMALL,5
+271,LinkedIn,carousel,Entertainment,JA,DE,"2025-05-14 14:01:00","#Entertainment #Trending #Funny #Viral #MovieTime #ShowBiz",-0.74,22305,984,378,151,0.0679,0,2025-05-14,14:01:00,679,LOW,SMALL,5
+272,LinkedIn,carousel,Travel,HI,FR,"2025-11-11 10:40:00","#Tourism #ExploreMore #Journey #Travel #Wanderlust",0.54,21766,1402,539,215,0.0991,1,2025-11-11,10:40:00,990,LOW,SMALL,5
+273,LinkedIn,image,Food,PT,UK,"2025-08-16 11:37:00","#Recipe #MustTry #Foodie #Food #Cooking #FoodBlog",0.13,49750,3025,1163,465,0.0936,1,2025-08-16,11:37:00,936,LOW,SMALL,5
+274,LinkedIn,article,Business,ES,FR,"2025-02-22 15:03:00","#CareerGrowth #Leadership #BusinessTips",0.77,6525,445,171,68,0.1052,1,2025-02-22,15:03:00,1052,LOW,SMALL,5
+275,LinkedIn,carousel,Lifestyle,FR,BR,"2025-05-26 10:33:00","#Lifestyle #MindfulLiving #Motivation #DailyLife",0.03,36427,2711,1042,417,0.1145,1,2025-05-26,10:33:00,1145,LOW,SMALL,5
+276,LinkedIn,poll,Travel,ES,AU,"2025-04-01 15:47:00","#ExploreMore #Tourism #Wanderlust #Adventure #Journey #Travel",0.02,24971,999,384,153,0.0616,0,2025-04-01,15:47:00,616,LOW,SMALL,5
+277,LinkedIn,video,Lifestyle,EN,US,"2025-09-25 04:18:00","#Wellness #Lifestyle #Positivity #DailyLife #Motivation #MindfulLiving",0.2,40125,1192,458,183,0.0457,0,2025-09-25,04:18:00,457,LOW,SMALL,5
+278,LinkedIn,article,Fashion,DE,BR,"2025-07-30 13:15:00","#Lookbook #TrendingStyle #FashionTips #Fashion",0.65,16699,929,357,143,0.0856,1,2025-07-30,13:15:00,856,LOW,SMALL,5
+279,LinkedIn,poll,Lifestyle,UR,AU,"2025-05-18 09:08:00","#Lifestyle #Positivity #Wellness #DailyLife #Motivation",0.41,4252,362,139,55,0.1314,1,2025-05-18,09:08:00,1314,LOW,SMALL,5
+280,LinkedIn,article,Sports,HI,UK,"2025-05-18 15:00:00","#Sports #Fitness #Training #Basketball",0.65,33662,3131,1204,481,0.1432,1,2025-05-18,15:00:00,1432,LOW,SMALL,5
+281,LinkedIn,carousel,Technology,DE,IN,"2025-03-16 15:34:00","#MachineLearning #Programming #DataScience #TechTrends #AI #Innovation",-0.36,26218,1476,567,227,0.0866,1,2025-03-16,15:34:00,866,LOW,SMALL,5
+282,LinkedIn,carousel,Business,EN,BR,"2025-08-24 03:42:00","#CareerGrowth #Hustle #StartupLife #Entrepreneur",0.84,49806,4609,1773,709,0.1424,1,2025-08-24,03:42:00,1424,LOW,SMALL,5
+283,LinkedIn,poll,Entertainment,UR,JP,"2025-11-23 14:55:00","#Viral #Entertainment #ShowBiz #FollowForMore #Funny #MovieTime #Trending",0.09,26939,1778,684,273,0.1016,1,2025-11-23,14:55:00,1016,LOW,SMALL,5
+284,LinkedIn,article,Technology,JA,CA,"2025-03-21 09:10:00","#AI #CodingLife #Innovation #DataScience #TechTrends #Programming",0.79,46962,2780,1069,427,0.0911,1,2025-03-21,09:10:00,911,LOW,SMALL,5
+285,LinkedIn,article,Sports,JA,BR,"2025-06-12 20:22:00","#Workout #Fitness #Sports #Basketball #Training #Cricket",0.42,47309,2206,848,339,0.0718,0,2025-06-12,20:22:00,718,LOW,SMALL,5
+286,LinkedIn,image,Fashion,JA,BR,"2025-10-18 14:46:00","#OOTD #FashionTips #Style #Fashion #Lookbook #TrendingStyle",0.56,25059,1244,478,191,0.0764,0,2025-10-18,14:46:00,764,LOW,SMALL,5
+287,LinkedIn,poll,Health,ES,US,"2025-11-14 19:20:00","#Health #HealthTips #MentalHealth #Nutrition #Wellness #Fitness",0.59,43002,1717,660,264,0.0614,0,2025-11-14,19:20:00,614,LOW,SMALL,5
+288,LinkedIn,article,Fashion,HI,US,"2025-03-08 09:06:00","#Style #Fashion #FashionTips #OOTD #Lookbook #TrendingStyle",0.82,17773,358,137,55,0.031,0,2025-03-08,09:06:00,310,LOW,SMALL,5
+289,LinkedIn,video,Food,HI,US,"2025-04-17 02:51:00","#Food #Cooking #Recipe #Foodie #MustTry #FoodBlog",0.84,20916,472,181,72,0.0348,0,2025-04-17,02:51:00,348,LOW,SMALL,5
+290,LinkedIn,video,Fashion,HI,IN,"2025-04-29 10:33:00","#Style #FashionTips #Lookbook #OOTD #TrendingStyle #Fashion",0.09,45203,1987,764,305,0.0677,0,2025-04-29,10:33:00,677,LOW,SMALL,5
+291,LinkedIn,carousel,Entertainment,ES,MX,"2025-10-09 14:10:00","#Funny #FollowForMore #Trending #ShowBiz #MovieTime #Viral #Entertainment",0.78,48570,2039,784,313,0.0646,0,2025-10-09,14:10:00,646,LOW,SMALL,5
+292,LinkedIn,video,Food,FR,FR,"2025-10-09 08:28:00","#Recipe #Food #FoodBlog #Foodie #MustTry #Cooking",-0.73,20682,1243,478,191,0.0925,1,2025-10-09,08:28:00,925,LOW,SMALL,5
+293,LinkedIn,video,Education,EN,UK,"2025-10-11 10:02:00","#Knowledge #Education #AcademicSuccess #StudyTips #Certification #Learning",0.89,7023,445,171,68,0.0976,1,2025-10-11,10:02:00,976,LOW,SMALL,5
+294,LinkedIn,poll,Business,HI,DE,"2025-09-05 09:41:00","#BusinessTips #Leadership #CareerGrowth #Hustle #StartupLife",-0.7,29462,932,358,143,0.0487,0,2025-09-05,09:41:00,487,LOW,SMALL,5
+295,LinkedIn,article,Business,EN,FR,"2025-01-28 09:34:00","#Entrepreneur #StartupLife #Hustle #BusinessTips #Leadership #CareerGrowth",-0.32,38699,1602,616,246,0.0637,0,2025-01-28,09:34:00,637,LOW,SMALL,5
+296,LinkedIn,video,Health,UR,FR,"2025-03-17 09:36:00","#Health #HealthTips #MentalHealth #Wellness #Nutrition #Fitness",0.86,9544,750,288,115,0.121,1,2025-03-17,09:36:00,1210,LOW,SMALL,5
+297,LinkedIn,carousel,Fashion,FR,JP,"2025-07-22 06:39:00","#FashionTips #Style #Lookbook #Fashion #TrendingStyle #OOTD",0.95,6871,178,68,27,0.0402,0,2025-07-22,06:39:00,402,LOW,SMALL,5
+298,LinkedIn,carousel,Health,DE,DE,"2025-04-08 09:10:00","#HealthTips #MentalHealth #Wellness #Nutrition #Health",-0.79,45915,1306,502,201,0.0438,0,2025-04-08,09:10:00,438,LOW,SMALL,5
+299,LinkedIn,article,Entertainment,EN,BR,"2025-11-14 09:21:00","#ShowBiz #Entertainment #Trending #FollowForMore #Viral #MovieTime #Funny",0.72,14356,846,325,130,0.0908,1,2025-11-14,09:21:00,908,LOW,SMALL,5
+300,LinkedIn,image,Fashion,JA,CA,"2025-03-14 21:24:00","#Lookbook #FashionTips #Fashion #Style #TrendingStyle #OOTD",0.87,41498,1602,616,246,0.0594,0,2025-03-14,21:24:00,594,LOW,SMALL,5
+301,LinkedIn,carousel,Technology,HI,FR,"2025-12-05 14:01:00","#Programming #CodingLife #TechTrends #MachineLearning #Innovation",0.83,21673,1204,463,185,0.0855,1,2025-12-05,14:01:00,855,LOW,SMALL,5
+302,LinkedIn,poll,Fashion,HI,MX,"2025-04-12 15:59:00","#Fashion #Lookbook #Style #OOTD #TrendingStyle #FashionTips",0.85,2204,98,37,15,0.0686,0,2025-04-12,15:59:00,686,LOW,SMALL,5
+303,LinkedIn,image,Education,UR,BR,"2025-09-14 09:16:00","#Learning #AcademicSuccess #Knowledge #Certification #StudyTips #Education",0.13,6753,423,163,65,0.0966,1,2025-09-14,09:16:00,966,LOW,SMALL,5
+304,LinkedIn,poll,Food,FR,FR,"2025-05-04 15:58:00","#Cooking #Recipe #Foodie #Food #MustTry #FoodBlog",-0.05,47211,3320,1277,510,0.1082,1,2025-05-04,15:58:00,1082,LOW,SMALL,5
+305,LinkedIn,video,Health,ES,CA,"2025-03-22 09:20:00","#Nutrition #Health #Fitness #Wellness",-0.73,49864,2869,1103,441,0.0885,1,2025-03-22,09:20:00,885,LOW,SMALL,5
+306,LinkedIn,image,Sports,FR,IN,"2025-03-09 14:36:00","#Fitness #Cricket #Training #Workout #Football #Sports #Basketball",0.87,9787,562,216,86,0.0886,1,2025-03-09,14:36:00,886,LOW,SMALL,5
+307,LinkedIn,poll,Travel,DE,MX,"2025-07-18 10:12:00","#Travel #Tourism #Journey #Adventure",-0.8,44996,2640,1015,406,0.0903,1,2025-07-18,10:12:00,903,LOW,SMALL,5
+308,LinkedIn,video,Entertainment,ES,JP,"2025-11-12 14:56:00","#FollowForMore #ShowBiz #Entertainment #MovieTime",0,49658,2491,958,383,0.0772,0,2025-11-12,14:56:00,772,LOW,SMALL,5
+309,LinkedIn,poll,Fashion,EN,AU,"2025-02-25 09:33:00","#TrendingStyle #Fashion #Lookbook #OOTD #FashionTips #Style",0.64,20959,1580,608,243,0.1161,1,2025-02-25,09:33:00,1161,LOW,SMALL,5
+310,LinkedIn,image,Travel,ES,FR,"2025-05-31 01:33:00","#Tourism #Journey #Travel #Wanderlust",0.51,39367,3356,1291,516,0.1312,1,2025-05-31,01:33:00,1312,LOW,SMALL,5
+311,LinkedIn,poll,Sports,PT,FR,"2025-06-15 10:37:00","#Fitness #Basketball #Sports #Football #Training #Cricket #Workout",0.82,42554,1939,746,298,0.0701,0,2025-06-15,10:37:00,701,LOW,SMALL,5
+312,LinkedIn,poll,Health,ES,FR,"2025-10-09 10:36:00","#Wellness #Nutrition #HealthTips #Health #Fitness #MentalHealth",0.84,30245,1202,462,185,0.0612,0,2025-10-09,10:36:00,612,LOW,SMALL,5
+313,LinkedIn,video,Entertainment,ES,BR,"2025-01-02 08:29:00","#ShowBiz #FollowForMore #Funny #Entertainment #Trending #Viral",0.75,32176,1674,644,257,0.0801,1,2025-01-02,08:29:00,801,LOW,SMALL,5
+314,LinkedIn,carousel,Entertainment,EN,BR,"2025-10-08 10:11:00","#Entertainment #MovieTime #Trending #ShowBiz",0.42,38885,2953,1136,454,0.1169,1,2025-10-08,10:11:00,1169,LOW,SMALL,5
+315,LinkedIn,image,Education,HI,US,"2025-02-25 10:43:00","#AcademicSuccess #Certification #Education #StudyTips #Knowledge",-0.92,20614,507,195,78,0.0379,0,2025-02-25,10:43:00,379,LOW,SMALL,5
+316,LinkedIn,carousel,Entertainment,PT,AU,"2025-02-03 10:44:00","#Trending #Funny #FollowForMore #Viral #ShowBiz",0.43,38445,2622,1008,403,0.105,1,2025-02-03,10:44:00,1050,LOW,SMALL,5
+317,LinkedIn,poll,Entertainment,JA,CA,"2025-12-28 14:33:00","#Funny #Trending #Viral #FollowForMore #MovieTime #ShowBiz #Entertainment",0.24,16251,1028,395,158,0.0974,1,2025-12-28,14:33:00,974,LOW,SMALL,5
+318,LinkedIn,video,Technology,HI,US,"2025-08-27 03:54:00","#Programming #Innovation #TechTrends #CodingLife",0.61,42779,1355,521,208,0.0488,0,2025-08-27,03:54:00,488,LOW,SMALL,5
+319,LinkedIn,video,Lifestyle,UR,IN,"2025-06-07 14:07:00","#Motivation #MindfulLiving #Positivity #Wellness #Lifestyle #DailyLife",0.9,45071,2526,971,388,0.0862,1,2025-06-07,14:07:00,862,LOW,SMALL,5
+320,LinkedIn,carousel,Technology,ES,JP,"2025-03-21 17:29:00","#CodingLife #AI #Innovation #DataScience #TechTrends #MachineLearning",0.41,38840,2510,965,386,0.0994,1,2025-03-21,17:29:00,994,LOW,SMALL,5
+321,LinkedIn,image,Entertainment,ES,UK,"2025-01-16 15:34:00","#Funny #ShowBiz #FollowForMore #Viral",0.92,21203,1591,612,244,0.1155,1,2025-01-16,15:34:00,1155,LOW,SMALL,5
+322,LinkedIn,image,Technology,UR,FR,"2025-02-14 10:28:00","#MachineLearning #Innovation #DataScience #Programming #AI",0.42,14244,1160,446,178,0.1254,1,2025-02-14,10:28:00,1254,LOW,SMALL,5
+323,LinkedIn,carousel,Fashion,EN,JP,"2025-09-14 14:46:00","#OOTD #Lookbook #Style #Fashion #FashionTips #TrendingStyle",0.03,47771,3335,1283,513,0.1074,1,2025-09-14,14:46:00,1074,LOW,SMALL,5
+324,LinkedIn,article,Technology,UR,US,"2025-12-18 02:29:00","#AI #Innovation #DataScience",0.86,42867,3827,1472,588,0.1374,1,2025-12-18,02:29:00,1374,LOW,SMALL,5
+325,LinkedIn,image,Business,FR,UK,"2025-05-22 15:07:00","#Entrepreneur #Hustle #StartupLife #BusinessTips #CareerGrowth",-0.5,7709,172,66,26,0.0346,0,2025-05-22,15:07:00,346,LOW,SMALL,5
+326,LinkedIn,image,Fashion,DE,UK,"2025-03-14 09:15:00","#Fashion #OOTD #FashionTips #TrendingStyle",0.48,31850,2613,1005,402,0.1262,1,2025-03-14,09:15:00,1262,LOW,SMALL,5
+327,LinkedIn,article,Entertainment,PT,US,"2025-02-14 10:38:00","#MovieTime #ShowBiz #FollowForMore #Trending #Viral #Funny #Entertainment",0.14,35962,677,260,104,0.029,0,2025-02-14,10:38:00,290,LOW,SMALL,5
+328,LinkedIn,carousel,Food,ES,IN,"2025-12-24 15:43:00","#MustTry #Recipe #FoodBlog #Food #Cooking #Foodie",0.11,24819,986,379,151,0.0612,0,2025-12-24,15:43:00,612,LOW,SMALL,5
+329,LinkedIn,image,Education,JA,JP,"2025-01-16 09:30:00","#Education #Knowledge #AcademicSuccess #StudyTips #Learning #Certification",0.83,8011,341,131,52,0.0657,0,2025-01-16,09:30:00,657,LOW,SMALL,5
+330,LinkedIn,article,Lifestyle,JA,FR,"2025-10-30 10:10:00","#Positivity #Lifestyle #Motivation #Wellness #DailyLife #MindfulLiving",0.61,46490,1558,599,239,0.0516,0,2025-10-30,10:10:00,516,LOW,SMALL,5
+331,LinkedIn,article,Food,JA,IN,"2025-10-31 14:06:00","#Foodie #Cooking #Recipe #Food #FoodBlog #MustTry",0.79,5029,117,45,18,0.0359,0,2025-10-31,14:06:00,359,LOW,SMALL,5
+332,LinkedIn,video,Food,EN,MX,"2025-12-05 14:39:00","#Recipe #Foodie #FoodBlog #Cooking #MustTry #Food",0.95,20958,1957,753,301,0.1437,1,2025-12-05,14:39:00,1437,LOW,SMALL,5
+333,LinkedIn,carousel,Education,HI,CA,"2025-01-05 16:54:00","#Knowledge #Learning #Certification #StudyTips",-1,37702,1750,673,269,0.0715,0,2025-01-05,16:54:00,714,LOW,SMALL,5
+334,LinkedIn,image,Entertainment,UR,US,"2025-05-01 15:20:00","#FollowForMore #ShowBiz #MovieTime #Funny #Trending #Entertainment #Viral",0.51,26204,2048,788,315,0.1203,1,2025-05-01,15:20:00,1203,LOW,SMALL,5
+335,LinkedIn,image,Health,ES,UK,"2025-12-10 09:41:00","#Wellness #MentalHealth #HealthTips",-0.88,9992,402,154,61,0.062,0,2025-12-10,09:41:00,620,LOW,SMALL,5
+336,LinkedIn,carousel,Travel,PT,CA,"2025-04-03 15:52:00","#Tourism #Wanderlust #Adventure #Travel #Journey #ExploreMore",0.91,16515,1246,479,191,0.1161,1,2025-04-03,15:52:00,1161,LOW,SMALL,5
+337,LinkedIn,image,Health,DE,US,"2025-01-20 14:37:00","#Nutrition #Health #Wellness #Fitness #MentalHealth #HealthTips",0.71,40981,931,358,143,0.035,0,2025-01-20,14:37:00,350,LOW,SMALL,5
+338,LinkedIn,carousel,Entertainment,UR,CA,"2025-01-28 17:00:00","#FollowForMore #Funny #ShowBiz #Trending #Viral #MovieTime",-0.28,19953,436,167,67,0.0337,0,2025-01-28,17:00:00,337,LOW,SMALL,5
+339,LinkedIn,poll,Lifestyle,UR,US,"2025-11-19 10:03:00","#Motivation #Wellness #Lifestyle #DailyLife #MindfulLiving #Positivity",0.45,19209,640,246,98,0.0513,0,2025-11-19,10:03:00,513,LOW,SMALL,5
+340,LinkedIn,poll,Lifestyle,UR,UK,"2025-01-08 19:58:00","#MindfulLiving #DailyLife #Positivity #Wellness #Lifestyle #Motivation",-0.08,12849,814,313,125,0.0975,1,2025-01-08,19:58:00,975,LOW,SMALL,5
+341,LinkedIn,article,Education,HI,MX,"2025-11-01 04:31:00","#StudyTips #Education #Certification #Knowledge #Learning #AcademicSuccess",0.91,4560,317,122,48,0.1072,1,2025-11-01,04:31:00,1072,LOW,SMALL,5
+342,LinkedIn,article,Technology,ES,JP,"2025-07-24 15:48:00","#MachineLearning #TechTrends #CodingLife #Innovation #Programming #AI #DataScience",0.96,30413,1481,569,227,0.075,0,2025-07-24,15:48:00,750,LOW,SMALL,5
+343,LinkedIn,image,Fashion,EN,IN,"2025-09-30 13:58:00","#OOTD #Lookbook #FashionTips #Style #Fashion #TrendingStyle",0.63,45255,3318,1276,510,0.1128,1,2025-09-30,13:58:00,1128,LOW,SMALL,5
+344,LinkedIn,poll,Business,DE,MX,"2025-06-10 09:00:00","#BusinessTips #Leadership #Hustle #StartupLife #Entrepreneur #CareerGrowth",0.57,13653,243,93,37,0.0274,0,2025-06-10,09:00:00,274,LOW,SMALL,5
+345,LinkedIn,poll,Entertainment,EN,CA,"2025-12-03 06:40:00","#MovieTime #Entertainment #ShowBiz",-0.14,44017,2641,1016,406,0.0923,1,2025-12-03,06:40:00,922,LOW,SMALL,5
+346,LinkedIn,poll,Sports,HI,MX,"2025-05-10 09:29:00","#Training #Basketball #Football #Cricket #Sports",-0.06,5088,189,72,29,0.0572,0,2025-05-10,09:29:00,572,LOW,SMALL,5
+347,LinkedIn,image,Technology,UR,UK,"2025-04-02 15:39:00","#MachineLearning #CodingLife #TechTrends #AI #Innovation #Programming",0.79,29939,2203,847,339,0.1132,1,2025-04-02,15:39:00,1132,LOW,SMALL,5
+348,LinkedIn,article,Technology,HI,IN,"2025-10-20 14:57:00","#MachineLearning #CodingLife #AI #Innovation #DataScience #Programming",0.82,26646,1671,642,257,0.0965,1,2025-10-20,14:57:00,965,LOW,SMALL,5
+349,LinkedIn,poll,Travel,JA,FR,"2025-07-26 02:14:00","#Tourism #Journey #Travel",0.96,24522,1094,421,168,0.0687,0,2025-07-26,02:14:00,687,LOW,SMALL,5
+350,LinkedIn,image,Health,EN,IN,"2025-07-07 14:53:00","#Fitness #Wellness #HealthTips #Nutrition #Health #MentalHealth",0.58,26565,2222,854,341,0.1287,1,2025-07-07,14:53:00,1287,LOW,SMALL,5
+351,LinkedIn,image,Travel,HI,JP,"2025-04-08 10:46:00","#Adventure #Tourism #ExploreMore #Travel #Journey #Wanderlust",0.9,30445,2931,1127,451,0.1482,1,2025-04-08,10:46:00,1482,LOW,SMALL,5
+352,LinkedIn,article,Technology,DE,US,"2025-06-22 01:07:00","#Programming #CodingLife #Innovation #TechTrends",-0.22,36164,765,294,117,0.0326,0,2025-06-22,01:07:00,325,LOW,SMALL,5
+353,LinkedIn,poll,Business,HI,US,"2025-03-14 09:58:00","#BusinessTips #Entrepreneur #Leadership #Hustle #StartupLife #CareerGrowth",-0.26,7376,289,111,44,0.0605,0,2025-03-14,09:58:00,605,LOW,SMALL,5
+354,LinkedIn,video,Food,HI,IN,"2025-02-28 10:51:00","#Recipe #Cooking #MustTry #Foodie",0.81,36775,1001,385,154,0.0419,0,2025-02-28,10:51:00,419,LOW,SMALL,5
+355,LinkedIn,video,Technology,ES,DE,"2025-02-02 10:10:00","#DataScience #Innovation #MachineLearning #TechTrends #AI #Programming #CodingLife",0.91,41136,1960,754,301,0.0733,0,2025-02-02,10:10:00,733,LOW,SMALL,5
+356,LinkedIn,video,Technology,JA,IN,"2025-01-04 09:41:00","#DataScience #TechTrends #CodingLife #MachineLearning #AI #Programming #Innovation",0.65,12439,782,301,120,0.0969,1,2025-01-04,09:41:00,969,LOW,SMALL,5
+357,LinkedIn,article,Food,ES,JP,"2025-11-10 20:50:00","#Cooking #Recipe #Food #MustTry #FoodBlog",0.99,7270,501,193,77,0.1062,1,2025-11-10,20:50:00,1062,LOW,SMALL,5
+358,LinkedIn,poll,Fashion,FR,JP,"2025-11-17 08:12:00","#Style #TrendingStyle #FashionTips",0.8,3825,78,30,12,0.0315,0,2025-11-17,08:12:00,315,LOW,SMALL,5
+359,LinkedIn,image,Lifestyle,FR,FR,"2025-05-09 15:06:00","#Lifestyle #Wellness #DailyLife #MindfulLiving #Motivation #Positivity",0.44,16420,1112,428,171,0.1043,1,2025-05-09,15:06:00,1043,LOW,SMALL,5
+360,LinkedIn,poll,Food,DE,FR,"2025-04-12 10:49:00","#Cooking #Foodie #Food",0.65,14104,630,242,97,0.0688,0,2025-04-12,10:49:00,688,LOW,SMALL,5
+361,LinkedIn,video,Entertainment,JA,CA,"2025-09-06 15:13:00","#FollowForMore #Viral #ShowBiz #Trending #Entertainment #MovieTime #Funny",0.99,14252,643,247,99,0.0695,0,2025-09-06,15:13:00,695,LOW,SMALL,5
+362,LinkedIn,article,Food,EN,UK,"2025-03-11 15:26:00","#Cooking #Foodie #MustTry #Recipe",0.88,41077,3731,1435,574,0.1397,1,2025-03-11,15:26:00,1397,LOW,SMALL,5
+363,LinkedIn,poll,Fashion,FR,IN,"2025-07-30 15:13:00","#TrendingStyle #Lookbook #OOTD #Fashion #Style #FashionTips",0.66,15575,1324,509,203,0.1308,1,2025-07-30,15:13:00,1308,LOW,SMALL,5
+364,LinkedIn,poll,Sports,EN,FR,"2025-01-23 15:49:00","#Sports #Basketball #Cricket #Workout #Fitness #Training #Football",0.45,1814,118,45,18,0.1014,1,2025-01-23,15:49:00,1014,LOW,SMALL,5
+365,LinkedIn,carousel,Business,ES,DE,"2025-06-01 09:30:00","#StartupLife #Entrepreneur #CareerGrowth #Hustle #BusinessTips #Leadership",0.48,47080,2119,815,326,0.0693,0,2025-06-01,09:30:00,693,LOW,SMALL,5
+366,LinkedIn,image,Travel,EN,IN,"2025-07-17 10:02:00","#Tourism #Wanderlust #Adventure #ExploreMore #Travel",0.6,4592,251,96,38,0.0843,1,2025-07-17,10:02:00,843,LOW,SMALL,5
+367,LinkedIn,image,Technology,HI,FR,"2025-07-07 09:23:00","#CodingLife #Innovation #AI #MachineLearning",0.6,36365,874,336,134,0.037,0,2025-07-07,09:23:00,370,LOW,SMALL,5
+368,LinkedIn,carousel,Food,FR,BR,"2025-06-14 14:43:00","#Cooking #Food #FoodBlog #Foodie #MustTry #Recipe",0.72,9041,478,184,73,0.0815,1,2025-06-14,14:43:00,815,LOW,SMALL,5
+369,LinkedIn,poll,Fashion,UR,JP,"2025-11-14 09:57:00","#Fashion #Lookbook #TrendingStyle #FashionTips #Style #OOTD",0.57,46683,1236,475,190,0.0407,0,2025-11-14,09:57:00,407,LOW,SMALL,5
+370,LinkedIn,video,Business,EN,UK,"2025-08-02 17:30:00","#CareerGrowth #Hustle #BusinessTips #Entrepreneur #Leadership",0.92,16225,1392,535,214,0.1321,1,2025-08-02,17:30:00,1321,LOW,SMALL,5
+371,LinkedIn,poll,Education,PT,CA,"2025-06-25 10:37:00","#Certification #AcademicSuccess #StudyTips #Education #Knowledge #Learning",-0.05,18039,492,189,75,0.042,0,2025-06-25,10:37:00,420,LOW,SMALL,5
+372,LinkedIn,image,Lifestyle,EN,MX,"2025-06-30 10:59:00","#MindfulLiving #Wellness #Motivation #Lifestyle",-0.24,46407,3092,1189,475,0.1025,1,2025-06-30,10:59:00,1025,LOW,SMALL,5
+373,LinkedIn,video,Sports,FR,IN,"2025-01-22 18:28:00","#Football #Fitness #Workout #Sports #Training",0.61,25439,1268,487,195,0.0767,0,2025-01-22,18:28:00,767,LOW,SMALL,5
+374,LinkedIn,video,Fashion,UR,IN,"2025-01-13 15:29:00","#Style #Fashion #OOTD #TrendingStyle #Lookbook",0.57,38599,2546,979,391,0.1015,1,2025-01-13,15:29:00,1015,LOW,SMALL,5
+375,LinkedIn,poll,Travel,DE,IN,"2025-09-03 04:35:00","#Wanderlust #Travel #Tourism",0.53,24422,537,206,82,0.0339,0,2025-09-03,04:35:00,339,LOW,SMALL,5
+376,LinkedIn,article,Food,FR,CA,"2025-09-27 14:01:00","#FoodBlog #Recipe #Food",-0.65,33143,897,345,138,0.0417,0,2025-09-27,14:01:00,417,LOW,SMALL,5
+377,LinkedIn,poll,Fashion,EN,DE,"2025-07-23 15:24:00","#Fashion #OOTD #FashionTips #Style #TrendingStyle",-0.21,6740,170,65,26,0.039,0,2025-07-23,15:24:00,390,LOW,SMALL,5
+378,LinkedIn,carousel,Health,JA,UK,"2025-03-25 13:57:00","#Wellness #HealthTips #Health #MentalHealth #Fitness #Nutrition",0.92,22981,507,195,78,0.034,0,2025-03-25,13:57:00,340,LOW,SMALL,5
+379,LinkedIn,poll,Health,HI,US,"2025-07-29 08:11:00","#MentalHealth #HealthTips #Wellness #Health #Fitness #Nutrition",0.69,20791,1687,649,259,0.1249,1,2025-07-29,08:11:00,1249,LOW,SMALL,5
+380,LinkedIn,image,Travel,JA,BR,"2025-01-14 04:19:00","#Journey #Tourism #Travel #Wanderlust #Adventure #ExploreMore",0.94,43256,1602,616,246,0.057,0,2025-01-14,04:19:00,570,LOW,SMALL,5
+381,LinkedIn,article,Lifestyle,JA,IN,"2025-11-03 18:36:00","#Motivation #Positivity #Lifestyle #DailyLife #Wellness #MindfulLiving",0.44,21950,1067,410,164,0.0748,0,2025-11-03,18:36:00,748,LOW,SMALL,5
+382,LinkedIn,video,Education,ES,US,"2025-05-20 14:18:00","#AcademicSuccess #Learning #Education #Knowledge #Certification",0.1,11953,594,228,91,0.0766,0,2025-05-20,14:18:00,766,LOW,SMALL,5
+383,LinkedIn,image,Lifestyle,UR,DE,"2025-02-19 14:00:00","#Wellness #Motivation #MindfulLiving #DailyLife",0.95,11684,295,113,45,0.0389,0,2025-02-19,14:00:00,388,LOW,SMALL,5
+384,LinkedIn,video,Fashion,FR,BR,"2025-10-14 16:34:00","#FashionTips #Fashion #TrendingStyle #Style #Lookbook #OOTD",0.26,32425,1245,479,191,0.0591,0,2025-10-14,16:34:00,591,LOW,SMALL,5
+385,LinkedIn,image,Sports,JA,CA,"2025-09-25 10:45:00","#Sports #Workout #Training #Fitness #Cricket",-0.13,15848,501,193,77,0.0488,0,2025-09-25,10:45:00,488,LOW,SMALL,5
+386,LinkedIn,video,Sports,HI,FR,"2025-12-20 03:01:00","#Training #Basketball #Sports #Fitness #Cricket #Football",0.06,4884,215,83,33,0.0681,0,2025-12-20,03:01:00,680,LOW,SMALL,5
+387,LinkedIn,image,Technology,HI,UK,"2025-12-08 09:58:00","#MachineLearning #Innovation #Programming #CodingLife #DataScience #TechTrends #AI",0.91,19178,1822,701,280,0.1462,1,2025-12-08,09:58:00,1462,LOW,SMALL,5
+388,LinkedIn,image,Education,ES,AU,"2025-11-10 09:52:00","#Learning #AcademicSuccess #Education #Knowledge #Certification #StudyTips",0.85,1283,122,47,18,0.1473,1,2025-11-10,09:52:00,1472,LOW,SMALL,5
+389,LinkedIn,article,Business,JA,DE,"2025-12-24 15:06:00","#StartupLife #CareerGrowth #Leadership #BusinessTips",0.64,21596,541,208,83,0.0386,0,2025-12-24,15:06:00,386,LOW,SMALL,5
+390,LinkedIn,article,Fashion,ES,JP,"2025-07-04 17:02:00","#OOTD #TrendingStyle #Fashion",0.67,49245,1968,757,302,0.0615,0,2025-07-04,17:02:00,615,LOW,SMALL,5
+391,LinkedIn,carousel,Business,PT,UK,"2025-08-08 09:43:00","#Entrepreneur #BusinessTips #CareerGrowth #StartupLife #Leadership",0.71,45336,1018,391,156,0.0346,0,2025-08-08,09:43:00,346,LOW,SMALL,5
+392,LinkedIn,video,Health,PT,CA,"2025-02-22 05:23:00","#Fitness #Wellness #MentalHealth #Health",0.65,33709,1252,481,192,0.0572,0,2025-02-22,05:23:00,572,LOW,SMALL,5
+393,LinkedIn,poll,Food,UR,FR,"2025-07-02 15:32:00","#Foodie #Recipe #Food #FoodBlog #MustTry",0.54,9821,170,65,26,0.0267,0,2025-07-02,15:32:00,267,LOW,SMALL,5
+394,LinkedIn,article,Entertainment,JA,US,"2025-04-02 14:19:00","#Funny #Entertainment #MovieTime #FollowForMore #Viral #ShowBiz #Trending",0.69,18148,1056,406,162,0.0896,1,2025-04-02,14:19:00,896,LOW,SMALL,5
+395,LinkedIn,poll,Fashion,EN,US,"2025-08-09 03:28:00","#TrendingStyle #Lookbook #FashionTips #Fashion #OOTD",0.8,20860,1823,701,280,0.1345,1,2025-08-09,03:28:00,1345,LOW,SMALL,5
+396,LinkedIn,video,Travel,PT,MX,"2025-06-09 15:07:00","#Journey #Tourism #ExploreMore #Adventure #Travel #Wanderlust",0.7,25759,1654,636,254,0.0988,1,2025-06-09,15:07:00,988,LOW,SMALL,5
+397,LinkedIn,image,Lifestyle,DE,US,"2025-01-15 10:22:00","#Wellness #Lifestyle #Motivation #DailyLife #MindfulLiving #Positivity",0.61,24020,473,182,72,0.0303,0,2025-01-15,10:22:00,303,LOW,SMALL,5
+398,LinkedIn,video,Business,FR,UK,"2025-10-31 09:07:00","#Entrepreneur #BusinessTips #StartupLife #Leadership #Hustle",0.65,34735,2971,1142,457,0.1316,1,2025-10-31,09:07:00,1316,LOW,SMALL,5
+399,LinkedIn,image,Technology,JA,CA,"2025-01-12 12:24:00","#Innovation #AI #TechTrends #CodingLife #DataScience",0.6,33949,2633,1012,405,0.1194,1,2025-01-12,12:24:00,1194,LOW,SMALL,5
+400,LinkedIn,image,Sports,UR,DE,"2025-08-12 09:13:00","#Football #Sports #Training #Basketball #Workout",0.97,48035,4208,1618,647,0.1348,1,2025-08-12,09:13:00,1348,LOW,SMALL,5
+401,LinkedIn,article,Food,DE,UK,"2025-02-04 15:13:00","#Food #Cooking #FoodBlog #Foodie #Recipe",0.64,41957,2325,894,357,0.0853,1,2025-02-04,15:13:00,853,LOW,SMALL,5
+402,LinkedIn,poll,Sports,EN,AU,"2025-04-06 10:52:00","#Basketball #Football #Cricket #Training #Workout #Sports #Fitness",0.49,10861,766,294,117,0.1086,1,2025-04-06,10:52:00,1086,LOW,SMALL,5
+403,LinkedIn,image,Health,PT,DE,"2025-02-02 13:52:00","#Nutrition #Wellness #Fitness #MentalHealth #Health",0.47,13577,228,88,35,0.026,0,2025-02-02,13:52:00,260,LOW,SMALL,5
+404,LinkedIn,image,Travel,JA,AU,"2025-08-12 09:10:00","#Adventure #Travel #Wanderlust #Journey #ExploreMore",0.43,48348,2432,935,374,0.0774,0,2025-08-12,09:10:00,774,LOW,SMALL,5
+405,LinkedIn,article,Technology,HI,DE,"2025-11-05 09:57:00","#CodingLife #Programming #AI #TechTrends #DataScience",-0.08,38419,2277,876,350,0.0912,1,2025-11-05,09:57:00,912,LOW,SMALL,5
+406,LinkedIn,article,Fashion,UR,JP,"2025-02-16 09:21:00","#Lookbook #TrendingStyle #Style #FashionTips #Fashion #OOTD",0.53,18992,914,351,140,0.0741,0,2025-02-16,09:21:00,741,LOW,SMALL,5
+407,LinkedIn,image,Food,EN,JP,"2025-10-01 09:34:00","#Recipe #Foodie #Cooking #Food #FoodBlog #MustTry",0.21,2381,138,53,21,0.0899,1,2025-10-01,09:34:00,898,LOW,SMALL,5
+408,LinkedIn,poll,Technology,EN,BR,"2025-05-10 14:44:00","#Programming #CodingLife #AI #MachineLearning #TechTrends",0.95,26754,2519,969,387,0.1449,1,2025-05-10,14:44:00,1449,LOW,SMALL,5
+409,LinkedIn,image,Lifestyle,HI,BR,"2025-06-02 10:40:00","#MindfulLiving #Positivity #Lifestyle #DailyLife #Wellness",0.27,31873,2098,807,322,0.1013,1,2025-06-02,10:40:00,1013,LOW,SMALL,5
+410,LinkedIn,image,Health,HI,MX,"2025-12-24 09:26:00","#Nutrition #HealthTips #Fitness #Wellness #Health #MentalHealth",0.51,30058,2232,858,343,0.1143,1,2025-12-24,09:26:00,1143,LOW,SMALL,5
+411,LinkedIn,video,Technology,PT,BR,"2025-11-18 09:10:00","#Innovation #CodingLife #MachineLearning #TechTrends",-0.04,32350,2230,857,343,0.1061,1,2025-11-18,09:10:00,1061,LOW,SMALL,5
+412,LinkedIn,video,Lifestyle,ES,CA,"2025-06-17 06:26:00","#DailyLife #Positivity #Wellness #Motivation #Lifestyle",0.41,37603,2325,894,357,0.0951,1,2025-06-17,06:26:00,951,LOW,SMALL,5
+413,LinkedIn,video,Entertainment,JA,BR,"2025-05-15 05:25:00","#FollowForMore #Funny #Trending #Viral #Entertainment #ShowBiz #MovieTime",-0.89,48093,1662,639,255,0.0532,0,2025-05-15,05:25:00,532,LOW,SMALL,5
+414,LinkedIn,carousel,Travel,HI,BR,"2025-04-15 14:47:00","#Tourism #Adventure #Journey #Travel #Wanderlust #ExploreMore",-0.11,12820,490,188,75,0.0588,0,2025-04-15,14:47:00,588,LOW,SMALL,5
+415,LinkedIn,video,Technology,UR,UK,"2025-05-01 07:37:00","#CodingLife #TechTrends #AI #Innovation #MachineLearning #Programming #DataScience",-0.64,14907,715,275,110,0.0738,0,2025-05-01,07:37:00,738,LOW,SMALL,5
+416,LinkedIn,carousel,Food,UR,IN,"2025-02-18 09:59:00","#Recipe #Cooking #Food #MustTry",0.77,20825,1961,754,301,0.145,1,2025-02-18,09:59:00,1450,LOW,SMALL,5
+417,LinkedIn,image,Sports,EN,CA,"2025-04-02 15:56:00","#Fitness #Sports #Football #Basketball #Workout #Training",0.43,9380,481,185,74,0.0789,0,2025-04-02,15:56:00,789,LOW,SMALL,5
+418,LinkedIn,image,Education,PT,UK,"2025-05-15 08:20:00","#Education #Knowledge #StudyTips #Learning #Certification #AcademicSuccess",0.43,13002,224,86,34,0.0266,0,2025-05-15,08:20:00,266,LOW,SMALL,5
+419,LinkedIn,image,Sports,JA,FR,"2025-03-01 15:28:00","#Workout #Cricket #Basketball #Training #Fitness",0.83,10702,280,108,43,0.0404,0,2025-03-01,15:28:00,404,LOW,SMALL,5
+420,LinkedIn,article,Business,UR,MX,"2025-03-28 08:57:00","#Leadership #Entrepreneur #BusinessTips #StartupLife #CareerGrowth #Hustle",-0.78,33644,1468,564,225,0.0672,0,2025-03-28,08:57:00,672,LOW,SMALL,5
+421,LinkedIn,image,Technology,UR,IN,"2025-07-21 09:09:00","#AI #TechTrends #CodingLife",0.97,39941,2875,1106,442,0.1108,1,2025-07-21,09:09:00,1108,LOW,SMALL,5
+422,LinkedIn,image,Technology,JA,DE,"2025-10-19 09:18:00","#Programming #AI #CodingLife #TechTrends #Innovation",0.51,27143,588,226,90,0.0333,0,2025-10-19,09:18:00,333,LOW,SMALL,5
+423,LinkedIn,video,Sports,PT,FR,"2025-05-26 20:07:00","#Basketball #Training #Football #Fitness #Workout",0.9,34597,1141,439,175,0.0508,0,2025-05-26,20:07:00,508,LOW,SMALL,5
+424,LinkedIn,carousel,Health,JA,UK,"2025-10-16 02:27:00","#HealthTips #Wellness #MentalHealth #Fitness #Nutrition",0.71,31377,2167,833,333,0.1063,1,2025-10-16,02:27:00,1063,LOW,SMALL,5
+425,LinkedIn,video,Travel,HI,UK,"2025-08-28 15:09:00","#Journey #Wanderlust #Adventure #ExploreMore",0.74,37109,814,313,125,0.0338,0,2025-08-28,15:09:00,337,LOW,SMALL,5
+426,LinkedIn,article,Fashion,HI,AU,"2025-08-06 15:46:00","#OOTD #Lookbook #FashionTips #TrendingStyle #Fashion #Style",0.8,12767,1014,390,156,0.1223,1,2025-08-06,15:46:00,1223,LOW,SMALL,5
+427,LinkedIn,carousel,Technology,HI,FR,"2025-12-27 15:28:00","#Programming #DataScience #CodingLife #MachineLearning #AI #Innovation #TechTrends",0.1,45132,925,356,142,0.0316,0,2025-12-27,15:28:00,316,LOW,SMALL,5
+428,LinkedIn,poll,Technology,EN,FR,"2025-03-01 15:44:00","#Programming #CodingLife #Innovation #TechTrends #MachineLearning #DataScience",0.98,45243,2263,870,348,0.077,0,2025-03-01,15:44:00,770,LOW,SMALL,5
+429,LinkedIn,image,Entertainment,ES,MX,"2025-01-08 09:12:00","#Viral #FollowForMore #ShowBiz",0.66,42029,3463,1332,532,0.1268,1,2025-01-08,09:12:00,1268,LOW,SMALL,5
+430,LinkedIn,poll,Business,HI,UK,"2025-08-26 15:07:00","#Entrepreneur #CareerGrowth #Leadership #Hustle",0.67,16900,529,203,81,0.0482,0,2025-08-26,15:07:00,482,LOW,SMALL,5
+431,LinkedIn,poll,Health,EN,DE,"2025-01-05 15:54:00","#Nutrition #HealthTips #Fitness #Health #Wellness #MentalHealth",0.75,41074,3712,1428,571,0.1391,1,2025-01-05,15:54:00,1391,LOW,SMALL,5
+432,LinkedIn,carousel,Business,EN,AU,"2025-01-10 14:04:00","#Hustle #CareerGrowth #Leadership #BusinessTips #Entrepreneur",0.79,30381,2191,843,337,0.111,1,2025-01-10,14:04:00,1110,LOW,SMALL,5
+433,LinkedIn,article,Sports,UR,BR,"2025-08-29 10:14:00","#Workout #Football #Cricket #Basketball #Sports #Fitness #Training",-0.25,45112,2312,889,355,0.0789,0,2025-08-29,10:14:00,789,LOW,SMALL,5
+434,LinkedIn,image,Travel,ES,CA,"2025-04-17 09:30:00","#Adventure #Journey #ExploreMore #Wanderlust",0.88,33356,1379,530,212,0.0637,0,2025-04-17,09:30:00,637,LOW,SMALL,5
+435,LinkedIn,video,Fashion,EN,US,"2025-07-03 11:10:00","#FashionTips #Fashion #Lookbook #Style",0.77,8909,542,208,83,0.0938,1,2025-07-03,11:10:00,938,LOW,SMALL,5
+436,LinkedIn,carousel,Lifestyle,DE,DE,"2025-01-24 17:57:00","#MindfulLiving #Wellness #Lifestyle #Motivation",0.97,30958,3019,1161,464,0.1501,1,2025-01-24,17:57:00,1501,LOW,SMALL,5
+437,LinkedIn,article,Entertainment,HI,AU,"2025-01-22 10:07:00","#Trending #Viral #ShowBiz #FollowForMore",0.05,7507,174,67,26,0.036,0,2025-01-22,10:07:00,360,LOW,SMALL,5
+438,LinkedIn,image,Education,ES,IN,"2025-04-14 15:15:00","#Knowledge #Certification #Education #Learning #StudyTips #AcademicSuccess",0.01,42251,2382,916,366,0.0868,1,2025-04-14,15:15:00,868,LOW,SMALL,5
+439,LinkedIn,video,Fashion,PT,BR,"2025-03-12 13:57:00","#FashionTips #OOTD #Fashion #Style #TrendingStyle #Lookbook",0.06,5560,104,40,16,0.029,0,2025-03-12,13:57:00,290,LOW,SMALL,5
+440,LinkedIn,image,Health,ES,FR,"2025-02-01 09:59:00","#Wellness #HealthTips #Health #Fitness #Nutrition #MentalHealth",0.81,37281,3233,1243,497,0.1334,1,2025-02-01,09:59:00,1334,LOW,SMALL,5
+441,LinkedIn,image,Education,EN,UK,"2025-09-28 04:25:00","#Certification #Education #StudyTips #Knowledge #AcademicSuccess #Learning",0.24,6523,107,41,16,0.0254,0,2025-09-28,04:25:00,254,LOW,SMALL,5
+442,LinkedIn,image,Health,ES,AU,"2025-10-04 09:35:00","#HealthTips #Fitness #Wellness #Health #Nutrition",0.07,17953,525,202,80,0.0451,0,2025-10-04,09:35:00,451,LOW,SMALL,5
+443,LinkedIn,image,Health,HI,US,"2025-07-10 14:03:00","#Health #MentalHealth #Fitness #HealthTips #Nutrition #Wellness",0.54,49874,4478,1722,689,0.1382,1,2025-07-10,14:03:00,1382,LOW,SMALL,5
+444,LinkedIn,poll,Fashion,FR,DE,"2025-06-03 10:24:00","#Lookbook #Style #Fashion #FashionTips #TrendingStyle #OOTD",0.49,28898,2215,852,340,0.118,1,2025-06-03,10:24:00,1180,LOW,SMALL,5
+445,LinkedIn,article,Entertainment,EN,FR,"2025-03-08 15:23:00","#Funny #FollowForMore #ShowBiz #MovieTime #Viral #Trending #Entertainment",-0.38,33082,1774,682,273,0.0826,1,2025-03-08,15:23:00,826,LOW,SMALL,5
+446,LinkedIn,carousel,Sports,ES,AU,"2025-03-07 15:45:00","#Training #Cricket #Sports #Fitness #Basketball #Football #Workout",0.27,25204,1986,764,305,0.1213,1,2025-03-07,15:45:00,1213,LOW,SMALL,5
+447,LinkedIn,article,Food,PT,IN,"2025-03-03 14:33:00","#Food #Cooking #FoodBlog #Foodie",0.69,10363,277,106,42,0.0413,0,2025-03-03,14:33:00,413,LOW,SMALL,5
+448,LinkedIn,poll,Health,EN,UK,"2025-05-26 15:07:00","#Fitness #Health #HealthTips #Wellness #Nutrition #MentalHealth",0.94,25727,1447,556,222,0.0866,1,2025-05-26,15:07:00,866,LOW,SMALL,5
+449,LinkedIn,poll,Sports,ES,AU,"2025-11-22 15:28:00","#Training #Workout #Football #Sports",0.13,27845,1103,424,169,0.061,0,2025-11-22,15:28:00,610,LOW,SMALL,5
+450,LinkedIn,carousel,Education,EN,JP,"2025-05-23 05:01:00","#Certification #Knowledge #Learning #AcademicSuccess #StudyTips #Education",-0.51,4465,284,109,43,0.098,1,2025-05-23,05:01:00,980,LOW,SMALL,5
+451,LinkedIn,poll,Business,JA,AU,"2025-01-10 10:17:00","#Entrepreneur #Leadership #CareerGrowth #BusinessTips",0.1,27332,1443,555,222,0.0813,1,2025-01-10,10:17:00,813,LOW,SMALL,5
+452,LinkedIn,carousel,Technology,DE,FR,"2025-04-03 14:16:00","#AI #Programming #Innovation",0.49,17748,1281,492,197,0.1111,1,2025-04-03,14:16:00,1111,LOW,SMALL,5
+453,LinkedIn,video,Lifestyle,PT,MX,"2025-01-31 10:01:00","#Lifestyle #Motivation #Positivity #MindfulLiving #DailyLife #Wellness",0.59,25609,2236,860,344,0.1344,1,2025-01-31,10:01:00,1344,LOW,SMALL,5
+454,LinkedIn,article,Technology,FR,BR,"2025-11-02 15:48:00","#TechTrends #AI #DataScience #CodingLife #MachineLearning #Innovation #Programming",0.42,42519,1349,519,207,0.0488,0,2025-11-02,15:48:00,488,LOW,SMALL,5
+455,LinkedIn,article,Lifestyle,HI,BR,"2025-10-12 04:36:00","#Positivity #Lifestyle #DailyLife #Wellness #MindfulLiving #Motivation",0.07,28771,2217,852,341,0.1186,1,2025-10-12,04:36:00,1186,LOW,SMALL,5
+456,LinkedIn,poll,Travel,EN,US,"2025-08-26 19:41:00","#Travel #Journey #Tourism #Adventure",0.9,25913,2564,986,394,0.1523,1,2025-08-26,19:41:00,1523,LOW,SMALL,5
+457,LinkedIn,video,Food,UR,US,"2025-03-24 18:19:00","#Recipe #Food #Foodie",0.3,29309,852,328,131,0.0448,0,2025-03-24,18:19:00,448,LOW,SMALL,5
+458,LinkedIn,poll,Education,DE,UK,"2025-12-29 10:20:00","#Education #StudyTips #Knowledge #Learning #AcademicSuccess",0.4,32229,479,184,73,0.0229,0,2025-12-29,10:20:00,229,LOW,SMALL,5
+459,LinkedIn,article,Sports,PT,AU,"2025-12-23 12:05:00","#Workout #Sports #Cricket #Training #Football #Fitness #Basketball",0.89,40407,1856,714,285,0.0707,0,2025-12-23,12:05:00,707,LOW,SMALL,5
+460,LinkedIn,video,Technology,HI,JP,"2025-07-09 14:14:00","#AI #DataScience #CodingLife #MachineLearning #Programming #TechTrends #Innovation",0.7,24789,461,177,71,0.0287,0,2025-07-09,14:14:00,287,LOW,SMALL,5
+461,LinkedIn,carousel,Food,FR,US,"2025-04-11 20:07:00","#FoodBlog #MustTry #Recipe #Food #Cooking",0.74,45720,2915,1121,448,0.0981,1,2025-04-11,20:07:00,981,LOW,SMALL,5
+462,LinkedIn,video,Entertainment,ES,IN,"2025-03-07 10:46:00","#Viral #MovieTime #Entertainment #Trending #FollowForMore",0.67,28991,1903,732,292,0.101,1,2025-03-07,10:46:00,1010,LOW,SMALL,5
+463,LinkedIn,article,Education,PT,FR,"2025-05-21 15:23:00","#Learning #Education #Certification #AcademicSuccess #Knowledge #StudyTips",0.64,22935,500,192,77,0.0336,0,2025-05-21,15:23:00,336,LOW,SMALL,5
+464,LinkedIn,poll,Technology,FR,FR,"2025-02-08 06:21:00","#AI #CodingLife #Programming #Innovation #MachineLearning",0.41,42045,3483,1339,535,0.1275,1,2025-02-08,06:21:00,1275,LOW,SMALL,5
+465,LinkedIn,image,Business,HI,JP,"2025-05-03 01:21:00","#Entrepreneur #BusinessTips #CareerGrowth #Leadership #Hustle #StartupLife",0.44,3185,135,52,20,0.0654,0,2025-05-03,01:21:00,654,LOW,SMALL,5
+466,LinkedIn,article,Sports,EN,JP,"2025-01-29 15:06:00","#Sports #Cricket #Training #Football #Fitness #Basketball #Workout",0.65,40293,3090,1188,475,0.118,1,2025-01-29,15:06:00,1180,LOW,SMALL,5
+467,LinkedIn,poll,Technology,JA,FR,"2025-08-26 19:06:00","#CodingLife #Programming #AI #TechTrends #DataScience",0.52,7729,122,47,18,0.0245,0,2025-08-26,19:06:00,245,LOW,SMALL,5
+468,LinkedIn,article,Food,FR,CA,"2025-03-06 08:26:00","#MustTry #FoodBlog #Recipe #Food #Cooking #Foodie",-0.17,21425,1036,398,159,0.0745,0,2025-03-06,08:26:00,745,LOW,SMALL,5
+469,LinkedIn,poll,Education,UR,CA,"2025-10-05 04:19:00","#Knowledge #Certification #AcademicSuccess #Learning #StudyTips #Education",0.89,37664,3283,1263,505,0.1341,1,2025-10-05,04:19:00,1341,LOW,SMALL,5
+470,LinkedIn,carousel,Education,FR,BR,"2025-11-24 02:12:00","#StudyTips #Certification #Knowledge #AcademicSuccess #Education #Learning",0.5,30773,2475,952,380,0.1238,1,2025-11-24,02:12:00,1238,LOW,SMALL,5
+471,LinkedIn,article,Travel,FR,US,"2025-11-24 10:39:00","#Adventure #Tourism #Wanderlust #ExploreMore",0.64,1440,62,24,9,0.0671,0,2025-11-24,10:39:00,671,LOW,SMALL,5
+472,LinkedIn,article,Education,EN,AU,"2025-02-28 15:40:00","#Knowledge #Learning #AcademicSuccess #StudyTips #Certification #Education",0.93,48109,1496,575,230,0.0479,0,2025-02-28,15:40:00,479,LOW,SMALL,5
+473,LinkedIn,poll,Business,ES,BR,"2025-01-12 14:01:00","#Entrepreneur #CareerGrowth #BusinessTips #Hustle #Leadership #StartupLife",0.62,25402,1685,648,259,0.1021,1,2025-01-12,14:01:00,1021,LOW,SMALL,5
+474,LinkedIn,poll,Food,PT,IN,"2025-03-02 10:12:00","#Recipe #Cooking #FoodBlog #MustTry #Foodie #Food",-0.31,39490,905,348,139,0.0353,0,2025-03-02,10:12:00,353,LOW,SMALL,5
+475,LinkedIn,poll,Lifestyle,ES,DE,"2025-05-07 14:54:00","#Wellness #Positivity #DailyLife #Motivation #Lifestyle #MindfulLiving",0.11,11972,569,219,87,0.0732,0,2025-05-07,14:54:00,732,LOW,SMALL,5
+476,LinkedIn,poll,Education,JA,AU,"2025-08-26 14:44:00","#Certification #StudyTips #AcademicSuccess #Education #Knowledge #Learning",0.94,30627,2713,1043,417,0.1363,1,2025-08-26,14:44:00,1363,LOW,SMALL,5
+477,LinkedIn,carousel,Business,UR,FR,"2025-07-13 14:35:00","#Entrepreneur #BusinessTips #StartupLife",0.61,39270,728,280,112,0.0285,0,2025-07-13,14:35:00,285,LOW,SMALL,5
+478,LinkedIn,poll,Food,DE,FR,"2025-08-19 15:51:00","#Cooking #MustTry #Recipe #Food #FoodBlog #Foodie",0.79,24533,2172,835,334,0.1363,1,2025-08-19,15:51:00,1363,LOW,SMALL,5
+479,LinkedIn,image,Fashion,HI,UK,"2025-04-27 09:02:00","#Style #OOTD #Lookbook #FashionTips #TrendingStyle #Fashion",0.89,45796,3942,1516,606,0.1325,1,2025-04-27,09:02:00,1325,LOW,SMALL,5
+480,LinkedIn,video,Food,ES,AU,"2025-05-14 14:52:00","#Recipe #MustTry #Food #Foodie #FoodBlog",-0.09,48404,2905,1117,447,0.0924,1,2025-05-14,14:52:00,924,LOW,SMALL,5
+481,LinkedIn,carousel,Business,JA,JP,"2025-06-24 10:12:00","#Hustle #CareerGrowth #Entrepreneur #Leadership #StartupLife #BusinessTips",0.75,9411,378,145,58,0.0619,0,2025-06-24,10:12:00,619,LOW,SMALL,5
+482,LinkedIn,article,Travel,DE,DE,"2025-04-26 15:34:00","#Wanderlust #ExploreMore #Travel #Journey #Tourism",-0.86,22643,838,322,129,0.057,0,2025-04-26,15:34:00,570,LOW,SMALL,5
+483,LinkedIn,poll,Food,PT,FR,"2025-04-15 02:24:00","#Recipe #Food #Cooking #MustTry",-0.42,20965,349,134,53,0.0256,0,2025-04-15,02:24:00,256,LOW,SMALL,5
+484,LinkedIn,article,Fashion,ES,US,"2025-12-19 00:12:00","#TrendingStyle #OOTD #Style",0.8,5586,294,113,45,0.0812,1,2025-12-19,00:12:00,812,LOW,SMALL,5
+485,LinkedIn,image,Fashion,EN,MX,"2025-06-17 13:10:00","#Style #FashionTips #TrendingStyle",0.44,14531,352,135,54,0.0373,0,2025-06-17,13:10:00,373,LOW,SMALL,5
+486,LinkedIn,video,Lifestyle,PT,JP,"2025-03-23 09:12:00","#MindfulLiving #Positivity #Motivation #Lifestyle #Wellness #DailyLife",0.89,40639,3371,1296,518,0.1277,1,2025-03-23,09:12:00,1277,LOW,SMALL,5
+487,LinkedIn,poll,Education,JA,JP,"2025-08-25 09:41:00","#Knowledge #Certification #StudyTips #AcademicSuccess #Learning #Education",0.94,49053,2583,993,397,0.081,1,2025-08-25,09:41:00,810,LOW,SMALL,5
+488,LinkedIn,carousel,Sports,HI,FR,"2025-12-24 07:10:00","#Workout #Cricket #Football #Sports #Training",0.25,33341,1423,547,219,0.0657,0,2025-12-24,07:10:00,657,LOW,SMALL,5
+489,LinkedIn,poll,Entertainment,DE,IN,"2025-02-23 14:28:00","#Trending #Viral #Funny #Entertainment",0.44,46513,2996,1152,461,0.0991,1,2025-02-23,14:28:00,990,LOW,SMALL,5
+490,LinkedIn,carousel,Health,DE,FR,"2025-04-10 09:07:00","#Wellness #Fitness #MentalHealth #Nutrition #HealthTips #Health",0.79,47765,4416,1698,679,0.1423,1,2025-04-10,09:07:00,1423,LOW,SMALL,5
+491,LinkedIn,video,Travel,UR,MX,"2025-03-29 19:11:00","#Travel #ExploreMore #Tourism #Journey #Wanderlust",0.41,18907,487,187,75,0.0397,0,2025-03-29,19:11:00,397,LOW,SMALL,5
+492,LinkedIn,image,Sports,FR,US,"2025-12-12 15:03:00","#Training #Cricket #Sports #Basketball #Football #Fitness #Workout",0.4,25732,1811,696,278,0.1083,1,2025-12-12,15:03:00,1083,LOW,SMALL,5
+493,LinkedIn,video,Education,FR,BR,"2025-02-16 09:21:00","#Certification #Learning #Education #AcademicSuccess",0.22,12002,768,295,118,0.0985,1,2025-02-16,09:21:00,985,LOW,SMALL,5
+494,LinkedIn,article,Health,HI,DE,"2025-06-15 10:13:00","#MentalHealth #Nutrition #Health #HealthTips #Fitness #Wellness",0.5,27354,1745,671,268,0.0982,1,2025-06-15,10:13:00,982,LOW,SMALL,5
+495,LinkedIn,article,Health,FR,JP,"2025-04-23 14:39:00","#Health #Nutrition #Wellness #MentalHealth #Fitness",0.05,7672,461,177,71,0.0926,1,2025-04-23,14:39:00,926,LOW,SMALL,5
+496,LinkedIn,poll,Sports,UR,IN,"2025-11-04 15:59:00","#Fitness #Football #Training #Workout #Basketball #Cricket #Sports",0.77,39340,2042,785,314,0.0799,0,2025-11-04,15:59:00,799,LOW,SMALL,5
+497,LinkedIn,poll,Business,EN,BR,"2025-01-11 03:15:00","#CareerGrowth #Entrepreneur #BusinessTips #Hustle #StartupLife #Leadership",0.52,25625,778,299,119,0.0467,0,2025-01-11,03:15:00,467,LOW,SMALL,5
+498,LinkedIn,article,Business,JA,DE,"2025-03-10 09:50:00","#Hustle #StartupLife #BusinessTips #CareerGrowth #Entrepreneur #Leadership",0.72,44581,4187,1610,644,0.1445,1,2025-03-10,09:50:00,1445,LOW,SMALL,5
+499,LinkedIn,video,Food,PT,AU,"2025-06-14 09:55:00","#Food #Foodie #MustTry #Cooking #Recipe #FoodBlog",0.5,36969,2849,1096,438,0.1186,1,2025-06-14,09:55:00,1186,LOW,SMALL,5
+500,LinkedIn,video,Business,HI,FR,"2025-08-28 10:27:00","#Leadership #Entrepreneur #StartupLife #Hustle",0.98,14199,562,216,86,0.0611,0,2025-08-28,10:27:00,611,LOW,SMALL,5
+501,LinkedIn,carousel,Entertainment,DE,FR,"2025-07-13 15:32:00","#MovieTime #FollowForMore #Viral #ShowBiz #Entertainment #Funny #Trending",0.18,20675,1125,433,173,0.0838,1,2025-07-13,15:32:00,838,LOW,SMALL,5
+502,LinkedIn,video,Fashion,ES,UK,"2025-07-14 15:24:00","#FashionTips #TrendingStyle #Fashion #Style #Lookbook #OOTD",0.95,1273,22,8,3,0.0273,0,2025-07-14,15:24:00,273,LOW,SMALL,5
+503,LinkedIn,poll,Education,JA,FR,"2025-08-01 23:24:00","#Knowledge #AcademicSuccess #Learning #Education #StudyTips #Certification",0.74,13728,1049,403,161,0.1177,1,2025-08-01,23:24:00,1177,LOW,SMALL,5
+504,LinkedIn,image,Education,JA,DE,"2025-12-23 15:47:00","#Education #StudyTips #Learning #Certification",0.81,46709,3266,1256,502,0.1076,1,2025-12-23,15:47:00,1076,LOW,SMALL,5
+505,LinkedIn,video,Lifestyle,JA,MX,"2025-05-11 10:07:00","#MindfulLiving #Positivity #Wellness",0.29,6265,317,122,48,0.0781,0,2025-05-11,10:07:00,781,LOW,SMALL,5
+506,LinkedIn,video,Health,ES,FR,"2025-05-10 16:42:00","#HealthTips #Fitness #MentalHealth #Nutrition #Health #Wellness",0.87,23570,1959,753,301,0.1279,1,2025-05-10,16:42:00,1279,LOW,SMALL,5
+507,LinkedIn,image,Business,PT,UK,"2025-01-04 15:06:00","#Hustle #CareerGrowth #Leadership",0.84,12182,373,143,57,0.0471,0,2025-01-04,15:06:00,471,LOW,SMALL,5
+508,LinkedIn,video,Sports,FR,JP,"2025-04-04 09:36:00","#Fitness #Training #Sports #Workout",-0.1,27790,1122,431,172,0.0622,0,2025-04-04,09:36:00,622,LOW,SMALL,5
+509,LinkedIn,poll,Entertainment,ES,IN,"2025-05-31 09:04:00","#Entertainment #Funny #Viral #FollowForMore #MovieTime",0.46,5001,172,66,26,0.053,0,2025-05-31,09:04:00,530,LOW,SMALL,5
+510,LinkedIn,article,Food,EN,IN,"2025-04-19 09:38:00","#Cooking #Recipe #FoodBlog #Foodie #MustTry #Food",0.93,21658,1830,704,281,0.1301,1,2025-04-19,09:38:00,1301,LOW,SMALL,5
+511,LinkedIn,image,Health,PT,CA,"2025-01-30 10:06:00","#MentalHealth #Nutrition #Wellness",0.47,35775,1272,489,195,0.0547,0,2025-01-30,10:06:00,547,LOW,SMALL,5
+512,LinkedIn,video,Education,JA,CA,"2025-12-18 15:26:00","#Education #Learning #Knowledge #AcademicSuccess #Certification #StudyTips",-0.34,45428,1708,657,262,0.0579,0,2025-12-18,15:26:00,579,LOW,SMALL,5
+513,LinkedIn,poll,Travel,PT,CA,"2025-02-11 15:54:00","#Travel #Tourism #Wanderlust #ExploreMore #Journey #Adventure",0.24,47967,2354,905,362,0.0755,0,2025-02-11,15:54:00,755,LOW,SMALL,5
+514,LinkedIn,video,Travel,HI,UK,"2025-12-11 14:57:00","#Travel #Tourism #Adventure #Journey #Wanderlust #ExploreMore",0.13,6861,141,54,21,0.0317,0,2025-12-11,14:57:00,317,LOW,SMALL,5
+515,LinkedIn,article,Sports,DE,FR,"2025-05-24 14:30:00","#Sports #Workout #Fitness #Basketball #Training #Cricket #Football",-0.31,40366,629,242,96,0.024,0,2025-05-24,14:30:00,240,LOW,SMALL,5
+516,LinkedIn,image,Health,PT,AU,"2025-08-12 07:07:00","#Health #Nutrition #HealthTips #Wellness #MentalHealth",-0.14,25100,511,196,78,0.0314,0,2025-08-12,07:07:00,314,LOW,SMALL,5
+517,LinkedIn,image,Health,EN,UK,"2025-02-01 10:27:00","#Fitness #Wellness #HealthTips #Health #MentalHealth",0.91,21704,618,238,95,0.0439,0,2025-02-01,10:27:00,439,LOW,SMALL,5
+518,LinkedIn,image,Business,JA,JP,"2025-03-17 04:42:00","#BusinessTips #Leadership #StartupLife #Entrepreneur #Hustle #CareerGrowth",-0.36,32344,1558,599,239,0.0741,0,2025-03-17,04:42:00,741,LOW,SMALL,5
+519,LinkedIn,video,Travel,UR,FR,"2025-01-31 10:52:00","#Adventure #Journey #Travel #Tourism #ExploreMore #Wanderlust",0.89,11432,1121,431,172,0.1509,1,2025-01-31,10:52:00,1509,LOW,SMALL,5
+520,LinkedIn,poll,Health,DE,FR,"2025-12-14 14:25:00","#HealthTips #Fitness #Nutrition",0.52,36914,1646,633,253,0.0686,0,2025-12-14,14:25:00,686,LOW,SMALL,5
+521,LinkedIn,video,Education,EN,UK,"2025-08-23 18:28:00","#StudyTips #Knowledge #Education #Learning #AcademicSuccess #Certification",-0.2,48576,3134,1205,482,0.0993,1,2025-08-23,18:28:00,993,LOW,SMALL,5
+522,LinkedIn,article,Sports,PT,FR,"2025-12-14 01:22:00","#Fitness #Sports #Workout #Football #Basketball #Training",-0.44,27476,689,265,106,0.0386,0,2025-12-14,01:22:00,386,LOW,SMALL,5
+523,LinkedIn,article,Business,PT,JP,"2025-06-04 05:47:00","#Hustle #BusinessTips #CareerGrowth #StartupLife #Entrepreneur #Leadership",0.67,1760,43,16,6,0.0384,0,2025-06-04,05:47:00,383,LOW,SMALL,5
+524,LinkedIn,article,Entertainment,JA,AU,"2025-04-26 15:44:00","#Entertainment #Funny #Viral #FollowForMore #MovieTime #Trending #ShowBiz",0.46,5161,348,134,53,0.104,1,2025-04-26,15:44:00,1040,LOW,SMALL,5
+525,LinkedIn,poll,Sports,PT,US,"2025-07-21 15:33:00","#Cricket #Workout #Sports #Fitness #Football #Training #Basketball",0.15,1348,68,26,10,0.0789,0,2025-07-21,15:33:00,789,LOW,SMALL,5
+526,LinkedIn,image,Entertainment,EN,MX,"2025-10-22 10:35:00","#ShowBiz #Entertainment #MovieTime #Funny #Trending",0.98,12246,641,246,98,0.0806,1,2025-10-22,10:35:00,806,LOW,SMALL,5
+527,LinkedIn,article,Business,UR,US,"2025-09-23 09:34:00","#Entrepreneur #Leadership #CareerGrowth #StartupLife #Hustle #BusinessTips",0.71,46084,1086,417,167,0.0363,0,2025-09-23,09:34:00,363,LOW,SMALL,5
+528,LinkedIn,article,Business,EN,BR,"2025-03-14 10:38:00","#Entrepreneur #Leadership #StartupLife #Hustle #BusinessTips #CareerGrowth",0.55,26020,1673,643,257,0.099,1,2025-03-14,10:38:00,990,LOW,SMALL,5
+529,LinkedIn,video,Health,JA,IN,"2025-05-11 22:34:00","#Health #Fitness #Wellness #HealthTips",0.79,34516,2233,859,343,0.0996,1,2025-05-11,22:34:00,995,LOW,SMALL,5
+530,LinkedIn,carousel,Sports,DE,FR,"2025-07-14 10:17:00","#Cricket #Sports #Training",0.6,6831,294,113,45,0.0664,0,2025-07-14,10:17:00,664,LOW,SMALL,5
+531,LinkedIn,image,Lifestyle,ES,BR,"2025-05-21 15:24:00","#Lifestyle #DailyLife #Motivation",0.88,7261,434,167,66,0.0921,1,2025-05-21,15:24:00,921,LOW,SMALL,5
+532,LinkedIn,poll,Lifestyle,UR,CA,"2025-02-20 05:48:00","#DailyLife #Motivation #Positivity #MindfulLiving #Lifestyle #Wellness",0.71,11190,756,291,116,0.104,1,2025-02-20,05:48:00,1040,LOW,SMALL,5
+533,LinkedIn,video,Health,UR,US,"2025-11-24 22:15:00","#HealthTips #MentalHealth #Nutrition #Health #Wellness #Fitness",0.05,19076,1450,557,223,0.117,1,2025-11-24,22:15:00,1170,LOW,SMALL,5
+534,LinkedIn,poll,Business,UR,IN,"2025-06-06 14:40:00","#BusinessTips #Entrepreneur #Hustle",0.43,49720,1772,681,272,0.0549,0,2025-06-06,14:40:00,549,LOW,SMALL,5
+535,LinkedIn,carousel,Technology,PT,AU,"2025-03-11 09:00:00","#MachineLearning #CodingLife #AI #TechTrends #DataScience #Programming #Innovation",-0.4,35610,1800,692,277,0.0778,0,2025-03-11,09:00:00,777,LOW,SMALL,5
+536,LinkedIn,article,Food,JA,MX,"2025-12-12 16:11:00","#Cooking #Foodie #MustTry",-0.62,25844,506,194,77,0.0302,0,2025-12-12,16:11:00,302,LOW,SMALL,5
+537,LinkedIn,article,Education,FR,AU,"2025-03-02 15:16:00","#Learning #AcademicSuccess #StudyTips #Certification",-0.16,43137,1909,734,293,0.0681,0,2025-03-02,15:16:00,680,LOW,SMALL,5
+538,LinkedIn,article,Travel,JA,US,"2025-07-02 15:19:00","#Travel #Journey #Wanderlust #Tourism #ExploreMore",0.41,29233,1476,567,227,0.0777,0,2025-07-02,15:19:00,777,LOW,SMALL,5
+539,LinkedIn,article,Fashion,ES,FR,"2025-03-05 00:49:00","#OOTD #Style #TrendingStyle #FashionTips #Lookbook #Fashion",0.94,36155,3047,1172,468,0.1297,1,2025-03-05,00:49:00,1297,LOW,SMALL,5
+540,LinkedIn,article,Travel,JA,MX,"2025-03-13 15:22:00","#Adventure #Travel #Journey #Tourism #ExploreMore #Wanderlust",0.85,3071,89,34,13,0.0452,0,2025-03-13,15:22:00,451,LOW,SMALL,5
+541,LinkedIn,video,Travel,UR,IN,"2025-08-04 15:45:00","#Wanderlust #Tourism #ExploreMore #Travel",0.46,2386,57,22,8,0.0371,0,2025-08-04,15:45:00,371,LOW,SMALL,5
+542,LinkedIn,image,Fashion,EN,BR,"2025-01-27 10:38:00","#Fashion #TrendingStyle #FashionTips #Style #OOTD #Lookbook",0.66,41475,1138,437,175,0.0422,0,2025-01-27,10:38:00,422,LOW,SMALL,5
+543,LinkedIn,poll,Sports,FR,UK,"2025-02-28 22:42:00","#Fitness #Basketball #Sports #Training #Cricket #Football",0.48,3514,123,47,19,0.0542,0,2025-02-28,22:42:00,542,LOW,SMALL,5
+544,LinkedIn,video,Sports,PT,US,"2025-11-12 09:26:00","#Football #Workout #Fitness #Cricket #Basketball #Training #Sports",0.66,4385,171,66,26,0.0604,0,2025-11-12,09:26:00,604,LOW,SMALL,5
+545,LinkedIn,image,Education,UR,DE,"2025-12-31 14:11:00","#Learning #Certification #Knowledge",0.68,40749,958,368,147,0.0362,0,2025-12-31,14:11:00,362,LOW,SMALL,5
+546,LinkedIn,video,Lifestyle,JA,DE,"2025-06-21 09:00:00","#Wellness #DailyLife #Motivation #MindfulLiving #Positivity #Lifestyle",0.57,39294,1746,671,268,0.0684,0,2025-06-21,09:00:00,684,LOW,SMALL,5
+547,LinkedIn,article,Sports,HI,US,"2025-10-28 20:12:00","#Workout #Basketball #Sports #Cricket",-0.44,20757,1083,416,166,0.0803,1,2025-10-28,20:12:00,803,LOW,SMALL,5
+548,LinkedIn,video,Fashion,ES,US,"2025-03-07 14:22:00","#TrendingStyle #Fashion #Lookbook #FashionTips #Style",0.96,34021,2821,1085,434,0.1276,1,2025-03-07,14:22:00,1276,LOW,SMALL,5
+549,LinkedIn,video,Food,UR,MX,"2025-05-29 09:12:00","#Recipe #MustTry #Food #FoodBlog #Foodie #Cooking",0.63,40794,1485,571,228,0.0561,0,2025-05-29,09:12:00,561,LOW,SMALL,5
+550,LinkedIn,video,Technology,ES,CA,"2025-04-22 09:29:00","#CodingLife #Programming #Innovation #DataScience #MachineLearning #AI #TechTrends",0.08,12213,344,132,53,0.0434,0,2025-04-22,09:29:00,434,LOW,SMALL,5
+551,LinkedIn,poll,Business,UR,US,"2025-11-24 14:17:00","#Hustle #Entrepreneur #Leadership",0.4,23771,1440,554,221,0.0933,1,2025-11-24,14:17:00,932,LOW,SMALL,5
+552,LinkedIn,image,Education,HI,AU,"2025-05-16 13:18:00","#Learning #Certification #Knowledge #AcademicSuccess #Education",0.98,36218,2611,1004,401,0.1109,1,2025-05-16,13:18:00,1109,LOW,SMALL,5
+553,LinkedIn,poll,Entertainment,PT,UK,"2025-11-17 17:52:00","#Viral #Trending #MovieTime #ShowBiz #Funny #FollowForMore",0.54,48597,2326,894,357,0.0737,0,2025-11-17,17:52:00,737,LOW,SMALL,5
+554,LinkedIn,video,Travel,HI,JP,"2025-04-03 10:36:00","#Journey #Adventure #Wanderlust #Travel #ExploreMore #Tourism",0.21,46047,2570,988,395,0.0859,1,2025-04-03,10:36:00,859,LOW,SMALL,5
+555,LinkedIn,article,Sports,HI,FR,"2025-05-06 15:46:00","#Fitness #Workout #Sports #Cricket #Training #Football #Basketball",0.41,43236,3580,1377,550,0.1274,1,2025-05-06,15:46:00,1274,LOW,SMALL,5
+556,LinkedIn,video,Business,HI,UK,"2025-03-15 19:50:00","#BusinessTips #Leadership #StartupLife",-0.16,10124,425,163,65,0.0648,0,2025-03-15,19:50:00,648,LOW,SMALL,5
+557,LinkedIn,poll,Travel,ES,UK,"2025-06-19 10:34:00","#Wanderlust #ExploreMore #Travel #Tourism #Journey #Adventure",0.46,28216,713,274,109,0.0389,0,2025-06-19,10:34:00,388,LOW,SMALL,5
+558,LinkedIn,video,Technology,FR,FR,"2025-07-17 14:58:00","#TechTrends #CodingLife #AI #Programming #Innovation #DataScience #MachineLearning",0.97,24416,565,217,87,0.0357,0,2025-07-17,14:58:00,357,LOW,SMALL,5
+559,LinkedIn,image,Entertainment,DE,IN,"2025-01-23 05:33:00","#Funny #Viral #FollowForMore #MovieTime #Trending",0.77,19809,869,334,133,0.0675,0,2025-01-23,05:33:00,675,LOW,SMALL,5
+560,LinkedIn,article,Lifestyle,JA,DE,"2025-05-16 22:04:00","#DailyLife #MindfulLiving #Motivation",0.67,32354,2562,985,394,0.1219,1,2025-05-16,22:04:00,1219,LOW,SMALL,5
+561,LinkedIn,article,Food,PT,UK,"2025-03-16 10:49:00","#Cooking #MustTry #Recipe #Foodie #FoodBlog #Food",0.78,10058,807,310,124,0.1237,1,2025-03-16,10:49:00,1237,LOW,SMALL,5
+562,LinkedIn,video,Health,PT,AU,"2025-09-12 15:34:00","#MentalHealth #Health #Nutrition #Fitness",0.82,15374,1123,432,172,0.1125,1,2025-09-12,15:34:00,1125,LOW,SMALL,5
+563,LinkedIn,video,Education,EN,BR,"2025-01-09 15:58:00","#Learning #Knowledge #AcademicSuccess",0.23,10132,347,133,53,0.0529,0,2025-01-09,15:58:00,529,LOW,SMALL,5
+564,LinkedIn,video,Fashion,PT,BR,"2025-04-18 01:08:00","#Lookbook #Style #TrendingStyle",0.15,28833,1119,430,172,0.0597,0,2025-04-18,01:08:00,597,LOW,SMALL,5
+565,LinkedIn,article,Food,HI,JP,"2025-11-01 00:23:00","#Food #Foodie #MustTry #Recipe",0.89,10811,859,330,132,0.1223,1,2025-11-01,00:23:00,1223,LOW,SMALL,5
+566,LinkedIn,carousel,Sports,UR,JP,"2025-07-30 14:41:00","#Sports #Football #Training #Fitness #Cricket #Workout #Basketball",0.41,28762,1847,710,284,0.0988,1,2025-07-30,14:41:00,988,LOW,SMALL,5
+567,LinkedIn,carousel,Fashion,UR,CA,"2025-09-14 10:59:00","#OOTD #Fashion #TrendingStyle #FashionTips",0,4669,126,48,19,0.0419,0,2025-09-14,10:59:00,419,LOW,SMALL,5
+568,LinkedIn,video,Fashion,HI,JP,"2025-09-02 15:10:00","#OOTD #TrendingStyle #Style",0.46,24770,1471,566,226,0.0914,1,2025-09-02,15:10:00,914,LOW,SMALL,5
+569,LinkedIn,image,Technology,FR,UK,"2025-03-25 09:38:00","#Programming #DataScience #MachineLearning",0.78,3121,109,42,16,0.0543,0,2025-03-25,09:38:00,543,LOW,SMALL,5
+570,LinkedIn,article,Food,EN,CA,"2025-09-05 14:19:00","#Cooking #MustTry #Recipe",0.59,26601,1883,724,289,0.109,1,2025-09-05,14:19:00,1090,LOW,SMALL,5
+571,LinkedIn,video,Entertainment,DE,FR,"2025-09-15 10:37:00","#FollowForMore #Funny #Entertainment #Trending #MovieTime #ShowBiz",0.45,42022,908,349,139,0.0333,0,2025-09-15,10:37:00,333,LOW,SMALL,5
+572,LinkedIn,video,Business,ES,MX,"2025-09-14 14:50:00","#StartupLife #Hustle #Leadership #CareerGrowth",0.02,47711,3038,1168,467,0.098,1,2025-09-14,14:50:00,980,LOW,SMALL,5
+573,LinkedIn,carousel,Business,FR,CA,"2025-11-07 10:40:00","#BusinessTips #Hustle #Entrepreneur #CareerGrowth #Leadership #StartupLife",0.59,20372,562,216,86,0.0425,0,2025-11-07,10:40:00,425,LOW,SMALL,5
+574,LinkedIn,image,Food,DE,DE,"2025-02-15 15:30:00","#Recipe #Foodie #Food #Cooking #FoodBlog",0.92,27275,1377,529,211,0.0777,0,2025-02-15,15:30:00,777,LOW,SMALL,5
+575,LinkedIn,poll,Sports,JA,DE,"2025-09-20 10:05:00","#Basketball #Cricket #Training #Football #Workout #Sports #Fitness",-0.08,37752,497,191,76,0.0203,0,2025-09-20,10:05:00,203,LOW,SMALL,5
+576,LinkedIn,article,Lifestyle,PT,MX,"2025-10-19 09:24:00","#MindfulLiving #Lifestyle #Motivation #DailyLife #Positivity #Wellness",0.51,8100,677,260,104,0.1288,1,2025-10-19,09:24:00,1288,LOW,SMALL,5
+577,LinkedIn,carousel,Health,FR,FR,"2025-06-18 14:31:00","#Nutrition #MentalHealth #Health #Wellness",0.73,31799,870,334,133,0.0421,0,2025-06-18,14:31:00,421,LOW,SMALL,5
+578,LinkedIn,video,Education,EN,CA,"2025-07-14 14:30:00","#Learning #Education #Certification #Knowledge",0.55,12541,269,103,41,0.033,0,2025-07-14,14:30:00,330,LOW,SMALL,5
+579,LinkedIn,article,Lifestyle,PT,IN,"2025-06-02 14:26:00","#DailyLife #Motivation #MindfulLiving #Lifestyle #Wellness #Positivity",0.85,11782,382,147,58,0.05,0,2025-06-02,14:26:00,500,LOW,SMALL,5
+580,LinkedIn,carousel,Travel,JA,AU,"2025-12-19 22:22:00","#ExploreMore #Tourism #Travel #Wanderlust #Journey #Adventure",0.09,10477,365,140,56,0.0538,0,2025-12-19,22:22:00,538,LOW,SMALL,5
+581,LinkedIn,image,Technology,ES,JP,"2025-03-17 14:50:00","#TechTrends #DataScience #Innovation #AI #MachineLearning #Programming #CodingLife",0.75,3391,112,43,17,0.0513,0,2025-03-17,14:50:00,513,LOW,SMALL,5
+582,LinkedIn,video,Health,ES,CA,"2025-07-13 10:43:00","#Health #Fitness #HealthTips #Nutrition #Wellness #MentalHealth",0.92,46830,2715,1044,417,0.0892,1,2025-07-13,10:43:00,892,LOW,SMALL,5
+583,LinkedIn,carousel,Health,PT,DE,"2025-06-30 13:48:00","#Health #Wellness #MentalHealth #HealthTips #Fitness",0.76,36570,1855,713,285,0.0781,0,2025-06-30,13:48:00,781,LOW,SMALL,5
+584,LinkedIn,image,Health,UR,CA,"2025-02-20 03:41:00","#HealthTips #MentalHealth #Health",0.85,36699,897,345,138,0.0376,0,2025-02-20,03:41:00,376,LOW,SMALL,5
+585,LinkedIn,carousel,Fashion,EN,UK,"2025-08-04 15:24:00","#Style #TrendingStyle #Fashion",0.88,31405,1581,608,243,0.0775,0,2025-08-04,15:24:00,775,LOW,SMALL,5
+586,LinkedIn,carousel,Technology,DE,BR,"2025-09-17 14:53:00","#CodingLife #MachineLearning #AI #TechTrends #Innovation #DataScience",0.87,35010,2926,1125,450,0.1286,1,2025-09-17,14:53:00,1286,LOW,SMALL,5
+587,LinkedIn,poll,Education,DE,MX,"2025-10-20 07:25:00","#AcademicSuccess #StudyTips #Learning #Knowledge",0.96,26586,2620,1007,403,0.1516,1,2025-10-20,07:25:00,1516,LOW,SMALL,5
+588,LinkedIn,video,Health,DE,AU,"2025-03-23 09:51:00","#HealthTips #Health #MentalHealth #Fitness",-0.25,11423,788,303,121,0.1063,1,2025-03-23,09:51:00,1063,LOW,SMALL,5
+589,LinkedIn,video,Entertainment,HI,US,"2025-08-12 10:39:00","#Funny #Entertainment #ShowBiz #FollowForMore #MovieTime #Trending #Viral",0.87,13226,476,183,73,0.0554,0,2025-08-12,10:39:00,554,LOW,SMALL,5
+590,LinkedIn,video,Lifestyle,FR,AU,"2025-05-06 12:16:00","#Lifestyle #Motivation #MindfulLiving #Positivity #Wellness #DailyLife",0.96,9040,232,89,35,0.0396,0,2025-05-06,12:16:00,396,LOW,SMALL,5
+591,LinkedIn,image,Lifestyle,ES,IN,"2025-02-09 14:25:00","#Positivity #Lifestyle #MindfulLiving",0.98,6001,206,79,31,0.0531,0,2025-02-09,14:25:00,531,LOW,SMALL,5
+592,LinkedIn,carousel,Health,DE,JP,"2025-03-24 09:42:00","#Nutrition #HealthTips #Health #MentalHealth #Wellness #Fitness",0.77,36814,603,232,92,0.0252,0,2025-03-24,09:42:00,252,LOW,SMALL,5
+593,LinkedIn,poll,Lifestyle,HI,BR,"2025-11-07 09:32:00","#DailyLife #Motivation #Lifestyle #Positivity",0.48,6468,445,171,68,0.1061,1,2025-11-07,09:32:00,1061,LOW,SMALL,5
+594,LinkedIn,video,Lifestyle,UR,JP,"2025-04-13 11:35:00","#Motivation #Positivity #Wellness #DailyLife #MindfulLiving #Lifestyle",0.52,48015,1735,667,267,0.0556,0,2025-04-13,11:35:00,556,LOW,SMALL,5
+595,LinkedIn,carousel,Entertainment,UR,MX,"2025-04-16 15:56:00","#FollowForMore #Funny #Trending #MovieTime #ShowBiz #Entertainment",0.66,38168,1643,632,252,0.0662,0,2025-04-16,15:56:00,662,LOW,SMALL,5
+596,LinkedIn,article,Travel,ES,US,"2025-09-19 15:38:00","#ExploreMore #Wanderlust #Tourism #Travel #Journey #Adventure",0.01,13184,479,184,73,0.0559,0,2025-09-19,15:38:00,559,LOW,SMALL,5
+597,LinkedIn,article,Business,DE,DE,"2025-03-16 03:20:00","#BusinessTips #StartupLife #Entrepreneur #CareerGrowth #Leadership #Hustle",0.63,40439,1287,495,198,0.049,0,2025-03-16,03:20:00,490,LOW,SMALL,5
+598,LinkedIn,video,Entertainment,UR,CA,"2025-12-10 15:48:00","#Trending #ShowBiz #Viral #Funny #Entertainment #FollowForMore",0.99,28606,769,296,118,0.0414,0,2025-12-10,15:48:00,414,LOW,SMALL,5
+599,LinkedIn,carousel,Sports,DE,CA,"2025-07-16 09:01:00","#Training #Cricket #Sports #Basketball #Fitness #Workout #Football",0.72,35571,672,258,103,0.0291,0,2025-07-16,09:01:00,291,LOW,SMALL,5
+600,LinkedIn,article,Entertainment,JA,IN,"2025-08-01 08:48:00","#FollowForMore #Entertainment #Funny #Trending #Viral",0.64,46643,4278,1645,658,0.1411,1,2025-08-01,08:48:00,1411,LOW,SMALL,5
+601,LinkedIn,carousel,Entertainment,DE,CA,"2025-02-22 09:08:00","#Trending #MovieTime #FollowForMore",0.45,48455,3940,1515,606,0.1251,1,2025-02-22,09:08:00,1251,LOW,SMALL,5
+602,LinkedIn,image,Fashion,EN,US,"2025-05-13 01:03:00","#Fashion #OOTD #FashionTips #TrendingStyle #Style",0.5,10028,586,225,90,0.0901,1,2025-05-13,01:03:00,901,LOW,SMALL,5
+603,LinkedIn,article,Sports,DE,MX,"2025-10-27 13:28:00","#Sports #Cricket #Workout #Fitness #Football #Basketball #Training",-0.71,48897,1707,656,262,0.0537,0,2025-10-27,13:28:00,537,LOW,SMALL,5
+604,LinkedIn,article,Lifestyle,UR,IN,"2025-06-30 10:41:00","#DailyLife #Lifestyle #Wellness #MindfulLiving #Positivity #Motivation",0.53,26235,766,294,117,0.045,0,2025-06-30,10:41:00,450,LOW,SMALL,5
+605,LinkedIn,article,Education,FR,CA,"2025-09-28 14:45:00","#Certification #Education #Learning #StudyTips #Knowledge #AcademicSuccess",0.67,41663,2319,892,356,0.0857,1,2025-09-28,14:45:00,857,LOW,SMALL,5
+606,LinkedIn,carousel,Business,HI,UK,"2025-08-05 14:41:00","#Entrepreneur #CareerGrowth #BusinessTips",-0.08,31202,765,294,117,0.0378,0,2025-08-05,14:41:00,378,LOW,SMALL,5
+607,LinkedIn,article,Travel,JA,DE,"2025-05-16 09:27:00","#Adventure #Tourism #ExploreMore #Wanderlust",0.66,25233,585,225,90,0.0357,0,2025-05-16,09:27:00,357,LOW,SMALL,5
+608,LinkedIn,carousel,Health,FR,UK,"2025-04-07 14:38:00","#HealthTips #MentalHealth #Health #Fitness #Nutrition #Wellness",-0.8,4482,242,93,37,0.0832,1,2025-04-07,14:38:00,832,LOW,SMALL,5
+609,LinkedIn,poll,Lifestyle,FR,IN,"2025-09-30 10:44:00","#Positivity #MindfulLiving #Wellness #Lifestyle #Motivation #DailyLife",0.5,14341,586,225,90,0.063,0,2025-09-30,10:44:00,630,LOW,SMALL,5
+610,LinkedIn,image,Food,UR,US,"2025-02-18 15:19:00","#Foodie #MustTry #Cooking #Recipe #Food #FoodBlog",0.94,10295,996,383,153,0.149,1,2025-02-18,15:19:00,1490,LOW,SMALL,5
+611,LinkedIn,carousel,Health,DE,US,"2025-04-01 02:43:00","#HealthTips #Fitness #MentalHealth",0.69,17220,908,349,139,0.0812,1,2025-04-01,02:43:00,812,LOW,SMALL,5
+612,LinkedIn,article,Technology,UR,BR,"2025-09-26 10:06:00","#Programming #CodingLife #DataScience #TechTrends #MachineLearning",0.29,17865,1089,419,167,0.0939,1,2025-09-26,10:06:00,939,LOW,SMALL,5
+613,LinkedIn,image,Education,JA,US,"2025-06-30 14:49:00","#AcademicSuccess #StudyTips #Learning #Education #Certification #Knowledge",-0.23,44212,3194,1228,491,0.1112,1,2025-06-30,14:49:00,1112,LOW,SMALL,5
+614,LinkedIn,image,Travel,EN,BR,"2025-10-23 13:13:00","#Travel #Adventure #Tourism #Wanderlust #Journey #ExploreMore",0.14,30443,2447,941,376,0.1237,1,2025-10-23,13:13:00,1237,LOW,SMALL,5
+615,LinkedIn,poll,Sports,UR,DE,"2025-06-19 15:19:00","#Sports #Cricket #Workout #Football",-0.14,30820,1470,565,226,0.0734,0,2025-06-19,15:19:00,734,LOW,SMALL,5
+616,LinkedIn,image,Lifestyle,HI,US,"2025-09-13 04:43:00","#Wellness #Motivation #DailyLife #Positivity",0.44,20315,321,123,49,0.0244,0,2025-09-13,04:43:00,244,LOW,SMALL,5
+617,LinkedIn,article,Business,UR,CA,"2025-03-05 14:27:00","#Hustle #BusinessTips #Leadership #Entrepreneur #CareerGrowth",0.57,33898,2232,858,343,0.1013,1,2025-03-05,14:27:00,1013,LOW,SMALL,5
+618,LinkedIn,poll,Sports,HI,UK,"2025-03-15 06:37:00","#Football #Fitness #Sports",0.61,45466,2926,1125,450,0.099,1,2025-03-15,06:37:00,990,LOW,SMALL,5
+619,LinkedIn,carousel,Health,HI,UK,"2025-06-04 10:27:00","#Fitness #HealthTips #Wellness #Nutrition #Health #MentalHealth",0.73,20730,829,319,127,0.0616,0,2025-06-04,10:27:00,616,LOW,SMALL,5
+620,LinkedIn,image,Food,JA,AU,"2025-04-04 15:08:00","#Recipe #Cooking #FoodBlog #Foodie #MustTry #Food",0.98,31230,598,230,92,0.0295,0,2025-04-04,15:08:00,295,LOW,SMALL,5
+621,LinkedIn,poll,Technology,PT,IN,"2025-03-13 09:15:00","#Innovation #DataScience #MachineLearning #CodingLife #AI #Programming #TechTrends",0.4,34948,1679,646,258,0.0739,0,2025-03-13,09:15:00,738,LOW,SMALL,5
+622,LinkedIn,article,Entertainment,EN,UK,"2025-11-29 09:36:00","#MovieTime #Trending #Entertainment #Funny #ShowBiz #FollowForMore",0.06,37834,2354,905,362,0.0957,1,2025-11-29,09:36:00,956,LOW,SMALL,5
+623,LinkedIn,carousel,Sports,FR,MX,"2025-06-04 23:51:00","#Cricket #Workout #Fitness #Sports #Basketball #Football",0.93,35067,865,332,133,0.038,0,2025-06-04,23:51:00,380,LOW,SMALL,5
+624,LinkedIn,video,Entertainment,JA,US,"2025-09-16 09:19:00","#FollowForMore #Viral #MovieTime #Trending #ShowBiz #Funny",0.11,29334,681,262,104,0.0358,0,2025-09-16,09:19:00,358,LOW,SMALL,5
+625,LinkedIn,article,Sports,ES,BR,"2025-03-29 10:30:00","#Football #Workout #Sports #Basketball #Fitness",0.63,46721,3610,1388,555,0.1189,1,2025-03-29,10:30:00,1189,LOW,SMALL,5
+626,LinkedIn,carousel,Health,PT,MX,"2025-01-15 09:24:00","#HealthTips #Fitness #Health",0.94,41624,2235,859,343,0.0826,1,2025-01-15,09:24:00,826,LOW,SMALL,5
+627,LinkedIn,image,Sports,JA,JP,"2025-05-22 10:32:00","#Fitness #Football #Cricket #Basketball #Workout #Sports #Training",0.61,48134,2824,1086,434,0.0903,1,2025-05-22,10:32:00,903,LOW,SMALL,5
+628,LinkedIn,carousel,Sports,UR,UK,"2025-07-21 15:30:00","#Workout #Fitness #Cricket #Football #Sports #Training #Basketball",0.9,5428,109,42,16,0.0311,0,2025-07-21,15:30:00,311,LOW,SMALL,5
+629,LinkedIn,video,Business,HI,IN,"2025-09-13 15:48:00","#Hustle #Entrepreneur #BusinessTips #CareerGrowth",-0.01,28528,2074,798,319,0.1119,1,2025-09-13,15:48:00,1119,LOW,SMALL,5
+630,LinkedIn,article,Food,UR,IN,"2025-01-20 02:48:00","#FoodBlog #Food #Foodie #Recipe #MustTry",0.63,42772,2557,983,393,0.092,1,2025-01-20,02:48:00,920,LOW,SMALL,5
+631,LinkedIn,video,Business,UR,JP,"2025-08-13 07:47:00","#CareerGrowth #Leadership #Entrepreneur #BusinessTips",0.78,44821,1064,409,163,0.0366,0,2025-08-13,07:47:00,366,LOW,SMALL,5
+632,LinkedIn,article,Sports,EN,DE,"2025-07-28 09:11:00","#Workout #Training #Cricket #Basketball #Sports #Football #Fitness",0.61,37614,3046,1171,468,0.1246,1,2025-07-28,09:11:00,1246,LOW,SMALL,5
+633,LinkedIn,article,Travel,PT,FR,"2025-02-06 10:19:00","#Travel #Tourism #Adventure",0.72,2477,82,31,12,0.0516,0,2025-02-06,10:19:00,516,LOW,SMALL,5
+634,LinkedIn,image,Lifestyle,PT,DE,"2025-02-04 05:04:00","#Wellness #DailyLife #Motivation #MindfulLiving #Lifestyle #Positivity",0.96,18239,1302,501,200,0.1099,1,2025-02-04,05:04:00,1099,LOW,SMALL,5
+635,LinkedIn,article,Education,PT,UK,"2025-04-13 09:13:00","#Certification #Knowledge #Learning #StudyTips #Education #AcademicSuccess",0.08,40977,2462,947,378,0.0925,1,2025-04-13,09:13:00,925,LOW,SMALL,5
+636,LinkedIn,article,Education,HI,FR,"2025-11-03 02:30:00","#Knowledge #Learning #AcademicSuccess #StudyTips",0.54,23954,1142,439,175,0.0734,0,2025-11-03,02:30:00,734,LOW,SMALL,5
+637,LinkedIn,image,Business,EN,US,"2025-01-14 06:38:00","#Hustle #BusinessTips #CareerGrowth #Leadership #Entrepreneur #StartupLife",0.66,28972,1690,650,260,0.0898,1,2025-01-14,06:38:00,898,LOW,SMALL,5
+638,LinkedIn,article,Travel,HI,CA,"2025-07-08 14:58:00","#Adventure #Journey #Travel",0.54,49986,3595,1383,553,0.1107,1,2025-07-08,14:58:00,1107,LOW,SMALL,5
+639,LinkedIn,poll,Food,EN,US,"2025-05-08 02:08:00","#Foodie #Cooking #Food #MustTry #FoodBlog #Recipe",-0.88,27071,878,338,135,0.05,0,2025-05-08,02:08:00,500,LOW,SMALL,5
+640,LinkedIn,article,Entertainment,HI,UK,"2025-10-06 14:28:00","#Trending #ShowBiz #Funny #MovieTime #FollowForMore #Entertainment #Viral",0.72,7840,157,60,24,0.0309,0,2025-10-06,14:28:00,309,LOW,SMALL,5
+641,LinkedIn,carousel,Food,JA,UK,"2025-02-10 10:14:00","#MustTry #FoodBlog #Foodie #Food #Recipe",0.19,3350,271,104,41,0.1245,1,2025-02-10,10:14:00,1245,LOW,SMALL,5
+642,LinkedIn,carousel,Travel,HI,US,"2025-09-13 08:37:00","#Wanderlust #Travel #ExploreMore #Adventure #Journey #Tourism",0.63,30099,568,218,87,0.0291,0,2025-09-13,08:37:00,291,LOW,SMALL,5
+643,LinkedIn,video,Health,ES,FR,"2025-09-30 14:34:00","#Health #HealthTips #Fitness #Wellness #Nutrition",-0.03,41732,1704,655,262,0.0628,0,2025-09-30,14:34:00,628,LOW,SMALL,5
+644,LinkedIn,carousel,Technology,HI,AU,"2025-07-18 21:54:00","#TechTrends #Programming #Innovation #DataScience #AI #MachineLearning #CodingLife",0.26,9642,748,287,115,0.1194,1,2025-07-18,21:54:00,1194,LOW,SMALL,5
+645,LinkedIn,image,Lifestyle,HI,BR,"2025-10-05 15:39:00","#Motivation #MindfulLiving #Wellness #Positivity #Lifestyle",0.74,22036,1812,697,278,0.1266,1,2025-10-05,15:39:00,1266,LOW,SMALL,5
+646,LinkedIn,video,Travel,JA,US,"2025-08-14 09:30:00","#ExploreMore #Adventure #Tourism #Travel #Wanderlust #Journey",0.08,5197,221,85,34,0.0656,0,2025-08-14,09:30:00,656,LOW,SMALL,5
+647,LinkedIn,image,Lifestyle,UR,JP,"2025-03-07 10:55:00","#MindfulLiving #Lifestyle #DailyLife #Wellness #Motivation #Positivity",0.92,39003,1673,643,257,0.066,0,2025-03-07,10:55:00,660,LOW,SMALL,5
+648,LinkedIn,poll,Business,EN,UK,"2025-05-12 14:45:00","#Leadership #Entrepreneur #StartupLife",0.7,8417,470,181,72,0.086,1,2025-05-12,14:45:00,859,LOW,SMALL,5
+649,LinkedIn,video,Business,DE,CA,"2025-07-10 21:04:00","#CareerGrowth #StartupLife #Entrepreneur #BusinessTips #Hustle #Leadership",0.64,43728,1946,748,299,0.0685,0,2025-07-10,21:04:00,685,LOW,SMALL,5
+650,LinkedIn,image,Food,EN,MX,"2025-07-08 10:01:00","#FoodBlog #Foodie #Cooking",0.87,34304,2765,1063,425,0.124,1,2025-07-08,10:01:00,1240,LOW,SMALL,5
+651,LinkedIn,image,Business,PT,CA,"2025-01-17 04:48:00","#BusinessTips #Hustle #Entrepreneur #StartupLife #CareerGrowth #Leadership",0.06,4370,233,89,35,0.0822,1,2025-01-17,04:48:00,822,LOW,SMALL,5
+652,LinkedIn,poll,Fashion,JA,DE,"2025-05-18 14:21:00","#OOTD #Style #TrendingStyle #FashionTips",-0.14,16797,674,259,103,0.0618,0,2025-05-18,14:21:00,618,LOW,SMALL,5
+653,LinkedIn,carousel,Education,HI,DE,"2025-10-14 14:30:00","#Education #StudyTips #AcademicSuccess #Learning #Knowledge #Certification",0,39322,2212,851,340,0.0866,1,2025-10-14,14:30:00,866,LOW,SMALL,5
+654,LinkedIn,poll,Lifestyle,UR,DE,"2025-06-10 15:32:00","#Wellness #Positivity #DailyLife #Lifestyle",-0.19,8916,338,130,52,0.0583,0,2025-06-10,15:32:00,583,LOW,SMALL,5
+655,LinkedIn,poll,Travel,HI,MX,"2025-01-18 00:10:00","#Adventure #ExploreMore #Tourism",-0.68,27366,1269,488,195,0.0714,0,2025-01-18,00:10:00,714,LOW,SMALL,5
+656,LinkedIn,video,Lifestyle,HI,DE,"2025-06-22 09:02:00","#MindfulLiving #Motivation #Positivity",-0.43,49542,2902,1116,446,0.0901,1,2025-06-22,09:02:00,901,LOW,SMALL,5
+657,LinkedIn,image,Travel,ES,MX,"2025-10-29 16:09:00","#ExploreMore #Journey #Wanderlust",0.67,22000,1096,421,168,0.0767,0,2025-10-29,16:09:00,767,LOW,SMALL,5
+658,LinkedIn,poll,Food,UR,IN,"2025-04-29 14:36:00","#FoodBlog #MustTry #Recipe #Foodie #Cooking #Food",0.51,10384,187,72,28,0.0279,0,2025-04-29,14:36:00,279,LOW,SMALL,5
+659,LinkedIn,video,Health,UR,CA,"2025-11-12 14:10:00","#Fitness #Nutrition #MentalHealth",0.93,19905,1885,725,290,0.1457,1,2025-11-12,14:10:00,1457,LOW,SMALL,5
+660,LinkedIn,image,Food,HI,BR,"2025-12-08 09:35:00","#Foodie #Food #FoodBlog #Cooking #Recipe #MustTry",0.89,25218,837,322,128,0.0511,0,2025-12-08,09:35:00,511,LOW,SMALL,5
+661,LinkedIn,poll,Health,JA,AU,"2025-03-06 09:45:00","#Health #MentalHealth #HealthTips #Wellness #Fitness #Nutrition",0.3,48948,3012,1158,463,0.0947,1,2025-03-06,09:45:00,947,LOW,SMALL,5
+662,LinkedIn,image,Entertainment,FR,IN,"2025-06-17 14:29:00","#MovieTime #Funny #Entertainment #Trending #ShowBiz #Viral #FollowForMore",-0.29,21809,505,194,77,0.0356,0,2025-06-17,14:29:00,356,LOW,SMALL,5
+663,LinkedIn,poll,Technology,EN,BR,"2025-03-12 10:12:00","#TechTrends #MachineLearning #Programming #CodingLife #DataScience",0.48,42600,3407,1310,524,0.1231,1,2025-03-12,10:12:00,1231,LOW,SMALL,5
+664,LinkedIn,poll,Business,EN,FR,"2025-02-04 10:11:00","#CareerGrowth #StartupLife #Hustle",0.54,23852,1232,474,189,0.0795,0,2025-02-04,10:11:00,795,LOW,SMALL,5
+665,LinkedIn,video,Lifestyle,FR,UK,"2025-12-09 15:22:00","#Positivity #Motivation #Lifestyle #MindfulLiving #Wellness #DailyLife",0.67,17213,1158,445,178,0.1036,1,2025-12-09,15:22:00,1036,LOW,SMALL,5
+666,LinkedIn,article,Sports,JA,DE,"2025-12-05 15:08:00","#Training #Basketball #Cricket #Workout #Football #Sports",0.56,15097,1248,480,192,0.1273,1,2025-12-05,15:08:00,1273,LOW,SMALL,5
+667,LinkedIn,carousel,Technology,DE,UK,"2025-12-12 15:27:00","#DataScience #AI #Programming #TechTrends #Innovation #CodingLife",0.89,21218,1131,435,174,0.0821,1,2025-12-12,15:27:00,821,LOW,SMALL,5
+668,LinkedIn,video,Food,ES,AU,"2025-04-16 03:39:00","#Foodie #FoodBlog #Food #Cooking #Recipe",-0.15,47185,1561,600,240,0.0509,0,2025-04-16,03:39:00,509,LOW,SMALL,5
+669,LinkedIn,image,Fashion,HI,US,"2025-09-23 10:53:00","#TrendingStyle #Style #OOTD #Fashion #FashionTips #Lookbook",0.73,17299,1562,601,240,0.139,1,2025-09-23,10:53:00,1390,LOW,SMALL,5
+670,LinkedIn,article,Technology,HI,AU,"2025-07-23 01:18:00","#AI #MachineLearning #CodingLife #Programming #Innovation",0.21,25763,1522,585,234,0.0909,1,2025-07-23,01:18:00,909,LOW,SMALL,5
+671,LinkedIn,video,Lifestyle,HI,IN,"2025-02-07 15:00:00","#Wellness #MindfulLiving #DailyLife #Lifestyle #Positivity #Motivation",0.23,22215,964,371,148,0.0668,0,2025-02-07,15:00:00,668,LOW,SMALL,5
+672,LinkedIn,article,Lifestyle,UR,JP,"2025-04-14 15:18:00","#Lifestyle #DailyLife #Positivity #Motivation #Wellness #MindfulLiving",0.82,34200,1231,473,189,0.0554,0,2025-04-14,15:18:00,554,LOW,SMALL,5
+673,LinkedIn,article,Travel,PT,DE,"2025-10-07 14:36:00","#Tourism #Adventure #Journey",0.74,43127,1748,672,269,0.0624,0,2025-10-07,14:36:00,624,LOW,SMALL,5
+674,LinkedIn,video,Entertainment,HI,AU,"2025-03-28 15:15:00","#Viral #FollowForMore #Funny",0.06,38135,2423,932,372,0.0978,1,2025-03-28,15:15:00,978,LOW,SMALL,5
+675,LinkedIn,article,Travel,UR,FR,"2025-06-09 04:20:00","#ExploreMore #Journey #Tourism #Travel #Adventure #Wanderlust",0.2,36755,1771,681,272,0.0742,0,2025-06-09,04:20:00,742,LOW,SMALL,5
+676,LinkedIn,video,Education,JA,JP,"2025-09-21 09:27:00","#Learning #StudyTips #Education #Certification #Knowledge #AcademicSuccess",0.66,8449,156,60,24,0.0286,0,2025-09-21,09:27:00,286,LOW,SMALL,5
+677,LinkedIn,carousel,Travel,ES,AU,"2025-09-07 15:00:00","#Travel #Tourism #Wanderlust #ExploreMore #Adventure",0.77,25355,1549,596,238,0.094,1,2025-09-07,15:00:00,940,LOW,SMALL,5
+678,LinkedIn,video,Sports,UR,AU,"2025-12-17 14:38:00","#Basketball #Training #Fitness #Football #Workout",0.23,9869,249,96,38,0.0389,0,2025-12-17,14:38:00,388,LOW,SMALL,5
+679,LinkedIn,carousel,Technology,DE,FR,"2025-04-02 09:19:00","#MachineLearning #Programming #AI #TechTrends #CodingLife #Innovation #DataScience",0.76,5375,235,90,36,0.0676,0,2025-04-02,09:19:00,675,LOW,SMALL,5
+680,LinkedIn,poll,Business,DE,US,"2025-04-09 15:46:00","#StartupLife #Leadership #CareerGrowth #Entrepreneur #BusinessTips",0.49,48884,1517,583,233,0.0478,0,2025-04-09,15:46:00,478,LOW,SMALL,5
+681,LinkedIn,video,Lifestyle,HI,MX,"2025-09-25 15:36:00","#Wellness #Motivation #Positivity #Lifestyle #MindfulLiving #DailyLife",0.29,6985,557,214,85,0.1228,1,2025-09-25,15:36:00,1228,LOW,SMALL,5
+682,LinkedIn,poll,Sports,ES,MX,"2025-09-01 10:57:00","#Fitness #Cricket #Basketball",0.68,20828,1141,439,175,0.0843,1,2025-09-01,10:57:00,843,LOW,SMALL,5
+683,LinkedIn,article,Business,PT,FR,"2025-07-17 11:53:00","#StartupLife #Leadership #BusinessTips #Hustle #CareerGrowth #Entrepreneur",-0.25,47618,981,377,151,0.0317,0,2025-07-17,11:53:00,317,LOW,SMALL,5
+684,LinkedIn,carousel,Fashion,JA,JP,"2025-12-22 21:35:00","#Lookbook #OOTD #Style #Fashion #TrendingStyle #FashionTips",-0.03,28792,767,295,118,0.041,0,2025-12-22,21:35:00,410,LOW,SMALL,5
+685,LinkedIn,poll,Business,PT,DE,"2025-04-02 00:28:00","#Leadership #Entrepreneur #BusinessTips #StartupLife #Hustle",0.95,17630,1034,398,159,0.0903,1,2025-04-02,00:28:00,903,LOW,SMALL,5
+686,LinkedIn,article,Food,UR,US,"2025-11-28 15:02:00","#MustTry #Cooking #FoodBlog #Recipe #Food #Foodie",0.26,40816,2379,915,366,0.0897,1,2025-11-28,15:02:00,897,LOW,SMALL,5
+687,LinkedIn,carousel,Sports,JA,AU,"2025-02-23 09:57:00","#Fitness #Workout #Training #Cricket #Sports #Basketball #Football",0.78,5084,209,80,32,0.0635,0,2025-02-23,09:57:00,635,LOW,SMALL,5
+688,LinkedIn,poll,Lifestyle,FR,CA,"2025-01-09 14:10:00","#MindfulLiving #Motivation #Lifestyle #Wellness #DailyLife #Positivity",0.13,5256,139,53,21,0.0408,0,2025-01-09,14:10:00,408,LOW,SMALL,5
+689,LinkedIn,poll,Sports,UR,IN,"2025-03-30 14:12:00","#Cricket #Basketball #Fitness #Sports #Training #Football #Workout",0.68,46632,1043,401,160,0.0344,0,2025-03-30,14:12:00,344,LOW,SMALL,5
+690,LinkedIn,carousel,Entertainment,HI,IN,"2025-04-04 05:37:00","#Entertainment #Viral #ShowBiz #MovieTime #Trending #FollowForMore #Funny",0.83,17169,707,272,108,0.0634,0,2025-04-04,05:37:00,634,LOW,SMALL,5
+691,LinkedIn,video,Sports,UR,US,"2025-07-14 05:08:00","#Football #Basketball #Fitness #Cricket #Workout #Sports #Training",-0.77,29809,691,266,106,0.0357,0,2025-07-14,05:08:00,357,LOW,SMALL,5
+692,LinkedIn,carousel,Education,DE,DE,"2025-11-25 10:53:00","#StudyTips #Education #AcademicSuccess #Knowledge #Certification #Learning",0.81,19919,655,252,100,0.0506,0,2025-11-25,10:53:00,506,LOW,SMALL,5
+693,LinkedIn,poll,Fashion,UR,IN,"2025-09-20 08:29:00","#Fashion #Lookbook #Style #TrendingStyle #FashionTips",0.59,37947,1677,645,258,0.068,0,2025-09-20,08:29:00,680,LOW,SMALL,5
+694,LinkedIn,poll,Technology,DE,IN,"2025-11-19 09:26:00","#DataScience #Programming #AI #MachineLearning #TechTrends #CodingLife",0.73,2425,122,47,18,0.0779,0,2025-11-19,09:26:00,779,LOW,SMALL,5
+695,LinkedIn,poll,Travel,PT,FR,"2025-08-31 08:23:00","#Wanderlust #Tourism #ExploreMore #Adventure #Travel #Journey",0.25,34224,735,283,113,0.0331,0,2025-08-31,08:23:00,331,LOW,SMALL,5
+696,LinkedIn,carousel,Lifestyle,PT,CA,"2025-01-15 10:56:00","#MindfulLiving #Wellness #DailyLife #Motivation #Lifestyle #Positivity",0.87,4525,433,166,66,0.1476,1,2025-01-15,10:56:00,1476,LOW,SMALL,5
+697,LinkedIn,image,Sports,DE,JP,"2025-07-22 09:09:00","#Fitness #Football #Workout #Sports",0.91,29609,710,273,109,0.0369,0,2025-07-22,09:09:00,369,LOW,SMALL,5
+698,LinkedIn,video,Sports,DE,US,"2025-09-02 09:35:00","#Basketball #Workout #Fitness #Training #Football #Cricket #Sports",0.18,7279,292,112,45,0.0619,0,2025-09-02,09:35:00,619,LOW,SMALL,5
+699,LinkedIn,image,Sports,PT,DE,"2025-05-25 23:27:00","#Basketball #Cricket #Sports #Football #Fitness #Workout #Training",-0.11,16411,586,225,90,0.055,0,2025-05-25,23:27:00,550,LOW,SMALL,5
+700,LinkedIn,image,Fashion,EN,CA,"2025-11-03 02:14:00","#TrendingStyle #Style #Fashion #Lookbook",0.46,26170,1652,635,254,0.0972,1,2025-11-03,02:14:00,972,LOW,SMALL,5
+701,LinkedIn,carousel,Sports,UR,UK,"2025-07-18 15:16:00","#Fitness #Training #Basketball #Sports #Workout #Cricket",0.84,43983,3802,1462,585,0.133,1,2025-07-18,15:16:00,1330,LOW,SMALL,5
+702,LinkedIn,article,Sports,DE,MX,"2025-10-22 15:31:00","#Workout #Basketball #Training #Sports #Fitness #Football #Cricket",-0.14,30508,1333,512,205,0.0673,0,2025-10-22,15:31:00,673,LOW,SMALL,5
+703,LinkedIn,carousel,Education,DE,IN,"2025-04-02 17:24:00","#Learning #Education #Certification #AcademicSuccess #Knowledge #StudyTips",0.77,30818,1565,602,240,0.0782,0,2025-04-02,17:24:00,782,LOW,SMALL,5
+704,LinkedIn,carousel,Lifestyle,EN,IN,"2025-09-08 09:43:00","#Motivation #Positivity #MindfulLiving #Wellness #DailyLife",-0.19,18513,429,165,66,0.0357,0,2025-09-08,09:43:00,357,LOW,SMALL,5
+705,LinkedIn,image,Health,EN,JP,"2025-06-16 09:07:00","#Nutrition #Health #MentalHealth #HealthTips #Fitness",0.46,48630,1239,476,190,0.0392,0,2025-06-16,09:07:00,392,LOW,SMALL,5
+706,LinkedIn,carousel,Health,UR,DE,"2025-08-23 07:57:00","#HealthTips #Nutrition #MentalHealth #Health #Fitness #Wellness",0.49,48435,3025,1163,465,0.0961,1,2025-08-23,07:57:00,961,LOW,SMALL,5
+707,LinkedIn,article,Health,HI,DE,"2025-11-23 13:01:00","#Nutrition #Fitness #Health #Wellness",-0.29,38414,1050,404,161,0.0421,0,2025-11-23,13:01:00,421,LOW,SMALL,5
+708,LinkedIn,image,Food,FR,US,"2025-07-11 10:17:00","#MustTry #Foodie #Cooking #Recipe #Food #FoodBlog",-0.39,18870,221,85,34,0.0181,0,2025-07-11,10:17:00,181,LOW,SMALL,5
+709,LinkedIn,video,Technology,PT,MX,"2025-05-21 14:14:00","#AI #CodingLife #DataScience #MachineLearning",0.57,47663,2936,1129,451,0.0948,1,2025-05-21,14:14:00,948,LOW,SMALL,5
+710,LinkedIn,carousel,Food,PT,CA,"2025-06-18 15:00:00","#Cooking #MustTry #FoodBlog #Foodie #Food",0.85,14804,884,340,136,0.0919,1,2025-06-18,15:00:00,919,LOW,SMALL,5
+711,LinkedIn,video,Health,UR,FR,"2025-01-17 18:40:00","#HealthTips #Fitness #Health #MentalHealth #Wellness #Nutrition",0.59,45204,2307,887,355,0.0786,0,2025-01-17,18:40:00,786,LOW,SMALL,5
+712,LinkedIn,video,Food,ES,CA,"2025-06-30 15:48:00","#FoodBlog #Recipe #Foodie #MustTry #Food",0.97,9093,226,87,34,0.0383,0,2025-06-30,15:48:00,383,LOW,SMALL,5
+713,LinkedIn,video,Business,HI,CA,"2025-05-29 10:25:00","#CareerGrowth #StartupLife #Entrepreneur #Hustle #Leadership #BusinessTips",0.12,44531,3252,1251,500,0.1124,1,2025-05-29,10:25:00,1124,LOW,SMALL,5
+714,LinkedIn,image,Fashion,PT,BR,"2025-07-26 15:52:00","#Style #Lookbook #TrendingStyle #FashionTips #Fashion #OOTD",0.13,45784,3423,1316,526,0.115,1,2025-07-26,15:52:00,1150,LOW,SMALL,5
+715,LinkedIn,carousel,Food,PT,FR,"2025-07-30 09:14:00","#FoodBlog #MustTry #Food #Cooking",0.65,2496,101,39,15,0.0627,0,2025-07-30,09:14:00,627,LOW,SMALL,5
+716,LinkedIn,video,Sports,JA,IN,"2025-07-09 15:32:00","#Training #Fitness #Basketball #Football",-0.08,31944,2304,886,354,0.111,1,2025-07-09,15:32:00,1110,LOW,SMALL,5
+717,LinkedIn,video,Education,ES,UK,"2025-02-03 06:29:00","#Education #AcademicSuccess #StudyTips #Learning #Knowledge #Certification",0.47,40584,3123,1201,480,0.1184,1,2025-02-03,06:29:00,1184,LOW,SMALL,5
+718,LinkedIn,video,Business,JA,IN,"2025-01-04 21:26:00","#CareerGrowth #Hustle #BusinessTips #Entrepreneur #StartupLife #Leadership",0.1,36007,2204,848,339,0.0942,1,2025-01-04,21:26:00,942,LOW,SMALL,5
+719,LinkedIn,carousel,Travel,EN,UK,"2025-07-23 23:02:00","#Tourism #ExploreMore #Journey #Adventure #Travel",0.91,38998,3076,1183,473,0.1214,1,2025-07-23,23:02:00,1214,LOW,SMALL,5
+720,LinkedIn,article,Sports,DE,FR,"2025-12-03 10:13:00","#Sports #Football #Training #Basketball #Workout",0.55,18039,740,284,113,0.0632,0,2025-12-03,10:13:00,632,LOW,SMALL,5
+721,LinkedIn,carousel,Education,JA,UK,"2025-10-18 09:09:00","#Knowledge #Learning #Education #StudyTips #Certification #AcademicSuccess",0.83,38200,2585,994,397,0.1042,1,2025-10-18,09:09:00,1042,LOW,SMALL,5
+722,LinkedIn,carousel,Travel,UR,MX,"2025-12-22 14:16:00","#Adventure #Travel #Journey #Wanderlust #Tourism #ExploreMore",0.56,48260,2596,998,399,0.0828,1,2025-12-22,14:16:00,828,LOW,SMALL,5
+723,LinkedIn,poll,Health,JA,CA,"2025-03-29 20:37:00","#Fitness #HealthTips #Nutrition #Wellness #MentalHealth #Health",0.04,32719,2360,908,363,0.111,1,2025-03-29,20:37:00,1110,LOW,SMALL,5
+724,LinkedIn,article,Entertainment,DE,BR,"2025-06-08 10:38:00","#ShowBiz #Entertainment #Viral #Trending #Funny #FollowForMore #MovieTime",0.22,35348,2689,1034,413,0.1171,1,2025-06-08,10:38:00,1171,LOW,SMALL,5
+725,LinkedIn,video,Education,EN,FR,"2025-11-17 14:04:00","#AcademicSuccess #Certification #Learning #StudyTips #Education",0.55,17781,1342,516,206,0.1162,1,2025-11-17,14:04:00,1162,LOW,SMALL,5
+726,LinkedIn,video,Business,FR,JP,"2025-04-01 14:17:00","#Hustle #Entrepreneur #BusinessTips",-0.88,20841,260,100,40,0.0192,0,2025-04-01,14:17:00,191,LOW,SMALL,5
+727,LinkedIn,video,Business,JA,JP,"2025-02-20 09:50:00","#BusinessTips #Entrepreneur #CareerGrowth #Hustle #Leadership #StartupLife",0.46,39625,1216,467,187,0.0472,0,2025-02-20,09:50:00,472,LOW,SMALL,5
+728,LinkedIn,carousel,Lifestyle,EN,CA,"2025-08-09 03:56:00","#MindfulLiving #DailyLife #Positivity #Lifestyle #Wellness #Motivation",0.7,12569,521,200,80,0.064,0,2025-08-09,03:56:00,640,LOW,SMALL,5
+729,LinkedIn,carousel,Fashion,UR,UK,"2025-05-16 07:17:00","#FashionTips #Lookbook #OOTD #TrendingStyle #Style #Fashion",-0.15,32954,421,162,64,0.0197,0,2025-05-16,07:17:00,197,LOW,SMALL,5
+730,LinkedIn,poll,Travel,JA,MX,"2025-04-02 15:19:00","#Tourism #Wanderlust #Adventure",0.47,16191,495,190,76,0.0471,0,2025-04-02,15:19:00,471,LOW,SMALL,5
+731,LinkedIn,poll,Lifestyle,DE,AU,"2025-08-30 14:13:00","#MindfulLiving #DailyLife #Motivation #Lifestyle #Positivity #Wellness",0.23,40985,2456,944,377,0.0922,1,2025-08-30,14:13:00,922,LOW,SMALL,5
+732,LinkedIn,image,Fashion,JA,CA,"2025-08-02 08:59:00","#TrendingStyle #OOTD #FashionTips #Fashion #Style",0.61,49838,1974,759,303,0.061,0,2025-08-02,08:59:00,610,LOW,SMALL,5
+733,LinkedIn,image,Health,PT,FR,"2025-01-03 12:26:00","#Nutrition #Wellness #MentalHealth #HealthTips #Health",-0.1,44388,2564,986,394,0.0889,1,2025-01-03,12:26:00,889,LOW,SMALL,5
+734,LinkedIn,image,Education,EN,DE,"2025-08-07 10:35:00","#Education #Certification #StudyTips #AcademicSuccess #Learning #Knowledge",0.6,32436,2839,1092,436,0.1347,1,2025-08-07,10:35:00,1346,LOW,SMALL,5
+735,LinkedIn,poll,Travel,EN,FR,"2025-12-19 22:15:00","#ExploreMore #Journey #Tourism #Travel #Wanderlust",0.61,36251,1587,610,244,0.0674,0,2025-12-19,22:15:00,674,LOW,SMALL,5
+736,LinkedIn,image,Entertainment,JA,MX,"2025-02-07 15:55:00","#Funny #Trending #ShowBiz #Viral",0.66,22485,1352,520,208,0.0926,1,2025-02-07,15:55:00,926,LOW,SMALL,5
+737,LinkedIn,image,Fashion,UR,US,"2025-03-13 02:50:00","#Lookbook #OOTD #FashionTips #Style #Fashion #TrendingStyle",0.54,24737,995,383,153,0.0619,0,2025-03-13,02:50:00,619,LOW,SMALL,5
+738,LinkedIn,image,Lifestyle,EN,MX,"2025-03-03 13:51:00","#Lifestyle #Wellness #MindfulLiving #Motivation #DailyLife #Positivity",1,34044,3086,1187,474,0.1395,1,2025-03-03,13:51:00,1395,LOW,SMALL,5
+739,LinkedIn,image,Fashion,JA,UK,"2025-10-22 09:04:00","#Fashion #FashionTips #Lookbook #OOTD #TrendingStyle #Style",0.68,43609,4070,1565,626,0.1436,1,2025-10-22,09:04:00,1436,LOW,SMALL,5
+740,LinkedIn,article,Health,UR,JP,"2025-08-20 23:41:00","#Health #Wellness #Fitness #HealthTips #MentalHealth",0,20255,271,104,41,0.0206,0,2025-08-20,23:41:00,206,LOW,SMALL,5
+741,LinkedIn,carousel,Technology,EN,BR,"2025-06-15 14:37:00","#Programming #DataScience #Innovation #TechTrends #CodingLife #AI #MachineLearning",0.16,38804,931,358,143,0.037,0,2025-06-15,14:37:00,370,LOW,SMALL,5
+742,LinkedIn,video,Business,UR,MX,"2025-02-21 09:34:00","#BusinessTips #StartupLife #Leadership #Hustle #CareerGrowth",0.5,18765,607,233,93,0.0498,0,2025-02-21,09:34:00,497,LOW,SMALL,5
+743,LinkedIn,video,Education,EN,MX,"2025-08-14 15:28:00","#Certification #Education #StudyTips #Learning #AcademicSuccess #Knowledge",0.52,25936,1539,592,236,0.0913,1,2025-08-14,15:28:00,913,LOW,SMALL,5
+744,LinkedIn,article,Entertainment,ES,AU,"2025-10-24 03:48:00","#Entertainment #FollowForMore #Funny #Trending",-0.04,13516,355,136,54,0.0405,0,2025-10-24,03:48:00,405,LOW,SMALL,5
+745,LinkedIn,article,Fashion,DE,JP,"2025-05-11 15:00:00","#TrendingStyle #Lookbook #Fashion #Style #OOTD #FashionTips",0.02,43729,1431,550,220,0.0504,0,2025-05-11,15:00:00,504,LOW,SMALL,5
+746,LinkedIn,article,Health,JA,US,"2025-05-21 10:09:00","#Wellness #HealthTips #Health #MentalHealth",0.48,31789,2274,874,349,0.1101,1,2025-05-21,10:09:00,1101,LOW,SMALL,5
+747,LinkedIn,article,Food,FR,UK,"2025-07-10 05:11:00","#FoodBlog #Foodie #MustTry #Recipe",-0.15,11641,165,63,25,0.022,0,2025-07-10,05:11:00,220,LOW,SMALL,5
+748,LinkedIn,video,Lifestyle,PT,DE,"2025-05-16 00:01:00","#Lifestyle #Positivity #MindfulLiving #Motivation #Wellness",-0.96,25709,1144,440,176,0.0685,0,2025-05-16,00:01:00,685,LOW,SMALL,5
+749,LinkedIn,poll,Sports,ES,IN,"2025-01-08 10:26:00","#Sports #Basketball #Workout",-0.23,36174,1401,539,215,0.0596,0,2025-01-08,10:26:00,596,LOW,SMALL,5
+750,LinkedIn,poll,Technology,UR,JP,"2025-08-29 08:20:00","#Innovation #DataScience #Programming #AI #MachineLearning #CodingLife #TechTrends",0.71,10345,347,133,53,0.0516,0,2025-08-29,08:20:00,516,LOW,SMALL,5
+751,LinkedIn,article,Entertainment,PT,UK,"2025-11-11 10:11:00","#MovieTime #Trending #ShowBiz #FollowForMore #Funny #Viral #Entertainment",0.62,10517,631,243,97,0.0924,1,2025-11-11,10:11:00,924,LOW,SMALL,5
+752,LinkedIn,article,Health,EN,BR,"2025-04-04 09:10:00","#Fitness #Health #MentalHealth #Wellness #Nutrition #HealthTips",0.89,38827,1936,744,297,0.0767,0,2025-04-04,09:10:00,767,LOW,SMALL,5
+753,LinkedIn,video,Travel,UR,AU,"2025-08-14 14:49:00","#Wanderlust #Journey #Adventure #Tourism #ExploreMore #Travel",0.03,7324,416,160,64,0.0876,1,2025-08-14,14:49:00,876,LOW,SMALL,5
+754,LinkedIn,image,Fashion,UR,IN,"2025-07-07 09:08:00","#Style #TrendingStyle #Fashion",0.83,9277,807,310,124,0.1341,1,2025-07-07,09:08:00,1341,LOW,SMALL,5
+755,LinkedIn,image,Travel,PT,AU,"2025-02-12 16:25:00","#Adventure #Journey #ExploreMore #Travel #Wanderlust #Tourism",0.87,37889,3291,1266,506,0.1337,1,2025-02-12,16:25:00,1337,LOW,SMALL,5
+756,LinkedIn,poll,Technology,DE,AU,"2025-04-28 16:23:00","#AI #CodingLife #MachineLearning #Innovation",0.18,10964,556,214,85,0.0781,0,2025-04-28,16:23:00,781,LOW,SMALL,5
+757,LinkedIn,poll,Health,FR,UK,"2025-01-26 12:24:00","#MentalHealth #Nutrition #HealthTips #Wellness #Health #Fitness",0.55,37422,2459,946,378,0.1011,1,2025-01-26,12:24:00,1011,LOW,SMALL,5
+758,LinkedIn,video,Food,HI,US,"2025-07-30 15:48:00","#Recipe #Foodie #MustTry #FoodBlog",0.55,23964,490,188,75,0.0315,0,2025-07-30,15:48:00,315,LOW,SMALL,5
+759,LinkedIn,image,Sports,PT,IN,"2025-10-27 04:28:00","#Workout #Football #Training #Sports",0.71,35356,843,324,129,0.0367,0,2025-10-27,04:28:00,367,LOW,SMALL,5
+760,LinkedIn,poll,Travel,FR,JP,"2025-06-02 17:39:00","#Adventure #Travel #Wanderlust #Journey #ExploreMore #Tourism",-0.07,42084,1784,686,274,0.0653,0,2025-06-02,17:39:00,653,LOW,SMALL,5
+761,LinkedIn,poll,Sports,JA,UK,"2025-04-26 09:38:00","#Training #Football #Fitness #Basketball #Workout #Cricket #Sports",0.46,19363,1492,574,229,0.1186,1,2025-04-26,09:38:00,1186,LOW,SMALL,5
+762,LinkedIn,image,Lifestyle,DE,FR,"2025-12-08 11:00:00","#MindfulLiving #Positivity #DailyLife",0.53,29427,1918,738,295,0.1003,1,2025-12-08,11:00:00,1003,LOW,SMALL,5
+763,LinkedIn,article,Travel,PT,CA,"2025-09-23 21:02:00","#Travel #ExploreMore #Journey #Wanderlust #Tourism #Adventure",-0.79,39018,1688,649,259,0.0666,0,2025-09-23,21:02:00,666,LOW,SMALL,5
+764,LinkedIn,poll,Health,PT,US,"2025-06-27 14:29:00","#HealthTips #Health #MentalHealth #Fitness #Wellness #Nutrition",0.51,42321,3634,1397,559,0.1321,1,2025-06-27,14:29:00,1321,LOW,SMALL,5
+765,LinkedIn,article,Lifestyle,PT,US,"2025-08-22 08:52:00","#Motivation #MindfulLiving #DailyLife #Positivity #Wellness #Lifestyle",0.82,42602,1597,614,245,0.0577,0,2025-08-22,08:52:00,577,LOW,SMALL,5
+766,LinkedIn,video,Business,DE,FR,"2025-06-28 05:31:00","#StartupLife #Hustle #Entrepreneur",0.58,48313,1070,411,164,0.0341,0,2025-06-28,05:31:00,341,LOW,SMALL,5
+767,LinkedIn,carousel,Education,JA,MX,"2025-07-15 15:21:00","#Knowledge #Education #AcademicSuccess #StudyTips #Learning #Certification",0.59,34169,2353,905,362,0.106,1,2025-07-15,15:21:00,1060,LOW,SMALL,5
+768,LinkedIn,poll,Lifestyle,ES,FR,"2025-11-13 06:05:00","#Wellness #Positivity #Motivation #Lifestyle #DailyLife #MindfulLiving",0.95,7791,679,261,104,0.1343,1,2025-11-13,06:05:00,1343,LOW,SMALL,5
+769,LinkedIn,image,Food,HI,DE,"2025-04-26 09:35:00","#MustTry #Cooking #Food #Foodie",0.82,15350,553,212,85,0.0555,0,2025-04-26,09:35:00,555,LOW,SMALL,5
+770,LinkedIn,video,Travel,FR,MX,"2025-01-07 09:30:00","#Tourism #ExploreMore #Adventure #Journey #Travel #Wanderlust",0.93,26369,2075,798,319,0.1211,1,2025-01-07,09:30:00,1211,LOW,SMALL,5
+771,LinkedIn,image,Lifestyle,PT,DE,"2025-07-06 07:34:00","#Lifestyle #DailyLife #Motivation #Positivity #MindfulLiving",0.09,7332,577,222,88,0.1213,1,2025-07-06,07:34:00,1213,LOW,SMALL,5
+772,LinkedIn,poll,Travel,DE,IN,"2025-11-06 14:44:00","#ExploreMore #Adventure #Tourism #Journey #Travel #Wanderlust",0.7,29585,615,236,94,0.032,0,2025-11-06,14:44:00,320,LOW,SMALL,5
+773,LinkedIn,video,Technology,JA,AU,"2025-11-29 14:55:00","#MachineLearning #AI #DataScience #CodingLife #Innovation #Programming #TechTrends",-0.35,47767,2216,852,341,0.0714,0,2025-11-29,14:55:00,714,LOW,SMALL,5
+774,LinkedIn,carousel,Sports,PT,BR,"2025-12-05 14:14:00","#Training #Cricket #Basketball #Fitness #Football #Workout #Sports",-0.95,24484,895,344,137,0.0563,0,2025-12-05,14:14:00,563,LOW,SMALL,5
+775,LinkedIn,article,Food,HI,AU,"2025-07-31 23:15:00","#Foodie #MustTry #Food #Cooking #FoodBlog #Recipe",0.46,27447,1571,604,241,0.0881,1,2025-07-31,23:15:00,881,LOW,SMALL,5
+776,LinkedIn,carousel,Health,PT,JP,"2025-03-12 05:19:00","#Wellness #MentalHealth #Fitness #Nutrition #Health",0.64,15853,676,260,104,0.0657,0,2025-03-12,05:19:00,657,LOW,SMALL,5
+777,LinkedIn,article,Education,JA,IN,"2025-09-26 09:03:00","#Knowledge #Learning #Education #AcademicSuccess #Certification #StudyTips",0.58,38229,2226,856,342,0.0896,1,2025-09-26,09:03:00,896,LOW,SMALL,5
+778,LinkedIn,article,Sports,FR,CA,"2025-09-13 10:06:00","#Fitness #Cricket #Football #Training #Basketball #Sports #Workout",0.02,41768,651,250,100,0.024,0,2025-09-13,10:06:00,240,LOW,SMALL,5
+779,LinkedIn,poll,Entertainment,UR,UK,"2025-02-25 10:33:00","#Entertainment #FollowForMore #Viral #Funny",-0.17,30797,2143,824,329,0.1071,1,2025-02-25,10:33:00,1071,LOW,SMALL,5
+780,LinkedIn,poll,Health,JA,IN,"2025-12-09 14:23:00","#Wellness #MentalHealth #Nutrition #HealthTips",0.44,32485,2416,929,371,0.1144,1,2025-12-09,14:23:00,1144,LOW,SMALL,5
+781,LinkedIn,poll,Entertainment,HI,DE,"2025-09-27 15:41:00","#Trending #ShowBiz #Viral #FollowForMore",-0.05,42047,1685,648,259,0.0617,0,2025-09-27,15:41:00,617,LOW,SMALL,5
+782,LinkedIn,carousel,Health,HI,JP,"2025-01-13 14:30:00","#MentalHealth #Fitness #Nutrition #Wellness #Health #HealthTips",0.45,39500,2761,1062,424,0.1076,1,2025-01-13,14:30:00,1076,LOW,SMALL,5
+783,LinkedIn,poll,Fashion,ES,DE,"2025-01-25 09:24:00","#OOTD #FashionTips #Fashion #Lookbook",0.17,35339,2532,974,389,0.1103,1,2025-01-25,09:24:00,1103,LOW,SMALL,5
+784,LinkedIn,poll,Education,EN,BR,"2025-02-20 10:45:00","#Learning #Education #StudyTips #Certification #Knowledge",0.63,46179,1128,434,173,0.0376,0,2025-02-20,10:45:00,376,LOW,SMALL,5
+785,LinkedIn,image,Technology,FR,DE,"2025-04-01 07:58:00","#AI #MachineLearning #CodingLife #Innovation #DataScience #TechTrends",0.01,38390,2277,876,350,0.0913,1,2025-04-01,07:58:00,913,LOW,SMALL,5
+786,LinkedIn,image,Business,UR,FR,"2025-12-20 15:17:00","#CareerGrowth #StartupLife #BusinessTips #Leadership",0.43,30434,734,282,113,0.0371,0,2025-12-20,15:17:00,371,LOW,SMALL,5
+787,LinkedIn,video,Entertainment,HI,IN,"2025-03-23 15:11:00","#Trending #Viral #ShowBiz #FollowForMore #MovieTime #Funny #Entertainment",-0.07,8825,333,128,51,0.0582,0,2025-03-23,15:11:00,582,LOW,SMALL,5
+788,LinkedIn,video,Entertainment,JA,BR,"2025-03-07 09:30:00","#Entertainment #Viral #ShowBiz",-0.11,46456,2938,1130,452,0.0973,1,2025-03-07,09:30:00,973,LOW,SMALL,5
+789,LinkedIn,video,Health,DE,JP,"2025-03-15 09:59:00","#Wellness #Nutrition #Fitness #Health #MentalHealth #HealthTips",0.97,12503,576,221,88,0.071,0,2025-03-15,09:59:00,709,LOW,SMALL,5
+790,LinkedIn,video,Technology,PT,FR,"2025-03-20 16:14:00","#CodingLife #MachineLearning #DataScience #TechTrends",0.66,17107,1067,410,164,0.096,1,2025-03-20,16:14:00,960,LOW,SMALL,5
+791,LinkedIn,image,Fashion,ES,MX,"2025-10-08 01:43:00","#TrendingStyle #FashionTips #Fashion",0.5,22080,941,362,144,0.0656,0,2025-10-08,01:43:00,656,LOW,SMALL,5
+792,LinkedIn,video,Entertainment,FR,US,"2025-07-15 09:49:00","#Entertainment #Viral #ShowBiz #Funny #FollowForMore #MovieTime #Trending",0.77,30469,2706,1041,416,0.1367,1,2025-07-15,09:49:00,1366,LOW,SMALL,5
+793,LinkedIn,video,Travel,UR,DE,"2025-11-22 10:34:00","#Adventure #Journey #Wanderlust #Tourism #Travel",-0.65,17856,1010,388,155,0.0871,1,2025-11-22,10:34:00,871,LOW,SMALL,5
+794,LinkedIn,image,Technology,PT,UK,"2025-03-15 15:56:00","#Programming #MachineLearning #TechTrends #CodingLife #DataScience #Innovation #AI",-0.62,28376,991,381,152,0.0538,0,2025-03-15,15:56:00,538,LOW,SMALL,5
+795,LinkedIn,carousel,Travel,PT,JP,"2025-07-06 15:46:00","#Adventure #Journey #ExploreMore #Wanderlust #Travel #Tourism",-0.34,41558,1366,525,210,0.0506,0,2025-07-06,15:46:00,506,LOW,SMALL,5
+796,LinkedIn,carousel,Fashion,PT,DE,"2025-11-26 15:30:00","#FashionTips #TrendingStyle #OOTD",-0.14,41867,1595,613,245,0.0586,0,2025-11-26,15:30:00,586,LOW,SMALL,5
+797,LinkedIn,video,Business,DE,AU,"2025-03-22 16:11:00","#BusinessTips #Entrepreneur #CareerGrowth #StartupLife #Hustle #Leadership",-0.39,11214,540,208,83,0.0743,0,2025-03-22,16:11:00,743,LOW,SMALL,5
+798,LinkedIn,poll,Business,ES,FR,"2025-06-12 10:20:00","#Leadership #Hustle #BusinessTips #StartupLife #CareerGrowth #Entrepreneur",0.41,4457,172,66,26,0.0597,0,2025-06-12,10:20:00,597,LOW,SMALL,5
+799,LinkedIn,article,Education,DE,BR,"2025-03-19 09:04:00","#AcademicSuccess #Knowledge #StudyTips #Education #Certification",-0.06,7651,489,188,75,0.0984,1,2025-03-19,09:04:00,984,LOW,SMALL,5
+800,LinkedIn,video,Sports,ES,FR,"2025-03-02 15:35:00","#Workout #Basketball #Football #Fitness #Sports #Cricket #Training",0.42,25965,1278,491,196,0.0758,0,2025-03-02,15:35:00,758,LOW,SMALL,5
+801,LinkedIn,carousel,Sports,EN,CA,"2025-12-19 11:37:00","#Fitness #Basketball #Sports #Workout #Football #Training #Cricket",-0.2,5514,126,48,19,0.0355,0,2025-12-19,11:37:00,354,LOW,SMALL,5
+802,LinkedIn,poll,Lifestyle,PT,MX,"2025-02-26 21:40:00","#Motivation #Lifestyle #MindfulLiving #Positivity #DailyLife",0.93,28376,2811,1081,432,0.1524,1,2025-02-26,21:40:00,1524,LOW,SMALL,5
+803,LinkedIn,image,Lifestyle,FR,AU,"2025-05-24 00:20:00","#Lifestyle #DailyLife #Motivation #Wellness",0.66,3651,133,51,20,0.0566,0,2025-05-24,00:20:00,566,LOW,SMALL,5
+804,LinkedIn,carousel,Entertainment,DE,AU,"2025-01-17 09:36:00","#Trending #FollowForMore #Viral",-0.66,3358,156,60,24,0.0718,0,2025-01-17,09:36:00,718,LOW,SMALL,5
+805,LinkedIn,image,Health,DE,DE,"2025-09-20 13:45:00","#Wellness #Fitness #HealthTips #MentalHealth #Health",0.56,30482,2588,995,398,0.1307,1,2025-09-20,13:45:00,1307,LOW,SMALL,5
+806,LinkedIn,article,Education,HI,US,"2025-03-07 03:04:00","#Knowledge #Learning #Education #Certification",0.19,5942,85,32,13,0.0222,0,2025-03-07,03:04:00,222,LOW,SMALL,5
+807,LinkedIn,article,Education,HI,MX,"2025-10-26 14:55:00","#Certification #Learning #AcademicSuccess #StudyTips #Knowledge",0.85,6318,198,76,30,0.0484,0,2025-10-26,14:55:00,484,LOW,SMALL,5
+808,LinkedIn,article,Technology,PT,BR,"2025-04-18 09:20:00","#Innovation #MachineLearning #TechTrends #CodingLife #DataScience #Programming #AI",0.84,39784,3447,1326,530,0.1333,1,2025-04-18,09:20:00,1333,LOW,SMALL,5
+809,LinkedIn,article,Travel,ES,AU,"2025-01-04 10:09:00","#ExploreMore #Adventure #Travel #Wanderlust #Tourism #Journey",0.59,15923,441,169,67,0.0427,0,2025-01-04,10:09:00,427,LOW,SMALL,5
+810,LinkedIn,poll,Lifestyle,PT,AU,"2025-11-24 15:52:00","#MindfulLiving #DailyLife #Lifestyle #Motivation #Wellness",0.5,5038,98,38,15,0.0302,0,2025-11-24,15:52:00,302,LOW,SMALL,5
+811,LinkedIn,image,Technology,PT,IN,"2025-12-12 22:00:00","#CodingLife #AI #DataScience #Innovation #TechTrends #Programming #MachineLearning",-0.04,24469,1480,569,227,0.0931,1,2025-12-12,22:00:00,931,LOW,SMALL,5
+812,LinkedIn,carousel,Education,JA,UK,"2025-09-08 10:37:00","#Learning #Knowledge #StudyTips #Education",-0.04,27426,1168,449,179,0.0656,0,2025-09-08,10:37:00,656,LOW,SMALL,5
+813,LinkedIn,carousel,Travel,ES,MX,"2025-07-17 09:50:00","#Tourism #Adventure #Journey #ExploreMore #Travel",0.89,12323,356,137,54,0.0445,0,2025-07-17,09:50:00,445,LOW,SMALL,5
+814,LinkedIn,video,Business,HI,US,"2025-07-20 14:12:00","#CareerGrowth #Hustle #Entrepreneur",0.97,37000,1482,570,228,0.0617,0,2025-07-20,14:12:00,617,LOW,SMALL,5
+815,LinkedIn,video,Travel,JA,FR,"2025-08-11 05:42:00","#Wanderlust #Travel #ExploreMore",-0.36,40833,1158,445,178,0.0436,0,2025-08-11,05:42:00,436,LOW,SMALL,5
+816,LinkedIn,video,Fashion,JA,BR,"2025-08-02 14:10:00","#Lookbook #OOTD #TrendingStyle #FashionTips #Fashion",0.72,23354,1706,656,262,0.1125,1,2025-08-02,14:10:00,1125,LOW,SMALL,5
+817,LinkedIn,video,Education,JA,IN,"2025-01-10 15:13:00","#Certification #Education #Knowledge #StudyTips #AcademicSuccess",0.08,38828,2568,987,395,0.1018,1,2025-01-10,15:13:00,1018,LOW,SMALL,5
+818,LinkedIn,video,Sports,DE,CA,"2025-04-28 19:52:00","#Basketball #Cricket #Training #Sports",0.93,26175,2067,795,318,0.1215,1,2025-04-28,19:52:00,1215,LOW,SMALL,5
+819,LinkedIn,poll,Education,HI,AU,"2025-09-09 14:28:00","#Education #Knowledge #Certification #StudyTips #Learning #AcademicSuccess",0.78,22444,1001,385,154,0.0686,0,2025-09-09,14:28:00,686,LOW,SMALL,5
+820,LinkedIn,poll,Travel,ES,UK,"2025-06-13 14:56:00","#Adventure #Journey #Travel #ExploreMore #Tourism #Wanderlust",0.7,17267,1344,517,206,0.1199,1,2025-06-13,14:56:00,1199,LOW,SMALL,5
+821,LinkedIn,carousel,Technology,UR,UK,"2025-04-15 09:41:00","#Programming #TechTrends #AI #DataScience #MachineLearning #Innovation #CodingLife",0.73,39918,2037,783,313,0.0785,0,2025-04-15,09:41:00,785,LOW,SMALL,5
+822,LinkedIn,image,Entertainment,UR,JP,"2025-05-22 15:10:00","#Viral #Trending #Entertainment #Funny #FollowForMore #ShowBiz #MovieTime",0.59,48218,2120,815,326,0.0677,0,2025-05-22,15:10:00,677,LOW,SMALL,5
+823,LinkedIn,article,Health,DE,FR,"2025-04-02 09:18:00","#HealthTips #Nutrition #Health #Fitness #MentalHealth",0.16,33550,602,231,92,0.0277,0,2025-04-02,09:18:00,277,LOW,SMALL,5
+824,LinkedIn,article,Sports,ES,IN,"2025-09-25 10:48:00","#Football #Training #Sports #Basketball #Fitness",0.05,36724,635,244,97,0.0266,0,2025-09-25,10:48:00,266,LOW,SMALL,5
+825,LinkedIn,carousel,Health,ES,AU,"2025-02-15 14:07:00","#Wellness #Nutrition #Health #Fitness #MentalHealth",0.91,15779,885,340,136,0.0864,1,2025-02-15,14:07:00,864,LOW,SMALL,5
+826,LinkedIn,article,Business,FR,MX,"2025-03-12 14:48:00","#Hustle #CareerGrowth #BusinessTips #StartupLife #Entrepreneur #Leadership",0.83,28193,1716,660,264,0.0937,1,2025-03-12,14:48:00,937,LOW,SMALL,5
+827,LinkedIn,article,Business,EN,BR,"2025-04-28 09:44:00","#Leadership #StartupLife #Entrepreneur",0.49,1481,122,47,18,0.1279,1,2025-04-28,09:44:00,1279,LOW,SMALL,5
+828,LinkedIn,poll,Lifestyle,UR,AU,"2025-07-11 10:48:00","#Motivation #MindfulLiving #DailyLife #Positivity #Wellness #Lifestyle",0.57,2888,141,54,21,0.0756,0,2025-07-11,10:48:00,756,LOW,SMALL,5
+829,LinkedIn,poll,Health,FR,MX,"2025-02-27 09:59:00","#Wellness #HealthTips #Fitness #MentalHealth",0.93,20881,973,374,149,0.0717,0,2025-02-27,09:59:00,717,LOW,SMALL,5
+830,LinkedIn,article,Business,UR,BR,"2025-09-19 09:53:00","#StartupLife #Entrepreneur #CareerGrowth #Hustle",0.6,26608,1636,629,251,0.0946,1,2025-09-19,09:53:00,946,LOW,SMALL,5
+831,LinkedIn,video,Travel,JA,AU,"2025-11-02 10:39:00","#Travel #Journey #ExploreMore",0.27,1000,35,13,5,0.0544,0,2025-11-02,10:39:00,544,LOW,SMALL,5
+832,LinkedIn,carousel,Food,ES,IN,"2025-01-28 10:47:00","#Food #Cooking #Recipe #FoodBlog #MustTry",0.42,8869,325,125,50,0.0565,0,2025-01-28,10:47:00,565,LOW,SMALL,5
+833,LinkedIn,image,Travel,FR,IN,"2025-11-22 21:01:00","#Adventure #Travel #ExploreMore #Tourism #Wanderlust #Journey",0.09,37532,1184,455,182,0.0486,0,2025-11-22,21:01:00,486,LOW,SMALL,5
+834,LinkedIn,article,Food,JA,IN,"2025-12-21 09:43:00","#Food #MustTry #Recipe #Foodie #Cooking #FoodBlog",0.41,3885,242,93,37,0.0962,1,2025-12-21,09:43:00,961,LOW,SMALL,5
+835,LinkedIn,image,Lifestyle,JA,BR,"2025-05-17 14:15:00","#Positivity #Lifestyle #Wellness #Motivation #DailyLife #MindfulLiving",0.16,49662,836,321,128,0.0259,0,2025-05-17,14:15:00,259,LOW,SMALL,5
+836,LinkedIn,image,Entertainment,DE,JP,"2025-08-30 14:57:00","#MovieTime #Funny #ShowBiz #Viral #FollowForMore",-0.03,12400,622,239,95,0.0773,0,2025-08-30,14:57:00,772,LOW,SMALL,5
+837,LinkedIn,image,Travel,DE,UK,"2025-03-17 15:34:00","#Wanderlust #Tourism #Travel #Journey #Adventure #ExploreMore",0.62,31576,1584,609,243,0.0772,0,2025-03-17,15:34:00,772,LOW,SMALL,5
+838,LinkedIn,poll,Sports,EN,DE,"2025-09-17 20:38:00","#Cricket #Workout #Fitness #Training #Sports",0,28458,1998,768,307,0.1081,1,2025-09-17,20:38:00,1081,LOW,SMALL,5
+839,LinkedIn,poll,Fashion,EN,AU,"2025-02-23 14:42:00","#Lookbook #Style #OOTD #FashionTips",0.84,25466,1550,596,238,0.0937,1,2025-02-23,14:42:00,937,LOW,SMALL,5
+840,LinkedIn,carousel,Fashion,PT,BR,"2025-10-23 15:48:00","#Style #TrendingStyle #Lookbook",0.25,13342,854,328,131,0.0985,1,2025-10-23,15:48:00,985,LOW,SMALL,5
+841,LinkedIn,poll,Entertainment,JA,MX,"2025-02-06 09:48:00","#Trending #Viral #Funny #Entertainment #FollowForMore #ShowBiz",0.58,14571,428,164,65,0.0453,0,2025-02-06,09:48:00,453,LOW,SMALL,5
+842,LinkedIn,article,Entertainment,UR,JP,"2025-03-02 14:25:00","#MovieTime #Funny #Trending",0.62,20908,1012,389,155,0.0745,0,2025-03-02,14:25:00,745,LOW,SMALL,5
+843,LinkedIn,poll,Travel,EN,JP,"2025-01-17 14:16:00","#Tourism #Journey #Travel #Adventure #Wanderlust #ExploreMore",-0.66,32945,1646,633,253,0.0769,0,2025-01-17,14:16:00,769,LOW,SMALL,5
+844,LinkedIn,article,Travel,UR,AU,"2025-02-17 09:24:00","#Wanderlust #Adventure #Tourism #Travel #ExploreMore #Journey",0.82,30569,1030,396,158,0.0519,0,2025-02-17,09:24:00,519,LOW,SMALL,5
+845,LinkedIn,carousel,Entertainment,EN,MX,"2025-10-31 00:28:00","#Funny #Viral #FollowForMore",0.74,36105,2447,941,376,0.1043,1,2025-10-31,00:28:00,1043,LOW,SMALL,5
+846,LinkedIn,article,Lifestyle,HI,AU,"2025-09-09 15:54:00","#Lifestyle #Motivation #Wellness #DailyLife",0.49,6034,179,69,27,0.0458,0,2025-09-09,15:54:00,458,LOW,SMALL,5
+847,LinkedIn,carousel,Business,EN,FR,"2025-12-01 12:19:00","#Entrepreneur #StartupLife #CareerGrowth #BusinessTips",0.2,8608,178,68,27,0.032,0,2025-12-01,12:19:00,320,LOW,SMALL,5
+848,LinkedIn,video,Sports,EN,JP,"2025-09-12 15:45:00","#Workout #Football #Cricket #Sports #Fitness #Training #Basketball",0.73,28672,605,233,93,0.0325,0,2025-09-12,15:45:00,325,LOW,SMALL,5
+849,LinkedIn,article,Lifestyle,DE,JP,"2025-07-25 10:07:00","#DailyLife #Lifestyle #MindfulLiving",0.67,36777,1645,633,253,0.0689,0,2025-07-25,10:07:00,689,LOW,SMALL,5
+850,LinkedIn,image,Travel,HI,MX,"2025-10-26 09:12:00","#Wanderlust #Adventure #Tourism #Travel",0.71,1797,44,17,6,0.0379,0,2025-10-26,09:12:00,379,LOW,SMALL,5
+851,LinkedIn,image,Food,EN,UK,"2025-03-12 10:51:00","#Foodie #Recipe #FoodBlog #MustTry",0.5,37243,2319,892,356,0.0958,1,2025-03-12,10:51:00,958,LOW,SMALL,5
+852,LinkedIn,poll,Entertainment,ES,MX,"2025-09-19 09:32:00","#Funny #Viral #MovieTime",0.65,42000,1832,704,281,0.0671,0,2025-09-19,09:32:00,671,LOW,SMALL,5
+853,LinkedIn,video,Lifestyle,PT,US,"2025-08-10 14:01:00","#MindfulLiving #Motivation #Positivity #DailyLife",0.92,9344,526,202,81,0.0867,1,2025-08-10,14:01:00,867,LOW,SMALL,5
+854,LinkedIn,poll,Health,ES,BR,"2025-11-03 15:27:00","#Health #MentalHealth #Nutrition #Fitness #HealthTips #Wellness",-0.18,19178,699,269,107,0.0561,0,2025-11-03,15:27:00,561,LOW,SMALL,5
+855,LinkedIn,carousel,Education,UR,AU,"2025-11-06 14:32:00","#StudyTips #AcademicSuccess #Education #Certification #Knowledge #Learning",0.99,35913,2170,834,333,0.093,1,2025-11-06,14:32:00,930,LOW,SMALL,5
+856,LinkedIn,article,Lifestyle,UR,UK,"2025-05-28 10:59:00","#DailyLife #Wellness #MindfulLiving #Positivity #Motivation",0.6,45308,2124,817,326,0.0722,0,2025-05-28,10:59:00,722,LOW,SMALL,5
+857,LinkedIn,image,Food,PT,BR,"2025-11-10 04:49:00","#Cooking #Foodie #MustTry #Recipe #FoodBlog #Food",0.09,12364,261,100,40,0.0326,0,2025-11-10,04:49:00,325,LOW,SMALL,5
+858,LinkedIn,image,Business,FR,CA,"2025-11-21 05:51:00","#StartupLife #Entrepreneur #CareerGrowth #Leadership #Hustle #BusinessTips",0.49,40713,825,317,127,0.0312,0,2025-11-21,05:51:00,312,LOW,SMALL,5
+859,LinkedIn,article,Health,PT,US,"2025-02-04 14:29:00","#HealthTips #Fitness #MentalHealth #Health #Wellness #Nutrition",-0.43,33083,1489,572,229,0.0693,0,2025-02-04,14:29:00,693,LOW,SMALL,5
+860,LinkedIn,carousel,Health,PT,DE,"2025-03-03 09:48:00","#Health #Nutrition #Fitness",0.72,9350,726,279,111,0.1196,1,2025-03-03,09:48:00,1196,LOW,SMALL,5
+861,LinkedIn,carousel,Business,EN,CA,"2025-01-31 14:46:00","#StartupLife #CareerGrowth #Entrepreneur #BusinessTips #Hustle",0.74,18480,1654,636,254,0.1378,1,2025-01-31,14:46:00,1378,LOW,SMALL,5
+862,LinkedIn,image,Business,ES,US,"2025-10-11 10:51:00","#Entrepreneur #Leadership #BusinessTips #CareerGrowth #StartupLife #Hustle",-0.14,17134,1114,428,171,0.1001,1,2025-10-11,10:51:00,1001,LOW,SMALL,5
+863,LinkedIn,video,Business,JA,CA,"2025-03-26 07:06:00","#Entrepreneur #StartupLife #CareerGrowth",0.76,26342,1358,522,209,0.0793,0,2025-03-26,07:06:00,793,LOW,SMALL,5
+864,LinkedIn,video,Entertainment,HI,FR,"2025-12-31 10:56:00","#ShowBiz #Funny #FollowForMore #Entertainment #Trending #Viral",0.8,29616,2362,908,363,0.1227,1,2025-12-31,10:56:00,1227,LOW,SMALL,5
+865,LinkedIn,poll,Education,DE,US,"2025-09-13 15:38:00","#Knowledge #Education #Learning #Certification",0.14,12035,805,309,123,0.103,1,2025-09-13,15:38:00,1030,LOW,SMALL,5
+866,LinkedIn,video,Business,DE,DE,"2025-07-27 14:24:00","#CareerGrowth #BusinessTips #Entrepreneur #StartupLife #Leadership #Hustle",-0.19,38464,1285,494,197,0.0514,0,2025-07-27,14:24:00,514,LOW,SMALL,5
+867,LinkedIn,carousel,Technology,JA,FR,"2025-08-17 02:16:00","#MachineLearning #DataScience #CodingLife #Innovation #Programming",0.53,39370,2505,963,385,0.0979,1,2025-08-17,02:16:00,979,LOW,SMALL,5
+868,LinkedIn,poll,Fashion,FR,US,"2025-07-15 10:45:00","#Fashion #FashionTips #Lookbook #Style",0.96,30694,896,344,137,0.045,0,2025-07-15,10:45:00,450,LOW,SMALL,5
+869,LinkedIn,video,Health,UR,MX,"2025-04-28 10:04:00","#Health #HealthTips #Nutrition #Fitness",0.87,49568,1526,587,234,0.0474,0,2025-04-28,10:04:00,474,LOW,SMALL,5
+870,LinkedIn,poll,Travel,PT,MX,"2025-05-01 10:45:00","#Travel #Journey #Wanderlust",-0.11,9135,561,216,86,0.0947,1,2025-05-01,10:45:00,947,LOW,SMALL,5
+871,LinkedIn,poll,Education,ES,MX,"2025-10-01 07:00:00","#Education #Knowledge #Learning #AcademicSuccess #StudyTips",0.5,31740,844,324,129,0.0409,0,2025-10-01,07:00:00,409,LOW,SMALL,5
+872,LinkedIn,video,Business,DE,CA,"2025-05-23 15:45:00","#Hustle #Entrepreneur #Leadership",0.85,5395,520,200,80,0.1484,1,2025-05-23,15:45:00,1484,LOW,SMALL,5
+873,LinkedIn,video,Technology,UR,JP,"2025-09-28 21:25:00","#Innovation #CodingLife #TechTrends #Programming #DataScience #MachineLearning #AI",0.06,27717,672,258,103,0.0373,0,2025-09-28,21:25:00,373,LOW,SMALL,5
+874,LinkedIn,carousel,Sports,EN,BR,"2025-02-07 14:07:00","#Basketball #Training #Workout #Football #Fitness #Sports #Cricket",0.85,15127,783,301,120,0.0798,0,2025-02-07,14:07:00,798,LOW,SMALL,5
+875,LinkedIn,video,Travel,ES,UK,"2025-07-22 09:57:00","#Wanderlust #Tourism #ExploreMore #Adventure #Journey #Travel",0.03,28249,2148,826,330,0.117,1,2025-07-22,09:57:00,1170,LOW,SMALL,5
+876,LinkedIn,video,Sports,HI,UK,"2025-07-11 15:56:00","#Training #Basketball #Sports #Football #Fitness #Workout #Cricket",-0.22,32421,526,202,81,0.025,0,2025-07-11,15:56:00,250,LOW,SMALL,5
+877,LinkedIn,image,Business,UR,AU,"2025-03-26 09:47:00","#Leadership #StartupLife #BusinessTips #CareerGrowth #Hustle #Entrepreneur",0.64,41168,2106,810,324,0.0787,0,2025-03-26,09:47:00,787,LOW,SMALL,5
+878,LinkedIn,poll,Education,UR,DE,"2025-01-27 18:56:00","#StudyTips #Certification #Learning #Knowledge #AcademicSuccess #Education",-0.66,44294,2110,811,324,0.0733,0,2025-01-27,18:56:00,733,LOW,SMALL,5
+879,LinkedIn,image,Sports,ES,BR,"2025-02-17 08:14:00","#Sports #Football #Training",-0.82,38309,739,284,113,0.0297,0,2025-02-17,08:14:00,297,LOW,SMALL,5
+880,LinkedIn,video,Health,UR,BR,"2025-01-01 05:02:00","#Nutrition #MentalHealth #Health #HealthTips #Wellness",-0.85,45080,1513,582,232,0.0517,0,2025-01-01,05:02:00,517,LOW,SMALL,5
+881,LinkedIn,article,Travel,DE,CA,"2025-07-10 08:35:00","#Journey #Wanderlust #ExploreMore #Tourism #Travel #Adventure",0.19,17075,499,192,76,0.045,0,2025-07-10,08:35:00,450,LOW,SMALL,5
+882,LinkedIn,article,Health,JA,UK,"2025-06-18 09:46:00","#Health #HealthTips #Fitness #Wellness #Nutrition #MentalHealth",0.91,15349,1372,527,211,0.1376,1,2025-06-18,09:46:00,1376,LOW,SMALL,5
+883,LinkedIn,video,Travel,ES,IN,"2025-12-24 14:47:00","#Tourism #ExploreMore #Wanderlust #Adventure #Travel #Journey",0.69,44442,928,357,142,0.0321,0,2025-12-24,14:47:00,320,LOW,SMALL,5
+884,LinkedIn,image,Technology,PT,FR,"2025-08-10 15:21:00","#AI #DataScience #MachineLearning #TechTrends #Innovation",-0.64,15026,477,183,73,0.0489,0,2025-08-10,15:21:00,489,LOW,SMALL,5
+885,LinkedIn,video,Lifestyle,FR,CA,"2025-03-26 14:24:00","#Lifestyle #MindfulLiving #Wellness",-0.2,36413,1398,537,215,0.0591,0,2025-03-26,14:24:00,591,LOW,SMALL,5
+886,LinkedIn,article,Sports,EN,US,"2025-08-30 10:53:00","#Workout #Training #Football #Sports #Basketball",0.59,7551,137,53,21,0.0281,0,2025-08-30,10:53:00,281,LOW,SMALL,5
+887,LinkedIn,poll,Entertainment,EN,CA,"2025-01-01 06:10:00","#ShowBiz #FollowForMore #Entertainment #Trending #MovieTime #Viral",0.72,41156,1575,606,242,0.0589,0,2025-01-01,06:10:00,589,LOW,SMALL,5
+888,LinkedIn,article,Travel,UR,MX,"2025-11-26 16:31:00","#Adventure #Wanderlust #Travel #Journey #ExploreMore #Tourism",0.89,24511,2324,894,357,0.1459,1,2025-11-26,16:31:00,1459,LOW,SMALL,5
+889,LinkedIn,image,Lifestyle,PT,FR,"2025-05-01 09:20:00","#DailyLife #Positivity #MindfulLiving #Motivation",0.45,39514,3133,1205,482,0.122,1,2025-05-01,09:20:00,1220,LOW,SMALL,5
+890,LinkedIn,video,Entertainment,JA,MX,"2025-03-18 09:21:00","#Trending #Funny #Viral #FollowForMore #MovieTime #ShowBiz #Entertainment",-0.4,45016,1936,744,297,0.0662,0,2025-03-18,09:21:00,662,LOW,SMALL,5
+891,LinkedIn,poll,Lifestyle,FR,JP,"2025-12-02 10:12:00","#Lifestyle #MindfulLiving #Wellness #DailyLife #Motivation",0.7,44144,4050,1557,623,0.1412,1,2025-12-02,10:12:00,1412,LOW,SMALL,5
+892,LinkedIn,image,Travel,ES,DE,"2025-12-29 14:55:00","#Adventure #Travel #Journey #Tourism #Wanderlust #ExploreMore",0.99,10710,218,84,33,0.0314,0,2025-12-29,14:55:00,314,LOW,SMALL,5
+893,LinkedIn,video,Business,JA,UK,"2025-04-14 13:49:00","#Hustle #StartupLife #Leadership",-0.01,1179,22,8,3,0.0304,0,2025-04-14,13:49:00,304,LOW,SMALL,5
+894,LinkedIn,poll,Business,FR,MX,"2025-06-20 23:32:00","#Leadership #CareerGrowth #Entrepreneur #Hustle #BusinessTips",0.83,36856,1466,564,225,0.0612,0,2025-06-20,23:32:00,612,LOW,SMALL,5
+895,LinkedIn,carousel,Technology,UR,DE,"2025-01-10 09:53:00","#TechTrends #Innovation #CodingLife #MachineLearning #Programming #AI",0.58,43733,3511,1350,540,0.1235,1,2025-01-10,09:53:00,1235,LOW,SMALL,5
+896,LinkedIn,video,Food,UR,FR,"2025-05-16 10:14:00","#Foodie #Recipe #Food #MustTry #FoodBlog #Cooking",-0.06,36818,2678,1030,412,0.1119,1,2025-05-16,10:14:00,1119,LOW,SMALL,5
+897,LinkedIn,article,Fashion,UR,CA,"2025-12-06 10:42:00","#OOTD #Fashion #Style #TrendingStyle #Lookbook #FashionTips",0.52,45897,2170,834,333,0.0728,0,2025-12-06,10:42:00,728,LOW,SMALL,5
+898,LinkedIn,image,Business,JA,US,"2025-02-20 14:42:00","#Hustle #StartupLife #CareerGrowth #BusinessTips #Entrepreneur",0.5,7396,533,205,82,0.111,1,2025-02-20,14:42:00,1110,LOW,SMALL,5
+899,LinkedIn,image,Lifestyle,HI,IN,"2025-03-21 00:04:00","#DailyLife #Lifestyle #Positivity #MindfulLiving #Wellness",0.9,36035,1978,761,304,0.0845,1,2025-03-21,00:04:00,845,LOW,SMALL,5
+900,LinkedIn,article,Travel,UR,IN,"2025-07-02 11:24:00","#ExploreMore #Wanderlust #Travel #Journey",0.2,6663,546,210,84,0.1264,1,2025-07-02,11:24:00,1264,LOW,SMALL,5
+901,LinkedIn,video,Sports,DE,MX,"2025-09-25 17:30:00","#Football #Sports #Training #Basketball #Fitness #Workout #Cricket",0.51,42778,2190,842,337,0.0788,0,2025-09-25,17:30:00,788,LOW,SMALL,5
+902,LinkedIn,poll,Entertainment,FR,JP,"2025-10-13 12:41:00","#Viral #Entertainment #MovieTime #FollowForMore #Funny",0.61,44553,3884,1494,597,0.1341,1,2025-10-13,12:41:00,1341,LOW,SMALL,5
+903,LinkedIn,image,Health,EN,DE,"2025-08-26 09:33:00","#Health #HealthTips #Wellness #MentalHealth #Fitness #Nutrition",0.89,42817,1823,701,280,0.0655,0,2025-08-26,09:33:00,655,LOW,SMALL,5
+904,LinkedIn,image,Fashion,PT,UK,"2025-01-20 01:42:00","#Lookbook #OOTD #TrendingStyle #Fashion",0.91,5875,570,219,87,0.1496,1,2025-01-20,01:42:00,1496,LOW,SMALL,5
+905,LinkedIn,image,Entertainment,JA,UK,"2025-06-03 09:20:00","#MovieTime #Entertainment #Viral #ShowBiz",0.46,18314,1311,504,201,0.1102,1,2025-06-03,09:20:00,1102,LOW,SMALL,5
+906,LinkedIn,image,Entertainment,ES,CA,"2025-04-19 09:03:00","#Trending #Funny #MovieTime #Entertainment #ShowBiz",0.75,46251,2747,1056,422,0.0914,1,2025-04-19,09:03:00,914,LOW,SMALL,5
+907,LinkedIn,poll,Lifestyle,HI,FR,"2025-01-21 15:42:00","#Motivation #Lifestyle #DailyLife #Wellness #MindfulLiving",-0.47,8001,487,187,75,0.0938,1,2025-01-21,15:42:00,938,LOW,SMALL,5
+908,LinkedIn,article,Travel,DE,FR,"2025-10-05 10:35:00","#Travel #Wanderlust #Adventure #Journey",0.74,7807,514,198,79,0.1015,1,2025-10-05,10:35:00,1015,LOW,SMALL,5
+909,LinkedIn,article,Travel,FR,MX,"2025-03-28 21:15:00","#Travel #ExploreMore #Wanderlust #Tourism #Journey #Adventure",0.44,14828,887,341,136,0.0921,1,2025-03-28,21:15:00,921,LOW,SMALL,5
+910,LinkedIn,carousel,Business,UR,DE,"2025-03-11 15:18:00","#Entrepreneur #Leadership #BusinessTips #StartupLife #Hustle",0.76,1095,102,39,15,0.1446,1,2025-03-11,15:18:00,1446,LOW,SMALL,5
+911,LinkedIn,carousel,Food,FR,UK,"2025-12-20 10:37:00","#MustTry #Foodie #FoodBlog",-0.08,17383,1041,400,160,0.0922,1,2025-12-20,10:37:00,922,LOW,SMALL,5
+912,LinkedIn,article,Health,ES,BR,"2025-05-22 18:41:00","#Nutrition #Health #HealthTips #Wellness",0.52,10462,272,104,41,0.0401,0,2025-05-22,18:41:00,400,LOW,SMALL,5
+913,LinkedIn,article,Education,DE,FR,"2025-07-13 21:28:00","#Education #Certification #AcademicSuccess #StudyTips #Knowledge #Learning",0.23,44404,1365,525,210,0.0473,0,2025-07-13,21:28:00,473,LOW,SMALL,5
+914,LinkedIn,carousel,Lifestyle,PT,US,"2025-05-10 15:03:00","#MindfulLiving #Positivity #Motivation",0.47,19822,500,192,77,0.0389,0,2025-05-10,15:03:00,388,LOW,SMALL,5
+915,LinkedIn,image,Sports,PT,US,"2025-08-31 16:37:00","#Football #Training #Fitness #Basketball #Sports #Cricket",0.28,18671,473,182,72,0.0391,0,2025-08-31,16:37:00,391,LOW,SMALL,5
+916,LinkedIn,video,Travel,ES,US,"2025-05-01 12:35:00","#Journey #Adventure #Travel #ExploreMore #Wanderlust #Tourism",0.56,44141,2400,923,369,0.0837,1,2025-05-01,12:35:00,837,LOW,SMALL,5
+917,LinkedIn,image,Health,EN,IN,"2025-10-18 03:57:00","#Fitness #Wellness #HealthTips #Nutrition #MentalHealth",-1,2282,54,21,8,0.0369,0,2025-10-18,03:57:00,369,LOW,SMALL,5
+918,LinkedIn,poll,Health,DE,US,"2025-09-04 09:19:00","#MentalHealth #Fitness #HealthTips #Nutrition #Health #Wellness",0.98,38041,2444,940,376,0.0989,1,2025-09-04,09:19:00,989,LOW,SMALL,5
+919,LinkedIn,article,Health,JA,CA,"2025-04-11 10:54:00","#Fitness #MentalHealth #Wellness #Nutrition #HealthTips",0.66,37859,637,245,98,0.0259,0,2025-04-11,10:54:00,259,LOW,SMALL,5
+920,LinkedIn,article,Entertainment,ES,BR,"2025-07-30 06:26:00","#MovieTime #Entertainment #ShowBiz #FollowForMore #Trending #Funny #Viral",-0.09,7347,109,42,16,0.023,0,2025-07-30,06:26:00,230,LOW,SMALL,5
+921,LinkedIn,article,Food,PT,IN,"2025-05-24 14:05:00","#Foodie #FoodBlog #Food #Recipe #MustTry",0.07,42229,3189,1226,490,0.1162,1,2025-05-24,14:05:00,1162,LOW,SMALL,5
+922,LinkedIn,video,Technology,JA,UK,"2025-10-05 09:52:00","#Programming #TechTrends #DataScience #AI",0.75,38727,1472,566,226,0.0585,0,2025-10-05,09:52:00,585,LOW,SMALL,5
+923,LinkedIn,carousel,Education,DE,JP,"2025-10-12 00:06:00","#AcademicSuccess #Learning #Knowledge #Certification #StudyTips #Education",0.43,12756,370,142,57,0.0447,0,2025-10-12,00:06:00,446,LOW,SMALL,5
+924,LinkedIn,video,Business,ES,UK,"2025-08-24 15:39:00","#BusinessTips #Hustle #Entrepreneur #CareerGrowth",0.93,20634,1774,682,273,0.1323,1,2025-08-24,15:39:00,1323,LOW,SMALL,5
+925,LinkedIn,carousel,Sports,HI,MX,"2025-08-31 10:02:00","#Fitness #Workout #Basketball #Sports #Cricket #Football #Training",0.65,29483,982,378,151,0.0513,0,2025-08-31,10:02:00,513,LOW,SMALL,5
+926,LinkedIn,video,Lifestyle,DE,JP,"2025-03-22 19:42:00","#DailyLife #Positivity #Wellness #Lifestyle #MindfulLiving #Motivation",0.76,49065,3909,1503,601,0.1226,1,2025-03-22,19:42:00,1226,LOW,SMALL,5
+927,LinkedIn,article,Business,PT,UK,"2025-07-12 14:55:00","#BusinessTips #Entrepreneur #Hustle #CareerGrowth #StartupLife #Leadership",0.79,47691,3595,1382,553,0.116,1,2025-07-12,14:55:00,1160,LOW,SMALL,5
+928,LinkedIn,video,Technology,ES,AU,"2025-04-29 07:32:00","#Innovation #AI #MachineLearning #CodingLife #Programming #TechTrends #DataScience",0.73,12685,245,94,37,0.0297,0,2025-04-29,07:32:00,297,LOW,SMALL,5
+929,LinkedIn,carousel,Business,ES,BR,"2025-12-24 16:39:00","#BusinessTips #CareerGrowth #Hustle #StartupLife #Entrepreneur #Leadership",0.57,23130,404,155,62,0.0269,0,2025-12-24,16:39:00,269,LOW,SMALL,5
+930,LinkedIn,article,Technology,EN,US,"2025-02-12 09:44:00","#TechTrends #AI #Programming #DataScience",0.78,40640,735,283,113,0.0279,0,2025-02-12,09:44:00,279,LOW,SMALL,5
+931,LinkedIn,video,Education,DE,FR,"2025-12-11 14:16:00","#Learning #AcademicSuccess #Education #Knowledge",0.72,19820,1082,416,166,0.084,1,2025-12-11,14:16:00,840,LOW,SMALL,5
+932,LinkedIn,article,Sports,ES,UK,"2025-09-14 01:24:00","#Sports #Cricket #Basketball #Workout #Training #Football",0.4,18123,1431,550,220,0.1216,1,2025-09-14,01:24:00,1216,LOW,SMALL,5
+933,LinkedIn,carousel,Education,DE,IN,"2025-07-05 08:09:00","#StudyTips #AcademicSuccess #Learning #Certification #Education #Knowledge",0.06,22079,832,320,128,0.058,0,2025-07-05,08:09:00,580,LOW,SMALL,5
+934,LinkedIn,article,Education,UR,MX,"2025-10-23 09:45:00","#Certification #StudyTips #Learning",0.54,40459,3226,1241,496,0.1227,1,2025-10-23,09:45:00,1227,LOW,SMALL,5
+935,LinkedIn,poll,Travel,DE,US,"2025-11-16 16:08:00","#Travel #Wanderlust #Journey",-0.22,17568,1103,424,169,0.0967,1,2025-11-16,16:08:00,966,LOW,SMALL,5
+936,LinkedIn,article,Fashion,EN,UK,"2025-11-17 20:35:00","#TrendingStyle #Style #FashionTips #Lookbook #Fashion #OOTD",0.55,45105,906,348,139,0.0309,0,2025-11-17,20:35:00,309,LOW,SMALL,5
+937,LinkedIn,carousel,Food,UR,MX,"2025-09-25 14:19:00","#Food #Foodie #Recipe #Cooking",0.83,35624,1824,701,280,0.0788,0,2025-09-25,14:19:00,788,LOW,SMALL,5
+938,LinkedIn,article,Lifestyle,UR,IN,"2025-08-25 12:40:00","#DailyLife #Motivation #Wellness #MindfulLiving #Lifestyle #Positivity",0.54,45286,1946,748,299,0.0661,0,2025-08-25,12:40:00,661,LOW,SMALL,5
+939,LinkedIn,poll,Sports,UR,BR,"2025-01-12 15:19:00","#Training #Football #Workout #Sports #Basketball #Cricket",0.73,33831,1926,741,296,0.0876,1,2025-01-12,15:19:00,876,LOW,SMALL,5
+940,LinkedIn,image,Education,ES,JP,"2025-11-09 01:44:00","#Learning #Knowledge #Certification #Education #StudyTips",0.53,24269,720,277,110,0.0457,0,2025-11-09,01:44:00,457,LOW,SMALL,5
+941,LinkedIn,poll,Lifestyle,DE,IN,"2025-07-22 04:06:00","#Lifestyle #Wellness #Positivity",0.83,9111,550,211,84,0.093,1,2025-07-22,04:06:00,930,LOW,SMALL,5
+942,LinkedIn,poll,Business,FR,CA,"2025-02-16 06:13:00","#CareerGrowth #StartupLife #Entrepreneur #BusinessTips",0.23,48406,930,358,143,0.0296,0,2025-02-16,06:13:00,296,LOW,SMALL,5
+943,LinkedIn,article,Food,JA,DE,"2025-07-19 15:46:00","#Food #MustTry #Foodie #FoodBlog #Cooking #Recipe",0.6,28198,674,259,103,0.0368,0,2025-07-19,15:46:00,368,LOW,SMALL,5
+944,LinkedIn,video,Food,EN,BR,"2025-12-19 15:44:00","#Cooking #MustTry #Food #FoodBlog #Foodie #Recipe",0.14,26674,1025,394,157,0.0592,0,2025-12-19,15:44:00,592,LOW,SMALL,5
+945,LinkedIn,image,Sports,EN,IN,"2025-06-09 03:33:00","#Training #Cricket #Football #Sports #Workout #Fitness #Basketball",0.72,23475,1925,740,296,0.1262,1,2025-06-09,03:33:00,1262,LOW,SMALL,5
+946,LinkedIn,poll,Sports,PT,BR,"2025-03-29 05:38:00","#Cricket #Fitness #Sports #Workout #Basketball #Football #Training",0.45,17721,1482,570,228,0.1287,1,2025-03-29,05:38:00,1287,LOW,SMALL,5
+947,LinkedIn,image,Sports,PT,US,"2025-07-07 10:31:00","#Basketball #Training #Sports #Cricket #Workout #Football",0.91,3762,355,136,54,0.1456,1,2025-07-07,10:31:00,1456,LOW,SMALL,5
+948,LinkedIn,article,Fashion,FR,DE,"2025-07-19 09:24:00","#Lookbook #TrendingStyle #Fashion #Style",-0.81,12502,594,228,91,0.0732,0,2025-07-19,09:24:00,732,LOW,SMALL,5
+949,LinkedIn,image,Education,DE,US,"2025-08-09 10:36:00","#StudyTips #Certification #AcademicSuccess",0.12,10345,572,220,88,0.0851,1,2025-08-09,10:36:00,851,LOW,SMALL,5
+950,LinkedIn,poll,Lifestyle,UR,US,"2025-03-01 09:28:00","#Motivation #MindfulLiving #DailyLife #Positivity",0.26,49277,3775,1452,580,0.1179,1,2025-03-01,09:28:00,1179,LOW,SMALL,5
+951,LinkedIn,video,Health,EN,BR,"2025-04-30 19:07:00","#Health #Fitness #MentalHealth",0.41,4112,211,81,32,0.0794,0,2025-04-30,19:07:00,794,LOW,SMALL,5
+952,LinkedIn,poll,Food,HI,UK,"2025-05-27 09:28:00","#FoodBlog #Foodie #Recipe #Cooking #MustTry",0.09,25632,1829,703,281,0.1098,1,2025-05-27,09:28:00,1098,LOW,SMALL,5
+953,LinkedIn,image,Fashion,JA,IN,"2025-09-25 14:24:00","#FashionTips #Style #Lookbook #TrendingStyle #Fashion #OOTD",0.7,21289,1288,495,198,0.0931,1,2025-09-25,14:24:00,931,LOW,SMALL,5
+954,LinkedIn,video,Sports,FR,IN,"2025-04-05 07:49:00","#Training #Basketball #Workout #Sports",0.82,37563,2046,787,314,0.0839,1,2025-04-05,07:49:00,839,LOW,SMALL,5
+955,LinkedIn,carousel,Entertainment,JA,FR,"2025-01-16 05:13:00","#Funny #MovieTime #Viral #ShowBiz #FollowForMore",0.76,24711,1676,644,257,0.1044,1,2025-01-16,05:13:00,1044,LOW,SMALL,5
+956,LinkedIn,poll,Sports,EN,UK,"2025-01-02 13:07:00","#Workout #Cricket #Training #Basketball",0.73,10649,510,196,78,0.0739,0,2025-01-02,13:07:00,738,LOW,SMALL,5
+957,LinkedIn,image,Fashion,ES,FR,"2025-12-05 15:24:00","#TrendingStyle #Fashion #Style #FashionTips #Lookbook",-0.15,45936,3085,1186,474,0.1034,1,2025-12-05,15:24:00,1034,LOW,SMALL,5
+958,LinkedIn,video,Fashion,DE,CA,"2025-06-22 03:53:00","#OOTD #TrendingStyle #Style #Fashion",0.86,34359,1325,509,203,0.0594,0,2025-06-22,03:53:00,594,LOW,SMALL,5
+959,LinkedIn,article,Technology,ES,JP,"2025-04-25 15:25:00","#AI #Programming #CodingLife #TechTrends #DataScience #Innovation",0.8,41100,1771,681,272,0.0663,0,2025-04-25,15:25:00,663,LOW,SMALL,5
+960,LinkedIn,article,Technology,HI,FR,"2025-09-28 14:18:00","#Innovation #AI #DataScience #CodingLife #MachineLearning #Programming #TechTrends",0.06,39172,2978,1145,458,0.117,1,2025-09-28,14:18:00,1170,LOW,SMALL,5
+961,LinkedIn,carousel,Sports,EN,DE,"2025-04-23 08:57:00","#Basketball #Training #Cricket #Football #Fitness #Sports",0.97,10157,789,303,121,0.1195,1,2025-04-23,08:57:00,1195,LOW,SMALL,5
+962,LinkedIn,carousel,Sports,ES,DE,"2025-01-10 09:55:00","#Workout #Training #Basketball #Cricket #Sports #Football",0.96,5377,436,167,67,0.1248,1,2025-01-10,09:55:00,1248,LOW,SMALL,5
+963,LinkedIn,image,Technology,PT,AU,"2025-12-12 09:12:00","#TechTrends #MachineLearning #AI #CodingLife",-0.72,47852,2756,1060,424,0.0886,1,2025-12-12,09:12:00,886,LOW,SMALL,5
+964,LinkedIn,video,Education,PT,IN,"2025-08-28 09:00:00","#Education #Learning #AcademicSuccess #Knowledge",0.63,15343,1126,433,173,0.113,1,2025-08-28,09:00:00,1130,LOW,SMALL,5
+965,LinkedIn,video,Fashion,DE,MX,"2025-08-28 14:07:00","#Style #TrendingStyle #Fashion #OOTD",0.58,39833,757,291,116,0.0293,0,2025-08-28,14:07:00,293,LOW,SMALL,5
+966,LinkedIn,video,Food,DE,US,"2025-03-14 09:02:00","#Recipe #Cooking #FoodBlog",-0.79,14427,630,242,97,0.0673,0,2025-03-14,09:02:00,673,LOW,SMALL,5
+967,LinkedIn,article,Health,JA,AU,"2025-02-25 14:50:00","#Nutrition #HealthTips #Wellness #Health #Fitness #MentalHealth",0.12,33215,2447,941,376,0.1134,1,2025-02-25,14:50:00,1134,LOW,SMALL,5
+968,LinkedIn,poll,Fashion,ES,IN,"2025-11-18 15:36:00","#OOTD #TrendingStyle #FashionTips #Fashion #Style #Lookbook",0.07,8535,593,228,91,0.107,1,2025-11-18,15:36:00,1070,LOW,SMALL,5
+969,LinkedIn,video,Fashion,DE,FR,"2025-01-15 15:01:00","#Lookbook #FashionTips #TrendingStyle #Style #Fashion #OOTD",0.44,33536,1075,413,165,0.0493,0,2025-01-15,15:01:00,492,LOW,SMALL,5
+970,LinkedIn,carousel,Fashion,ES,US,"2025-07-06 12:09:00","#Lookbook #Style #FashionTips",0.61,45163,1247,479,191,0.0425,0,2025-07-06,12:09:00,425,LOW,SMALL,5
+971,LinkedIn,carousel,Education,EN,DE,"2025-10-04 03:16:00","#AcademicSuccess #Education #Learning #Knowledge #StudyTips #Certification",-0.88,38215,1092,420,168,0.044,0,2025-10-04,03:16:00,440,LOW,SMALL,5
+972,LinkedIn,carousel,Food,EN,AU,"2025-10-30 14:27:00","#FoodBlog #MustTry #Cooking #Recipe #Food #Foodie",0.95,22684,1891,727,291,0.1283,1,2025-10-30,14:27:00,1283,LOW,SMALL,5
+973,LinkedIn,poll,Business,PT,CA,"2025-12-21 14:08:00","#Leadership #StartupLife #BusinessTips #Hustle #CareerGrowth",0.67,36762,2029,780,312,0.085,1,2025-12-21,14:08:00,850,LOW,SMALL,5
+974,LinkedIn,article,Travel,HI,DE,"2025-04-02 15:24:00","#Adventure #ExploreMore #Journey #Travel #Tourism #Wanderlust",0.45,41240,801,308,123,0.0299,0,2025-04-02,15:24:00,299,LOW,SMALL,5
+975,LinkedIn,carousel,Travel,JA,FR,"2025-10-05 15:31:00","#Adventure #Journey #Wanderlust #Tourism #Travel #ExploreMore",-0.97,43159,1456,560,224,0.0519,0,2025-10-05,15:31:00,519,LOW,SMALL,5
+976,LinkedIn,poll,Technology,PT,MX,"2025-12-16 07:03:00","#DataScience #AI #Programming #TechTrends #MachineLearning #Innovation #CodingLife",0.42,9180,247,95,38,0.0414,0,2025-12-16,07:03:00,414,LOW,SMALL,5
+977,LinkedIn,poll,Sports,DE,DE,"2025-05-18 15:37:00","#Fitness #Training #Football #Cricket #Sports #Basketball",0.48,35911,2508,964,385,0.1075,1,2025-05-18,15:37:00,1075,LOW,SMALL,5
+978,LinkedIn,image,Health,FR,BR,"2025-10-07 18:21:00","#Wellness #Fitness #Health #HealthTips #Nutrition #MentalHealth",0.6,32673,946,364,145,0.0446,0,2025-10-07,18:21:00,446,LOW,SMALL,5
+979,LinkedIn,image,Health,ES,CA,"2025-03-29 10:14:00","#HealthTips #Nutrition #Fitness #Health #MentalHealth",0.27,7960,424,163,65,0.0821,1,2025-03-29,10:14:00,821,LOW,SMALL,5
+980,LinkedIn,carousel,Education,DE,US,"2025-11-27 14:54:00","#Knowledge #Learning #Certification #Education #StudyTips #AcademicSuccess",0.52,42164,2607,1003,401,0.0952,1,2025-11-27,14:54:00,952,LOW,SMALL,5
+981,LinkedIn,poll,Food,HI,IN,"2025-09-04 10:12:00","#MustTry #Cooking #Foodie #Recipe #Food #FoodBlog",-0.09,21157,385,148,59,0.028,0,2025-09-04,10:12:00,280,LOW,SMALL,5
+982,LinkedIn,image,Travel,HI,DE,"2025-06-17 10:11:00","#ExploreMore #Adventure #Tourism #Journey #Travel",0.66,21795,416,160,64,0.0294,0,2025-06-17,10:11:00,294,LOW,SMALL,5
+983,LinkedIn,poll,Lifestyle,ES,IN,"2025-05-26 02:49:00","#DailyLife #Positivity #Wellness #Motivation #Lifestyle",0.71,37797,774,298,119,0.0316,0,2025-05-26,02:49:00,316,LOW,SMALL,5
+984,LinkedIn,video,Travel,EN,UK,"2025-07-04 14:10:00","#Wanderlust #ExploreMore #Tourism #Adventure",0.59,39244,2120,815,326,0.0831,1,2025-07-04,14:10:00,830,LOW,SMALL,5
+985,LinkedIn,carousel,Fashion,JA,UK,"2025-06-02 04:45:00","#FashionTips #OOTD #Lookbook #TrendingStyle #Style",0.01,24836,1613,620,248,0.1,1,2025-06-02,04:45:00,1000,LOW,SMALL,5
+986,LinkedIn,image,Food,UR,MX,"2025-09-15 09:51:00","#Recipe #Cooking #Food #MustTry #FoodBlog #Foodie",0.88,25412,1751,673,269,0.1061,1,2025-09-15,09:51:00,1061,LOW,SMALL,5
+987,LinkedIn,poll,Business,HI,BR,"2025-03-09 03:20:00","#BusinessTips #Entrepreneur #Hustle #Leadership #StartupLife",0.71,42511,2791,1073,429,0.101,1,2025-03-09,03:20:00,1010,LOW,SMALL,5
+988,LinkedIn,poll,Sports,HI,UK,"2025-06-05 15:37:00","#Workout #Basketball #Fitness #Training #Football #Sports #Cricket",0.78,29905,2204,848,339,0.1134,1,2025-06-05,15:37:00,1134,LOW,SMALL,5
+989,LinkedIn,image,Health,ES,US,"2025-03-08 10:18:00","#Health #HealthTips #Wellness #Nutrition",0.2,7937,512,197,78,0.0993,1,2025-03-08,10:18:00,993,LOW,SMALL,5
+990,LinkedIn,video,Entertainment,ES,BR,"2025-11-07 09:19:00","#Entertainment #ShowBiz #FollowForMore #MovieTime #Funny #Trending #Viral",0.5,48025,2702,1039,415,0.0866,1,2025-11-07,09:19:00,866,LOW,SMALL,5
+991,LinkedIn,image,Technology,ES,JP,"2025-07-26 09:29:00","#Programming #MachineLearning #DataScience #TechTrends",0.56,24801,1434,551,220,0.089,1,2025-07-26,09:29:00,890,LOW,SMALL,5
+992,LinkedIn,image,Travel,ES,FR,"2025-03-21 01:09:00","#Travel #ExploreMore #Tourism #Adventure #Journey #Wanderlust",0.73,12904,938,361,144,0.1119,1,2025-03-21,01:09:00,1119,LOW,SMALL,5
+993,LinkedIn,article,Travel,ES,IN,"2025-08-23 06:50:00","#Journey #Adventure #ExploreMore #Travel #Tourism #Wanderlust",0.75,38150,3370,1296,518,0.1359,1,2025-08-23,06:50:00,1359,LOW,SMALL,5
+994,LinkedIn,video,Health,ES,IN,"2025-08-07 21:37:00","#Nutrition #Fitness #Wellness",0.49,11915,466,179,71,0.0602,0,2025-08-07,21:37:00,602,LOW,SMALL,5
+995,LinkedIn,image,Business,FR,DE,"2025-10-12 08:07:00","#Hustle #CareerGrowth #Leadership #BusinessTips #StartupLife #Entrepreneur",0.97,38423,1717,660,264,0.0688,0,2025-10-12,08:07:00,688,LOW,SMALL,5
+996,LinkedIn,image,Food,JA,CA,"2025-03-01 15:52:00","#Recipe #Food #Foodie #Cooking #FoodBlog #MustTry",0.43,17153,1090,419,167,0.0979,1,2025-03-01,15:52:00,979,LOW,SMALL,5
+997,LinkedIn,poll,Travel,JA,IN,"2025-04-20 14:37:00","#ExploreMore #Adventure #Journey #Travel #Wanderlust #Tourism",0.62,48789,3725,1432,573,0.1175,1,2025-04-20,14:37:00,1175,LOW,SMALL,5
+998,LinkedIn,article,Fashion,FR,MX,"2025-01-20 08:35:00","#FashionTips #TrendingStyle #Lookbook #Style #Fashion #OOTD",0.61,16518,1063,409,163,0.0991,1,2025-01-20,08:35:00,990,LOW,SMALL,5
+999,LinkedIn,carousel,Technology,EN,BR,"2025-01-09 14:59:00","#CodingLife #AI #Innovation #DataScience #Programming #MachineLearning",0.9,11682,1112,428,171,0.1466,1,2025-01-09,14:59:00,1466,LOW,SMALL,5
+1000,LinkedIn,poll,Entertainment,EN,MX,"2025-11-26 14:01:00","#Trending #Viral #FollowForMore",0.92,34513,1124,432,173,0.0501,0,2025-11-26,14:01:00,501,LOW,SMALL,5
